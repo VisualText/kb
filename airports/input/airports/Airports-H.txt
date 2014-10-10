@@ -1,0 +1,2750 @@
+<!-- https://en.wikipedia.org/wiki/List_of_airports_by_IATA_code:_H -->
+<!DOCTYPE HTML>
+<!DOCTYPE html PUBLIC "" ""><HTML class="client-nojs" lang="en" 
+dir="ltr"><HEAD><META content="IE=11.0000" http-equiv="X-UA-Compatible">
+ 
+<META charset="UTF-8"> <TITLE>List of airports by IATA code: H - Wikipedia, the 
+free encyclopedia</TITLE> 
+<META name="generator" content="MediaWiki 1.25wmf1"> <LINK href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/List_of_airports_by_IATA_code:_H" 
+rel="alternate"> <LINK title="Edit this page" href="/w/index.php?title=List_of_airports_by_IATA_code:_H&amp;action=edit" 
+rel="alternate" type="application/x-wiki"> <LINK title="Edit this page" href="/w/index.php?title=List_of_airports_by_IATA_code:_H&amp;action=edit" 
+rel="edit"> <LINK href="//bits.wikimedia.org/apple-touch/wikipedia.png" rel="apple-touch-icon"> 
+<LINK href="//bits.wikimedia.org/favicon/wikipedia.ico" rel="shortcut icon"> 
+<LINK title="Wikipedia (en)" href="/w/opensearch_desc.php" rel="search" type="application/opensearchdescription+xml"> 
+<LINK href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"> 
+<LINK href="/wiki/List_of_airports_by_IATA_code:_H" rel="alternate" hreflang="x-default"> 
+<LINK href="//creativecommons.org/licenses/by-sa/3.0/" rel="copyright"> <LINK 
+title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" 
+rel="alternate" type="application/atom+xml"> <LINK href="http://en.wikipedia.org/wiki/List_of_airports_by_IATA_code:_H" 
+rel="canonical"> <LINK href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cteahouse%7Cext.uls.nojs%7Cext.visualEditor.viewPageTarget.noscript%7Cext.wikihiero%2CwikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector&amp;*" 
+rel="stylesheet"> 
+<META name="ResourceLoaderDynamicStyles" content=""> <LINK href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" 
+rel="stylesheet"> 
+<STYLE>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:3904d24a08aa08f6a68dc338f9be277e */</STYLE>
+ 
+<SCRIPT src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></SCRIPT>
+ 
+<SCRIPT>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"List_of_airports_by_IATA_code:_H","wgTitle":"List of airports by IATA code: H","wgCurRevisionId":624213776,"wgRevisionId":624213776,"wgArticleId":317106,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Lists of airports by IATA code"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"List_of_airports_by_IATA_code:_H","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":false,"previewDialog":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"isPageWatched":false,"pageLanguageCode":"en","pageLanguageDir":"ltr","svgMaxSize":4096,"namespacesWithSubpages":{"6":0,"8":0,"1":true,"2":true,"3":true,"4":true,"5":true,"7":true,"9":true,"10":true,"11":true,"12":true,"13":true,"14":true,"15":true,"100":true,"101":true,"102":true,"103":true,"104":true,"105":true,"106":true,"107":true,"108":true,"109":true,"110":true,"111":true,"447":true,"2600":false,"828":true,"829":true}},"wikilove-recipient":"","wikilove-anon":0,"wgGuidedTourHelpGuiderUrl":"Help:Guided tours/guider","wgHHVMStart":1412726400000,"wgULSAcceptLanguageList":["en-gb"],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q1570868"});
+}</SCRIPT>
+
+<SCRIPT>if(window.mw){
+mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"editfont":"default","editondblclick":0,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nickname":"","norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rows":25,"showhiddencats":false,"shownumberswatching":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"watchrollback":0,
+"wllimit":250,"useeditwarning":1,"prefershttps":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"visualeditor-enable":0,"visualeditor-betatempdisable":0,"visualeditor-enable-experimental":0,"visualeditor-enable-language":0,"visualeditor-hidebetawelcome":0,"wikilove-enabled":1,"mathJax":false,"echo-subscriptions-web-page-review":true,"echo-subscriptions-email-page-review":false,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"echo-subscriptions-web-education-program":true,"echo-subscriptions-email-education-program":false,"echo-notify-show-link":true,"echo-show-alert":true,"echo-email-frequency":0,"echo-email-format":"html","echo-subscriptions-email-system":true,"echo-subscriptions-web-system":true,"echo-subscriptions-email-user-rights":true,"echo-subscriptions-web-user-rights":true,"echo-subscriptions-email-other":false,
+"echo-subscriptions-web-other":true,"echo-subscriptions-email-edit-user-talk":false,"echo-subscriptions-web-edit-user-talk":true,"echo-subscriptions-email-reverted":false,"echo-subscriptions-web-reverted":true,"echo-subscriptions-email-article-linked":false,"echo-subscriptions-web-article-linked":false,"echo-subscriptions-email-mention":false,"echo-subscriptions-web-mention":true,"echo-subscriptions-web-edit-thank":true,"echo-subscriptions-email-edit-thank":false,"echo-subscriptions-web-flow-discussion":true,"echo-subscriptions-email-flow-discussion":false,"gettingstarted-task-toolbar-show-intro":true,"uls-preferences":"","multimediaviewer-enable":true,"language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":
+false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs118":false,"searchNs119":false,"searchNs446":false,"searchNs447":false,"searchNs710":false,"searchNs711":false,"searchNs828":false,"searchNs829":false,"searchNs2600":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,"gadget-geonotice":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-refToolbar":1,"gadget-mySandbox":1,"gadget-featured-articles-links":1,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function($,jQuery){mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\"});},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:8d55686787f352ccb6a28352f979b72d */
+}</SCRIPT>
+ 
+<SCRIPT>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","ext.visualEditor.viewPageTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+}</SCRIPT>
+ <LINK href="//meta.wikimedia.org" rel="dns-prefetch"> <!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.25wmf1/skins/Vector/csshover.min.htc")}</style><![endif]--> 
+</HEAD> 
+<BODY class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-List_of_airports_by_IATA_code_H skin-vector action-view vector-animateLayout">
+<DIV class="noprint" id="mw-page-base"></DIV>
+<DIV class="noprint" id="mw-head-base"></DIV>
+<DIV class="mw-body" id="content" role="main"><A id="top"></A>							 
+<DIV id="siteNotice"><!-- CentralNotice --></DIV>
+<H1 class="firstHeading" id="firstHeading" lang="en"><SPAN dir="auto">List of 
+airports by IATA code: H</SPAN></H1>
+<DIV class="mw-body-content" id="bodyContent">
+<DIV id="siteSub">From Wikipedia, the free encyclopedia</DIV>								 
+<DIV id="contentSub"></DIV>
+<DIV class="mw-jump" id="jump-to-nav">					Jump to:					<A 
+href="#mw-navigation">navigation</A>, 					<A href="#p-search">search</A>
+				 </DIV>
+<DIV class="mw-content-ltr" id="mw-content-text" lang="en" dir="ltr">
+<P><A title="List of airports" href="/wiki/List_of_airports">List of 
+airports</A> by <A title="International Air Transport Association airport code" 
+href="/wiki/International_Air_Transport_Association_airport_code">IATA code</A>: 
+<A title="List of airports by IATA code: A" href="/wiki/List_of_airports_by_IATA_code:_A">A</A> 
+- <A title="List of airports by IATA code: B" href="/wiki/List_of_airports_by_IATA_code:_B">B</A> 
+- <A title="List of airports by IATA code: C" href="/wiki/List_of_airports_by_IATA_code:_C">C</A> 
+- <A title="List of airports by IATA code: D" href="/wiki/List_of_airports_by_IATA_code:_D">D</A> 
+- <A title="List of airports by IATA code: E" href="/wiki/List_of_airports_by_IATA_code:_E">E</A> 
+- <A title="List of airports by IATA code: F" href="/wiki/List_of_airports_by_IATA_code:_F">F</A> 
+- <A title="List of airports by IATA code: G" href="/wiki/List_of_airports_by_IATA_code:_G">G</A> 
+- <STRONG class="selflink">H</STRONG> - <A title="List of airports by IATA code: I" 
+href="/wiki/List_of_airports_by_IATA_code:_I">I</A> - <A title="List of airports by IATA code: J" 
+href="/wiki/List_of_airports_by_IATA_code:_J">J</A> - <A title="List of airports by IATA code: K" 
+href="/wiki/List_of_airports_by_IATA_code:_K">K</A> - <A title="List of airports by IATA code: L" 
+href="/wiki/List_of_airports_by_IATA_code:_L">L</A> - <A title="List of airports by IATA code: M" 
+href="/wiki/List_of_airports_by_IATA_code:_M">M</A> - <A title="List of airports by IATA code: N" 
+href="/wiki/List_of_airports_by_IATA_code:_N">N</A> - <A title="List of airports by IATA code: O" 
+href="/wiki/List_of_airports_by_IATA_code:_O">O</A> - <A title="List of airports by IATA code: P" 
+href="/wiki/List_of_airports_by_IATA_code:_P">P</A> - <A title="List of airports by IATA code: Q" 
+href="/wiki/List_of_airports_by_IATA_code:_Q">Q</A> - <A title="List of airports by IATA code: R" 
+href="/wiki/List_of_airports_by_IATA_code:_R">R</A> - <A title="List of airports by IATA code: S" 
+href="/wiki/List_of_airports_by_IATA_code:_S">S</A> - <A title="List of airports by IATA code: T" 
+href="/wiki/List_of_airports_by_IATA_code:_T">T</A> - <A title="List of airports by IATA code: U" 
+href="/wiki/List_of_airports_by_IATA_code:_U">U</A> - <A title="List of airports by IATA code: V" 
+href="/wiki/List_of_airports_by_IATA_code:_V">V</A> - <A title="List of airports by IATA code: W" 
+href="/wiki/List_of_airports_by_IATA_code:_W">W</A> - <A title="List of airports by IATA code: X" 
+href="/wiki/List_of_airports_by_IATA_code:_X">X</A> - <A title="List of airports by IATA code: Y" 
+href="/wiki/List_of_airports_by_IATA_code:_Y">Y</A> - <A title="List of airports by IATA code: Z" 
+href="/wiki/List_of_airports_by_IATA_code:_Z">Z</A></P>
+<DL>
+  <DD><I>See also: <A title="International Civil Aviation Organization airport code" 
+  href="/wiki/International_Civil_Aviation_Organization_airport_code#Prefixes">List 
+  of airports by ICAO code</A></I></DD></DL>
+<HR>
+
+<H2><SPAN class="mw-headline" id="H">H</SPAN><SPAN class="mw-editsection"><SPAN 
+class="mw-editsection-bracket">[</SPAN><A title="Edit section: H" href="/w/index.php?title=List_of_airports_by_IATA_code:_H&amp;action=edit&amp;section=1">edit</A><SPAN 
+class="mw-editsection-bracket">]</SPAN></SPAN></H2>
+<DIV class="toc plainlinks hlist" id="toc" style="clear: left;">
+<DIV id="toctitle">
+<H2><SPAN class="mw-headline" id="Contents">Contents</SPAN></H2> </DIV>
+<UL>
+  <LI><A href="#HA">HA</A> <A href="#HB">HB</A> <A href="#HC">HC</A> <A href="#HD">HD</A> 
+  <A href="#HE">HE</A> <A href="#HF">HF</A> <A href="#HG">HG</A> <A 
+  href="#HH">HH</A> <A href="#HI">HI</A> <A href="#HJ">HJ</A> <A 
+  href="#HK">HK</A> <A href="#HL">HL</A> <A href="#HM">HM</A> <A 
+  href="#HN">HN</A> <A href="#HO">HO</A> <A href="#HP">HP</A> <A 
+  href="#HQ">HQ</A> <A href="#HR">HR</A> <A href="#HS">HS</A> <A 
+  href="#HT">HT</A> <A href="#HU">HU</A> <A href="#HV">HV</A> <A 
+  href="#HW">HW</A> <A href="#HX">HX</A> <A href="#HY">HY</A> <A 
+  href="#HZ">HZ</A></LI> </UL></DIV>
+<TABLE class="wikitable sortable" style="font-size: 95%;">
+  <TBODY>
+  <TR>
+    <TH style="width: 4em; text-align: left;">IATA</TH>
+    <TH style="width: 5em; text-align: left;"><A title="International Civil Aviation Organization airport code" 
+      href="/wiki/International_Civil_Aviation_Organization_airport_code">ICAO</A></TH>
+    <TH style="text-align: left;">Airport&nbsp;name</TH>
+    <TH style="text-align: left;">Location&nbsp;served</TH></TR>
+  <TR class="sortbottom">
+    <TH style="background: rgb(221, 221, 221); text-align: left;" 
+      colspan="4"><CITE id="HA"></CITE>-HA-</TH></TR>
+  <TR>
+    <TD>HAA</TD>
+    <TD>ENHK</TD>
+    <TD><A title="Hasvik Airport" href="/wiki/Hasvik_Airport">Hasvik 
+      Airport</A></TD>
+    <TD><A title="Hasvik" href="/wiki/Hasvik">Hasvik</A>, Norway</TD></TR>
+  <TR>
+    <TD>HAB</TD>
+    <TD>KHAB</TD>
+    <TD><A title="Marion County - Rankin Fite Airport" class="mw-redirect" 
+      href="/wiki/Marion_County_-_Rankin_Fite_Airport">Marion County - Rankin 
+      Fite Airport</A></TD>
+    <TD><A title="Hamilton, Alabama" href="/wiki/Hamilton,_Alabama">Hamilton, 
+      Alabama</A>, United States</TD></TR>
+  <TR>
+    <TD>HAC</TD>
+    <TD>RJTH</TD>
+    <TD><A title="Hachijojima Airport" 
+      href="/wiki/Hachijojima_Airport">Hachijojima Airport</A> (Hachijo Jima 
+      Airport)</TD>
+    <TD><A title="Hachijojima" class="mw-redirect" 
+      href="/wiki/Hachijojima">Hachijojima</A> (Hachijo Jima), Tokyo, 
+Japan</TD></TR>
+  <TR>
+    <TD>HAD</TD>
+    <TD>ESMT</TD>
+    <TD><A title="Halmstad Airport" href="/wiki/Halmstad_Airport">Halmstad 
+      Airport</A></TD>
+    <TD><A title="Halmstad" href="/wiki/Halmstad">Halmstad</A>, Sweden</TD></TR>
+  <TR>
+    <TD>HAE</TD>
+    <TD></TD>
+    <TD><A title="Lava Falls Heliport (page does not exist)" class="new" href="/w/index.php?title=Lava_Falls_Heliport&amp;action=edit&amp;redlink=1">Lava 
+      Falls Heliport</A> (FAA: AZ15) (Havasupai Airport)</TD>
+    <TD><A title="Supai Village (page does not exist)" class="new" href="/w/index.php?title=Supai_Village&amp;action=edit&amp;redlink=1">Supai 
+      Village</A>, <A title="Arizona" href="/wiki/Arizona">Arizona</A>, United 
+      States</TD></TR>
+  <TR>
+    <TD>HAF</TD>
+    <TD>KHAF</TD>
+    <TD><A title="Half Moon Bay Airport" 
+      href="/wiki/Half_Moon_Bay_Airport">Half Moon Bay Airport</A></TD>
+    <TD><A title="Half Moon Bay, California" href="/wiki/Half_Moon_Bay,_California">Half 
+      Moon Bay, California</A>, United States</TD></TR>
+  <TR>
+    <TD>HAH</TD>
+    <TD>FMCH</TD>
+    <TD><A title="Prince Said Ibrahim International Airport" href="/wiki/Prince_Said_Ibrahim_International_Airport">Prince 
+      Said Ibrahim International Airport</A></TD>
+    <TD><A title="Moroni, Comoros" href="/wiki/Moroni,_Comoros">Moroni, 
+      Comoros</A></TD></TR>
+  <TR>
+    <TD>HAI</TD>
+    <TD>KHAI</TD>
+    <TD><A title="Three Rivers Municipal Airport (page does not exist)" class="new" 
+      href="/w/index.php?title=Three_Rivers_Municipal_Airport&amp;action=edit&amp;redlink=1">Three 
+      Rivers Municipal Airport</A> (Dr. Haines Flying Field)</TD>
+    <TD><A title="Three Rivers, Michigan" 
+      href="/wiki/Three_Rivers,_Michigan">Three Rivers, Michigan</A>, United 
+      States</TD></TR>
+  <TR>
+    <TD>HAJ</TD>
+    <TD>EDDV</TD>
+    <TD><A title="Hannover Airport" href="/wiki/Hannover_Airport">Hannover 
+      Airport</A></TD>
+    <TD><A title="Hanover" href="/wiki/Hanover">Hanover</A>, <A title="Lower Saxony" 
+      href="/wiki/Lower_Saxony">Lower Saxony</A>, Germany</TD></TR>
+  <TR>
+    <TD>HAK</TD>
+    <TD>ZJHK</TD>
+    <TD><A title="Haikou Meilan International Airport" href="/wiki/Haikou_Meilan_International_Airport">Haikou 
+      Meilan International Airport</A></TD>
+    <TD><A title="Haikou" href="/wiki/Haikou">Haikou</A>, <A title="Hainan" 
+      href="/wiki/Hainan">Hainan</A>, China</TD></TR>
+  <TR>
+    <TD>HAL</TD>
+    <TD>FYHI</TD>
+    <TD><A title="Halali Airport" href="/wiki/Halali_Airport">Halali 
+      Airport</A></TD>
+    <TD><A title="Halali, Namibia (page does not exist)" class="new" href="/w/index.php?title=Halali,_Namibia&amp;action=edit&amp;redlink=1">Halali, 
+      Namibia</A></TD></TR>
+  <TR>
+    <TD>HAM</TD>
+    <TD>EDDH</TD>
+    <TD><A title="Hamburg Airport" href="/wiki/Hamburg_Airport">Hamburg 
+      Airport</A> (Fuhlsbüttel Airport)</TD>
+    <TD><A title="Hamburg" href="/wiki/Hamburg">Hamburg</A> / <A title="Fuhlsbüttel" 
+      href="/wiki/Fuhlsb%C3%BCttel">Fuhlsbüttel</A>, Germany</TD></TR>
+  <TR>
+    <TD>HAN</TD>
+    <TD>VVNB</TD>
+    <TD><A title="Noi Bai International Airport" href="/wiki/Noi_Bai_International_Airport">Noi 
+      Bai International Airport</A></TD>
+    <TD><A title="Hanoi" href="/wiki/Hanoi">Hanoi</A>, <A title="Vietnam" 
+      href="/wiki/Vietnam">Vietnam</A></TD></TR>
+  <TR>
+    <TD>HAO</TD>
+    <TD>KHAO</TD>
+    <TD><A title="Butler County Regional Airport" href="/wiki/Butler_County_Regional_Airport">Butler 
+      County Regional Airport</A></TD>
+    <TD><A title="Hamilton, Ohio" href="/wiki/Hamilton,_Ohio">Hamilton, 
+      Ohio</A>, United States</TD></TR>
+  <TR>
+    <TD>HAP</TD>
+    <TD></TD>
+    <TD><A title="Long Island Airport" class="mw-redirect" href="/wiki/Long_Island_Airport">Long 
+      Island Airport</A></TD>
+    <TD><A title="Long Island, Queensland (page does not exist)" class="new" 
+      href="/w/index.php?title=Long_Island,_Queensland&amp;action=edit&amp;redlink=1">Long 
+      Island, Queensland</A>, Australia</TD></TR>
+  <TR>
+    <TD>HAQ</TD>
+    <TD>VRMH</TD>
+    <TD><A title="Hanimaadhoo Airport" class="mw-redirect" href="/wiki/Hanimaadhoo_Airport">Hanimaadhoo 
+      Airport</A></TD>
+    <TD><A title="Hanimaadhoo (Haa Dhaalu Atoll)" href="/wiki/Hanimaadhoo_(Haa_Dhaalu_Atoll)">Hanimaadhoo</A>, 
+      <A title="Haa Dhaalu Atoll" href="/wiki/Haa_Dhaalu_Atoll">Haa Dhaalu 
+      Atoll</A>, <A title="Maldives" href="/wiki/Maldives">Maldives</A></TD></TR>
+  <TR>
+    <TD>HAR</TD>
+    <TD>KCXY</TD>
+    <TD><A title="Capital City Airport (Pennsylvania)" href="/wiki/Capital_City_Airport_(Pennsylvania)">Capital 
+      City Airport</A> (FAA: CXY)</TD>
+    <TD><A title="Harrisburg, Pennsylvania" href="/wiki/Harrisburg,_Pennsylvania">Harrisburg, 
+      Pennsylvania</A>, United States</TD></TR>
+  <TR>
+    <TD>HAS</TD>
+    <TD>OEHL</TD>
+    <TD><A title="Ha'il Regional Airport" href="/wiki/Ha%27il_Regional_Airport">Ha'il 
+      Regional Airport</A></TD>
+    <TD><A title="Ha'il" href="/wiki/Ha%27il">Ha'il</A>, <A title="Saudi Arabia" 
+      href="/wiki/Saudi_Arabia">Saudi Arabia</A></TD></TR>
+  <TR>
+    <TD>HAT</TD>
+    <TD>YHTL</TD>
+    <TD><A title="Heathlands Airport (page does not exist)" class="new" href="/w/index.php?title=Heathlands_Airport&amp;action=edit&amp;redlink=1">Heathlands 
+      Airport</A></TD>
+    <TD><A title="Heathlands" class="mw-redirect" 
+      href="/wiki/Heathlands">Heathlands</A>, <A title="Queensland" href="/wiki/Queensland">Queensland</A>, 
+      Australia</TD></TR>
+  <TR>
+    <TD>HAU</TD>
+    <TD>ENHD</TD>
+    <TD><A title="Haugesund Airport, Karmøy" href="/wiki/Haugesund_Airport,_Karm%C3%B8y">Haugesund 
+      Airport, Karmøy</A></TD>
+    <TD><A title="Haugesund" href="/wiki/Haugesund">Haugesund</A> / <A title="Karmøy" 
+      href="/wiki/Karm%C3%B8y">Karmøy</A>, Norway</TD></TR>
+  <TR>
+    <TD>HAV</TD>
+    <TD>MUHA</TD>
+    <TD><A title="José Martí International Airport" href="/wiki/Jos%C3%A9_Mart%C3%AD_International_Airport">José 
+      Martí International Airport</A></TD>
+    <TD><A title="Havana" href="/wiki/Havana">Havana</A>, <A title="Cuba" 
+      href="/wiki/Cuba">Cuba</A></TD></TR>
+  <TR>
+    <TD>HAW</TD>
+    <TD>EGFE</TD>
+    <TD><A title="Haverfordwest Aerodrome" href="/wiki/Haverfordwest_Aerodrome">Haverfordwest 
+      Aerodrome</A></TD>
+    <TD><A title="Haverfordwest" href="/wiki/Haverfordwest">Haverfordwest</A>, 
+      <A title="Wales" href="/wiki/Wales">Wales</A>, United Kingdom</TD></TR>
+  <TR>
+    <TD>HAX</TD>
+    <TD>KHAX</TD>
+    <TD><A title="Hatbox Field" href="/wiki/Hatbox_Field">Hatbox Field</A></TD>
+    <TD><A title="Muskogee, Oklahoma" 
+      href="/wiki/Muskogee,_Oklahoma">Muskogee, Oklahoma</A>, United 
+States</TD></TR>
+  <TR>
+    <TD>HAY</TD>
+    <TD></TD>
+    <TD><A title="Haycock Airport" href="/wiki/Haycock_Airport">Haycock 
+      Airport</A></TD>
+    <TD><A title="Haycock, Alaska (page does not exist)" class="new" href="/w/index.php?title=Haycock,_Alaska&amp;action=edit&amp;redlink=1">Haycock, 
+      Alaska</A>, United States</TD></TR>
+  <TR>
+    <TD>HAZ</TD>
+    <TD></TD>
+    <TD><A title="Hatzfeldthaven Airport (page does not exist)" class="new" 
+      href="/w/index.php?title=Hatzfeldthaven_Airport&amp;action=edit&amp;redlink=1">Hatzfeldthaven 
+      Airport</A></TD>
+    <TD><A title="Hatzfeldthaven (page does not exist)" class="new" href="/w/index.php?title=Hatzfeldthaven&amp;action=edit&amp;redlink=1">Hatzfeldthaven</A>, 
+      <A title="Papua New Guinea" href="/wiki/Papua_New_Guinea">Papua New 
+      Guinea</A></TD></TR>
+  <TR class="sortbottom">
+    <TH style="background: rgb(221, 221, 221); text-align: left;" 
+      colspan="4"><CITE id="HB"></CITE>-HB-</TH></TR>
+  <TR>
+    <TD>HBA</TD>
+    <TD>YMHB</TD>
+    <TD><A title="Hobart Airport" class="mw-redirect" href="/wiki/Hobart_Airport">Hobart 
+      Airport</A></TD>
+    <TD><A title="Hobart" href="/wiki/Hobart">Hobart</A>, <A title="Tasmania" 
+      href="/wiki/Tasmania">Tasmania</A>, Australia</TD></TR>
+  <TR>
+    <TD>HBB</TD>
+    <TD></TD>
+    <TD><A title="Industrial Airpark (page does not exist)" class="new" href="/w/index.php?title=Industrial_Airpark&amp;action=edit&amp;redlink=1">Industrial 
+      Airpark</A> (FAA: NM83)</TD>
+    <TD><A title="Hobbs, New Mexico" href="/wiki/Hobbs,_New_Mexico">Hobbs, New 
+      Mexico</A>, United States</TD></TR>
+  <TR>
+    <TD>HBD</TD>
+    <TD></TD>
+    <TD><A title="Habi Airport (page does not exist)" class="new" href="/w/index.php?title=Habi_Airport&amp;action=edit&amp;redlink=1">Habi 
+      Airport</A></TD>
+    <TD><A title="Habi (page does not exist)" class="new" href="/w/index.php?title=Habi&amp;action=edit&amp;redlink=1">Habi</A>, 
+      <A title="Papua New Guinea" href="/wiki/Papua_New_Guinea">Papua New 
+      Guinea</A></TD></TR>
+  <TR>
+    <TD>HBE</TD>
+    <TD>HEBA</TD>
+    <TD><A title="Borg El Arab Airport" href="/wiki/Borg_El_Arab_Airport">Borg 
+      El Arab Airport</A></TD>
+    <TD><A title="Alexandria" href="/wiki/Alexandria">Alexandria</A> / <A 
+      title="Borg El Arab" href="/wiki/Borg_El_Arab">Borg El Arab</A>, <A title="Egypt" 
+      href="/wiki/Egypt">Egypt</A></TD></TR>
+  <TR>
+    <TD>HBG</TD>
+    <TD>KHBG</TD>
+    <TD><A title="Bobby L. Chain Municipal Airport" class="mw-redirect" href="/wiki/Bobby_L._Chain_Municipal_Airport">Bobby 
+      L. Chain Municipal Airport</A></TD>
+    <TD><A title="Hattiesburg, Mississippi" href="/wiki/Hattiesburg,_Mississippi">Hattiesburg, 
+      Mississippi</A>, United States</TD></TR>
+  <TR>
+    <TD>HBH</TD>
+    <TD></TD>
+    <TD><A title="Entrance Island Seaplane Base (page does not exist)" class="new" 
+      href="/w/index.php?title=Entrance_Island_Seaplane_Base&amp;action=edit&amp;redlink=1">Entrance 
+      Island Seaplane Base</A> (Hobart Bay) (FAA: 2Z1)</TD>
+    <TD><A title="Entrance Island, Alaska (page does not exist)" class="new" 
+      href="/w/index.php?title=Entrance_Island,_Alaska&amp;action=edit&amp;redlink=1">Entrance 
+      Island, Alaska</A>, United States</TD></TR>
+  <TR>
+    <TD>HBI</TD>
+    <TD></TD>
+    <TD><A title="Harbour Island Airport (page does not exist)" class="new" 
+      href="/w/index.php?title=Harbour_Island_Airport&amp;action=edit&amp;redlink=1">Harbour 
+      Island Airport</A></TD>
+    <TD><A title="Harbour Island, Bahamas" href="/wiki/Harbour_Island,_Bahamas">Harbour 
+      Island, Bahamas</A></TD></TR>
+  <TR>
+    <TD>HBN</TD>
+    <TD></TD>
+    <TD><A title="Phu Bon Airport (page does not exist)" class="new" href="/w/index.php?title=Phu_Bon_Airport&amp;action=edit&amp;redlink=1">Phu 
+      Bon Airport</A></TD>
+    <TD><A title="Phu Bon (page does not exist)" class="new" href="/w/index.php?title=Phu_Bon&amp;action=edit&amp;redlink=1">Phu 
+      Bon</A>, <A title="Vietnam" href="/wiki/Vietnam">Vietnam</A></TD></TR>
+  <TR>
+    <TD>HBR</TD>
+    <TD>KHBR</TD>
+    <TD><A title="Hobart Municipal Airport" class="mw-redirect" href="/wiki/Hobart_Municipal_Airport">Hobart 
+      Municipal Airport</A></TD>
+    <TD><A title="Hobart, Oklahoma" href="/wiki/Hobart,_Oklahoma">Hobart, 
+      Oklahoma</A>, United States</TD></TR>
+  <TR>
+    <TD>HBT</TD>
+    <TD></TD>
+    <TD><A title="Hambantota Sea Plane Base (page does not exist)" class="new" 
+      href="/w/index.php?title=Hambantota_Sea_Plane_Base&amp;action=edit&amp;redlink=1">Hambantota 
+      Sea Plane Base</A></TD>
+    <TD><A title="Hambantota" href="/wiki/Hambantota">Hambantota</A>, <A 
+      title="Sri Lanka" href="/wiki/Sri_Lanka">Sri Lanka</A></TD></TR>
+  <TR>
+    <TD>HBX</TD>
+    <TD>VAHB</TD>
+    <TD><A title="Hubli Airport" href="/wiki/Hubli_Airport">Hubli 
+    Airport</A></TD>
+    <TD><A title="Hubli" href="/wiki/Hubli">Hubli</A>, India</TD></TR>
+  <TR class="sortbottom">
+    <TH style="background: rgb(221, 221, 221); text-align: left;" 
+      colspan="4"><CITE id="HC"></CITE>-HC-</TH></TR>
+  <TR>
+    <TD>HCA</TD>
+    <TD></TD>
+    <TD><A title="Howard County Airport (page does not exist)" class="new" 
+      href="/w/index.php?title=Howard_County_Airport&amp;action=edit&amp;redlink=1">Howard 
+      County Airport</A></TD>
+    <TD><A title="Big Spring, Texas" href="/wiki/Big_Spring,_Texas">Big 
+      Spring, Texas</A>, United States</TD></TR>
+  <TR>
+    <TD>HCC</TD>
+    <TD></TD>
+    <TD><A title="Columbia County Airport" href="/wiki/Columbia_County_Airport">Columbia 
+      County Airport</A> (FAA: 1B1)</TD>
+    <TD><A title="Hudson, New York" href="/wiki/Hudson,_New_York">Hudson, New 
+      York</A>, United States</TD></TR>
+  <TR>
+    <TD>HCJ</TD>
+    <TD>ZGHC</TD>
+    <TD><A title="Hechi Jinchengjiang Airport" href="/wiki/Hechi_Jinchengjiang_Airport">Hechi 
+      Jinchengjiang Airport</A></TD>
+    <TD><A title="Hechi" href="/wiki/Hechi">Hechi</A>, <A title="Guangxi" 
+      href="/wiki/Guangxi">Guangxi</A>, China</TD></TR>
+  <TR>
+    <TD>HCM</TD>
+    <TD>HCME</TD>
+    <TD><A title="Eil Airport (page does not exist)" class="new" href="/w/index.php?title=Eil_Airport&amp;action=edit&amp;redlink=1">Eil 
+      Airport</A></TD>
+    <TD><A title="Eil, Somalia" class="mw-redirect" 
+      href="/wiki/Eil,_Somalia">Eil, Somalia</A></TD></TR>
+  <TR>
+    <TD>HCN</TD>
+    <TD>RCKW</TD>
+    <TD><A title="Hengchun Airport" href="/wiki/Hengchun_Airport">Hengchun 
+      Airport</A></TD>
+    <TD><A title="Hengchun" href="/wiki/Hengchun">Hengchun</A>, <A title="Taiwan" 
+      href="/wiki/Taiwan">Taiwan</A></TD></TR>
+  <TR>
+    <TD>HCW</TD>
+    <TD>KCQW</TD>
+    <TD><A title="Cheraw Municipal Airport" href="/wiki/Cheraw_Municipal_Airport">Cheraw 
+      Municipal Airport</A> / Lynch Bellinger Field (FAA: CQW)</TD>
+    <TD><A title="Cheraw, South Carolina" 
+      href="/wiki/Cheraw,_South_Carolina">Cheraw, South Carolina</A>, United 
+      States</TD></TR>
+  <TR>
+    <TD>HCQ</TD>
+    <TD>YHLC</TD>
+    <TD><A title="Halls Creek Airport" href="/wiki/Halls_Creek_Airport">Halls 
+      Creek Airport</A></TD>
+    <TD><A title="Halls Creek, Western Australia" href="/wiki/Halls_Creek,_Western_Australia">Halls 
+      Creek, Western Australia</A>, Australia</TD></TR>
+  <TR>
+    <TD>HCR</TD>
+    <TD>PAHC</TD>
+    <TD><A title="Holy Cross Airport" href="/wiki/Holy_Cross_Airport">Holy 
+      Cross Airport</A> (FAA: HCA)</TD>
+    <TD><A title="Holy Cross, Alaska" href="/wiki/Holy_Cross,_Alaska">Holy 
+      Cross, Alaska</A>, United States</TD></TR>
+  <TR class="sortbottom">
+    <TH style="background: rgb(221, 221, 221); text-align: left;" 
+      colspan="4"><CITE id="HD"></CITE>-HD-</TH></TR>
+  <TR>
+    <TD>HDB</TD>
+    <TD>EDIU</TD>
+    <TD><A title="Heidelberg Airport" 
+      href="/wiki/Heidelberg_Airport">Heidelberg Airport</A></TD>
+    <TD><A title="Heidelberg" href="/wiki/Heidelberg">Heidelberg</A>, <A 
+      title="Baden-Württemberg" 
+      href="/wiki/Baden-W%C3%BCrttemberg">Baden-Württemberg</A>, Germany</TD></TR>
+  <TR>
+    <TD>HDD</TD>
+    <TD>OPKD</TD>
+    <TD><A title="Hyderabad Airport (Pakistan)" class="mw-redirect" href="/wiki/Hyderabad_Airport_(Pakistan)">Hyderabad 
+      Airport</A></TD>
+    <TD><A title="Hyderabad, Sindh" 
+      href="/wiki/Hyderabad,_Sindh">Hyderabad</A>, Pakistan</TD></TR>
+  <TR>
+    <TD>HDE</TD>
+    <TD>KHDE</TD>
+    <TD><A title="Brewster Field (page does not exist)" class="new" href="/w/index.php?title=Brewster_Field&amp;action=edit&amp;redlink=1">Brewster 
+      Field</A></TD>
+    <TD><A title="Holdrege, Nebraska" 
+      href="/wiki/Holdrege,_Nebraska">Holdrege, Nebraska</A>, United 
+States</TD></TR>
+  <TR>
+    <TD>HDF</TD>
+    <TD>EDAH</TD>
+    <TD><A title="Heringsdorf Airport" 
+      href="/wiki/Heringsdorf_Airport">Heringsdorf Airport</A></TD>
+    <TD><A title="Heringsdorf" class="mw-redirect" 
+      href="/wiki/Heringsdorf">Heringsdorf</A>, <A title="Mecklenburg-Vorpommern" 
+      href="/wiki/Mecklenburg-Vorpommern">Mecklenburg-Vorpommern</A>, 
+  Germany</TD></TR>
+  <TR>
+    <TD>HDG</TD>
+    <TD>ZBHD</TD>
+    <TD><A title="Handan Airport" href="/wiki/Handan_Airport">Handan 
+      Airport</A></TD>
+    <TD><A title="Handan" href="/wiki/Handan">Handan</A>, <A title="Hebei" 
+      href="/wiki/Hebei">Hebei</A>, China</TD></TR>
+  <TR>
+    <TD>HDH</TD>
+    <TD>PHDH</TD>
+    <TD><A title="Dillingham Airfield" 
+      href="/wiki/Dillingham_Airfield">Dillingham Airfield</A></TD>
+    <TD><A title="Mokuleia, Hawaii" class="mw-redirect" href="/wiki/Mokuleia,_Hawaii">Mokuleia, 
+      Hawaii</A>, United States</TD></TR>
+  <TR>
+    <TD>HDM</TD>
+    <TD>OIHH</TD>
+    <TD><A title="Hamadan Airport" href="/wiki/Hamadan_Airport">Hamadan 
+      Airport</A></TD>
+    <TD><A title="Hamadan" href="/wiki/Hamadan">Hamadan</A>, <A title="Iran" 
+      href="/wiki/Iran">Iran</A></TD></TR>
+  <TR>
+    <TD>HDN</TD>
+    <TD>KHDN</TD>
+    <TD><A title="Yampa Valley Airport" 
+      href="/wiki/Yampa_Valley_Airport">Yampa Valley Airport</A></TD>
+    <TD><A title="Hayden, Colorado" href="/wiki/Hayden,_Colorado">Hayden, 
+      Colorado</A>, United States</TD></TR>
+  <TR>
+    <TD>HDO</TD>
+    <TD>KHDO</TD>
+    <TD><A title="Hondo Municipal Airport" class="mw-redirect" href="/wiki/Hondo_Municipal_Airport">Hondo 
+      Municipal Airport</A> (former Hondo AAF)</TD>
+    <TD><A title="Hondo, Texas" href="/wiki/Hondo,_Texas">Hondo, Texas</A>, 
+      United States</TD></TR>
+  <TR>
+    <TD>HDS</TD>
+    <TD>FAHS</TD>
+    <TD><A title="Hoedspruit Airport" class="mw-redirect" href="/wiki/Hoedspruit_Airport">Hoedspruit 
+      Airport</A></TD>
+    <TD><A title="Hoedspruit" href="/wiki/Hoedspruit">Hoedspruit</A>, South 
+      Africa</TD></TR>
+  <TR>
+    <TD>HDY</TD>
+    <TD>VTSS</TD>
+    <TD><A title="Hat Yai International Airport" href="/wiki/Hat_Yai_International_Airport">Hat 
+      Yai International Airport</A></TD>
+    <TD><A title="Hat Yai" href="/wiki/Hat_Yai">Hat Yai</A>, <A title="Songkhla Province" 
+      href="/wiki/Songkhla_Province">Songkhla Province</A>, <A title="Thailand" 
+      href="/wiki/Thailand">Thailand</A></TD></TR>
+  <TR class="sortbottom">
+    <TH style="background: rgb(221, 221, 221); text-align: left;" 
+      colspan="4"><CITE id="HE"></CITE>-HE-</TH></TR>
+  <TR>
+    <TD>HEA</TD>
+    <TD>OAHR</TD>
+    <TD><A title="Herat Airport" class="mw-redirect" href="/wiki/Herat_Airport">Herat 
+      Airport</A></TD>
+    <TD><A title="Herat" href="/wiki/Herat">Herat</A>, <A title="Afghanistan" 
+      href="/wiki/Afghanistan">Afghanistan</A></TD></TR>
+  <TR>
+    <TD>HEB</TD>
+    <TD>VBHD</TD>
+    <TD><A title="Henzada Airport (page does not exist)" class="new" href="/w/index.php?title=Henzada_Airport&amp;action=edit&amp;redlink=1">Henzada 
+      Airport</A></TD>
+    <TD><A title="Henzada" class="mw-redirect" 
+      href="/wiki/Henzada">Henzada</A>, <A title="Myanmar" class="mw-redirect" 
+      href="/wiki/Myanmar">Myanmar</A> (Burma)</TD></TR>
+  <TR>
+    <TD>HED</TD>
+    <TD></TD>
+    <TD><A title="Herendeen Bay Airport (page does not exist)" class="new" 
+      href="/w/index.php?title=Herendeen_Bay_Airport&amp;action=edit&amp;redlink=1">Herendeen 
+      Bay Airport</A> (FAA: AK33)</TD>
+    <TD><A title="Herendeen Bay (page does not exist)" class="new" href="/w/index.php?title=Herendeen_Bay&amp;action=edit&amp;redlink=1">Herendeen 
+      Bay</A>, <A title="Alaska" href="/wiki/Alaska">Alaska</A>, United 
+  States</TD></TR>
+  <TR>
+    <TD>HEE</TD>
+    <TD>KHEE</TD>
+    <TD><A title="Thompson-Robbins Airport" class="mw-redirect" href="/wiki/Thompson-Robbins_Airport">Thompson-Robbins 
+      Airport</A></TD>
+    <TD><A title="Helena, Arkansas" href="/wiki/Helena,_Arkansas">Helena</A> / 
+      <A title="West Helena, Arkansas" href="/wiki/West_Helena,_Arkansas">West 
+      Helena, Arkansas</A>, United States</TD></TR>
+  <TR>
+    <TD>HEF</TD>
+    <TD>KHEF</TD>
+    <TD><A title="Manassas Regional Airport" href="/wiki/Manassas_Regional_Airport">Manassas 
+      Regional Airport</A> (Harry P. Davis Field)</TD>
+    <TD><A title="Manassas, Virginia" 
+      href="/wiki/Manassas,_Virginia">Manassas, Virginia</A>, United 
+States</TD></TR>
+  <TR>
+    <TD>HEH</TD>
+    <TD>VYHH</TD>
+    <TD><A title="Heho Airport" href="/wiki/Heho_Airport">Heho Airport</A></TD>
+    <TD><A title="Heho" href="/wiki/Heho">Heho</A>, <A title="Myanmar" class="mw-redirect" 
+      href="/wiki/Myanmar">Myanmar</A> (Burma)</TD></TR>
+  <TR>
+    <TD>HEI</TD>
+    <TD>EDXB</TD>
+    <TD><A title="Heide-Büsum Airport" 
+      href="/wiki/Heide-B%C3%BCsum_Airport">Heide-Büsum Airport</A></TD>
+    <TD><A title="Heide" href="/wiki/Heide">Heide</A>, <A title="Schleswig-Holstein" 
+      href="/wiki/Schleswig-Holstein">Schleswig-Holstein</A>, Germany</TD></TR>
+  <TR>
+    <TD>HEK</TD>
+    <TD>ZYHE</TD>
+    <TD><A title="Heihe Airport" href="/wiki/Heihe_Airport">Heihe 
+    Airport</A></TD>
+    <TD><A title="Heihe" href="/wiki/Heihe">Heihe</A>, <A title="Heilongjiang" 
+      href="/wiki/Heilongjiang">Heilongjiang</A>, China</TD></TR>
+  <TR>
+    <TD>HEL</TD>
+    <TD>EFHK</TD>
+    <TD><A title="Helsinki Airport" href="/wiki/Helsinki_Airport">Helsinki 
+      Airport</A></TD>
+    <TD><A title="Helsinki" href="/wiki/Helsinki">Helsinki</A> / <A title="Vantaa" 
+      href="/wiki/Vantaa">Vantaa</A>, Finland</TD></TR>
+  <TR>
+    <TD>HEM</TD>
+    <TD>EFHF</TD>
+    <TD><A title="Helsinki-Malmi Airport" 
+      href="/wiki/Helsinki-Malmi_Airport">Helsinki-Malmi Airport</A></TD>
+    <TD><A title="Helsinki" href="/wiki/Helsinki">Helsinki</A> / <A title="Malmi, Helsinki" 
+      href="/wiki/Malmi,_Helsinki">Malmi</A>, Finland</TD></TR>
+  <TR>
+    <TD>HEO</TD>
+    <TD></TD>
+    <TD><A title="Haelogo Airport" href="/wiki/Haelogo_Airport">Haelogo 
+      Airport</A></TD>
+    <TD><A title="Haelogo (page does not exist)" class="new" href="/w/index.php?title=Haelogo&amp;action=edit&amp;redlink=1">Haelogo</A>, 
+      <A title="Papua New Guinea" href="/wiki/Papua_New_Guinea">Papua New 
+      Guinea</A></TD></TR>
+  <TR>
+    <TD>HER</TD>
+    <TD>LGIR</TD>
+    <TD><A title='Heraklion International Airport, "Nikos Kazantzakis"' class="mw-redirect" 
+      href="/wiki/Heraklion_International_Airport,_%22Nikos_Kazantzakis%22">Heraklion 
+      International Airport, "Nikos Kazantzakis"</A></TD>
+    <TD><A title="Heraklion" href="/wiki/Heraklion">Heraklion</A>, <A title="Crete" 
+      href="/wiki/Crete">Crete</A>, Greece</TD></TR>
+  <TR>
+    <TD>HES</TD>
+    <TD>KHRI</TD>
+    <TD><A title="Hermiston Municipal Airport" href="/wiki/Hermiston_Municipal_Airport">Hermiston 
+      Municipal Airport</A> (FAA: HRI)</TD>
+    <TD><A title="Hermiston, Oregon" href="/wiki/Hermiston,_Oregon">Hermiston, 
+      Oregon</A>, United States</TD></TR>
+  <TR>
+    <TD>HET</TD>
+    <TD>ZBHH</TD>
+    <TD><A title="Hohhot Baita International Airport" href="/wiki/Hohhot_Baita_International_Airport">Hohhot 
+      Baita International Airport</A></TD>
+    <TD><A title="Hohhot" href="/wiki/Hohhot">Hohhot</A>, <A title="Inner Mongolia" 
+      href="/wiki/Inner_Mongolia">Inner Mongolia</A>, China</TD></TR>
+  <TR>
+    <TD>HEX</TD>
+    <TD>MDHE</TD>
+    <TD><S><A title="Herrera International Airport" href="/wiki/Herrera_International_Airport">Herrera 
+      International Airport</A></S> (closed)</TD>
+    <TD><A title="Santo Domingo" href="/wiki/Santo_Domingo">Santo Domingo</A>, 
+      <A title="Dominican Republic" href="/wiki/Dominican_Republic">Dominican 
+      Republic</A></TD></TR>
+  <TR>
+    <TD>HEY</TD>
+    <TD>KHEY</TD>
+    <TD><A title="Hanchey Army Heliport" 
+      href="/wiki/Hanchey_Army_Heliport">Hanchey Army Heliport</A></TD>
+    <TD><A title="Fort Rucker" href="/wiki/Fort_Rucker">Fort Rucker</A>, <A 
+      title="Dale County, Alabama" href="/wiki/Dale_County,_Alabama">Dale 
+      County, Alabama</A>, United States</TD></TR>
+  <TR>
+    <TD>HEZ</TD>
+    <TD>KHEZ</TD>
+    <TD><A title="Natchez-Adams County Airport" class="mw-redirect" href="/wiki/Natchez-Adams_County_Airport">Natchez-Adams 
+      County Airport</A> (Hardy-Anders Field)</TD>
+    <TD><A title="Natchez, Mississippi" 
+      href="/wiki/Natchez,_Mississippi">Natchez, Mississippi</A>, United 
+    States</TD></TR>
+  <TR class="sortbottom">
+    <TH style="background: rgb(221, 221, 221); text-align: left;" 
+      colspan="4"><CITE id="HF"></CITE>-HF-</TH></TR>
+  <TR>
+    <TD>HFA</TD>
+    <TD>LLHA</TD>
+    <TD><A title="Haifa Airport" href="/wiki/Haifa_Airport">Haifa Airport</A> 
+      (Uri Michaeli Airport)</TD>
+    <TD><A title="Haifa" href="/wiki/Haifa">Haifa</A>, <A title="Israel" href="/wiki/Israel">Israel</A></TD></TR>
+  <TR>
+    <TD>HFD</TD>
+    <TD>KHFD</TD>
+    <TD><A title="Hartford-Brainard Airport" href="/wiki/Hartford-Brainard_Airport">Hartford-Brainard 
+      Airport</A></TD>
+    <TD><A title="Hartford, Connecticut" 
+      href="/wiki/Hartford,_Connecticut">Hartford, Connecticut</A>, United 
+    States</TD></TR>
+  <TR>
+    <TD>HFE</TD>
+    <TD>ZSOF</TD>
+    <TD><A title="Hefei Luogang International Airport" href="/wiki/Hefei_Luogang_International_Airport">Hefei 
+      Luogang International Airport</A></TD>
+    <TD><A title="Hefei" href="/wiki/Hefei">Hefei</A>, <A title="Anhui" href="/wiki/Anhui">Anhui</A>, 
+      China</TD></TR>
+  <TR>
+    <TD>HFF</TD>
+    <TD>KHFF</TD>
+    <TD><A title="Mackall Army Airfield" class="mw-redirect" href="/wiki/Mackall_Army_Airfield">Mackall 
+      Army Airfield</A></TD>
+    <TD><A title="Camp Mackall" href="/wiki/Camp_Mackall">Camp Mackall</A>, <A 
+      title="North Carolina" href="/wiki/North_Carolina">North Carolina</A>, 
+      United States</TD></TR>
+  <TR>
+    <TD>HFN</TD>
+    <TD>BIHN</TD>
+    <TD><A title="Hornafjörður Airport" href="/wiki/Hornafj%C3%B6r%C3%B0ur_Airport">Hornafjörður 
+      Airport</A></TD>
+    <TD><A title="Höfn" href="/wiki/H%C3%B6fn">Höfn</A>, <A title="Iceland" 
+      href="/wiki/Iceland">Iceland</A></TD></TR>
+  <TR>
+    <TD>HFS</TD>
+    <TD>ESOH</TD>
+    <TD><A title="Hagfors Airport" href="/wiki/Hagfors_Airport">Hagfors 
+      Airport</A></TD>
+    <TD><A title="Hagfors" href="/wiki/Hagfors">Hagfors</A>, Sweden</TD></TR>
+  <TR>
+    <TD>HFT</TD>
+    <TD>ENHF</TD>
+    <TD><A title="Hammerfest Airport" 
+      href="/wiki/Hammerfest_Airport">Hammerfest Airport</A></TD>
+    <TD><A title="Hammerfest" href="/wiki/Hammerfest">Hammerfest</A>, <A 
+      title="Finnmark" href="/wiki/Finnmark">Finnmark</A>, Norway</TD></TR>
+  <TR class="sortbottom">
+    <TH style="background: rgb(221, 221, 221); text-align: left;" 
+      colspan="4"><CITE id="HG"></CITE>-HG-</TH></TR>
+  <TR>
+    <TD>HGA</TD>
+    <TD>HCMH</TD>
+    <TD><A title="Egal International Airport" class="mw-redirect" href="/wiki/Egal_International_Airport">Egal 
+      International Airport</A></TD>
+    <TD><A title="Hargeisa" href="/wiki/Hargeisa">Hargeisa</A>, <A title="Somalia" 
+      href="/wiki/Somalia">Somalia</A></TD></TR>
+  <TR>
+    <TD>HGD</TD>
+    <TD>YHUG</TD>
+    <TD><A title="Hughenden Airport" href="/wiki/Hughenden_Airport">Hughenden 
+      Airport</A></TD>
+    <TD><A title="Hughenden, Queensland" 
+      href="/wiki/Hughenden,_Queensland">Hughenden, Queensland</A>, 
+  Australia</TD></TR>
+  <TR>
+    <TD>HGH</TD>
+    <TD>ZSHC</TD>
+    <TD><A title="Hangzhou Xiaoshan International Airport" href="/wiki/Hangzhou_Xiaoshan_International_Airport">Hangzhou 
+      Xiaoshan International Airport</A></TD>
+    <TD><A title="Hangzhou" href="/wiki/Hangzhou">Hangzhou</A>, China</TD></TR>
+  <TR>
+    <TD>HGL</TD>
+    <TD>EDXH</TD>
+    <TD><A title="Düne Airport" class="mw-redirect" href="/wiki/D%C3%BCne_Airport">Düne 
+      Airport</A> (Helgoland Airport)</TD>
+    <TD><A title="Düne" href="/wiki/D%C3%BCne">Düne</A>, <A title="Helgoland" 
+      class="mw-redirect" href="/wiki/Helgoland">Helgoland</A>, <A title="Schleswig-Holstein" 
+      href="/wiki/Schleswig-Holstein">Schleswig-Holstein</A>, Germany</TD></TR>
+  <TR>
+    <TD>HGN</TD>
+    <TD>VTCH</TD>
+    <TD><A title="Mae Hong Son Airport" href="/wiki/Mae_Hong_Son_Airport">Mae 
+      Hong Son Airport</A></TD>
+    <TD><A title="Mae Hong Son" href="/wiki/Mae_Hong_Son">Mae Hong Son</A>, <A 
+      title="Thailand" href="/wiki/Thailand">Thailand</A></TD></TR>
+  <TR>
+    <TD>HGO</TD>
+    <TD>DIKO</TD>
+    <TD><A title="Korhogo Airport" href="/wiki/Korhogo_Airport">Korhogo 
+      Airport</A></TD>
+    <TD><A title="Korhogo" href="/wiki/Korhogo">Korhogo</A>, <A title="Côte d'Ivoire" 
+      class="mw-redirect" href="/wiki/C%C3%B4te_d%27Ivoire">Côte 
+  d'Ivoire</A></TD></TR>
+  <TR>
+    <TD>HGR</TD>
+    <TD>KHGR</TD>
+    <TD><A title="Hagerstown Regional Airport" href="/wiki/Hagerstown_Regional_Airport">Hagerstown 
+      Regional Airport</A> (Richard A. Henson Field)</TD>
+    <TD><A title="Hagerstown, Maryland" 
+      href="/wiki/Hagerstown,_Maryland">Hagerstown, Maryland</A>, United 
+    States</TD></TR>
+  <TR>
+    <TD>HGS</TD>
+    <TD>GFHA</TD>
+    <TD><A title="Hastings Airport (Sierra Leone)" href="/wiki/Hastings_Airport_(Sierra_Leone)">Hastings 
+      Airport</A></TD>
+    <TD><A title="Freetown" href="/wiki/Freetown">Freetown</A>, <A title="Sierra Leone" 
+      href="/wiki/Sierra_Leone">Sierra Leone</A></TD></TR>
+  <TR>
+    <TD>HGT</TD>
+    <TD>KHGT</TD>
+    <TD><A title="Tusi Army Heliport (page does not exist)" class="new" href="/w/index.php?title=Tusi_Army_Heliport&amp;action=edit&amp;redlink=1">Tusi 
+      Army Heliport</A></TD>
+    <TD><A title="Fort Hunter Liggett" href="/wiki/Fort_Hunter_Liggett">Fort 
+      Hunter Liggett</A> / <A title="Jolon, California" href="/wiki/Jolon,_California">Jolon, 
+      California</A>, United States</TD></TR>
+  <TR>
+    <TD>HGU</TD>
+    <TD>AYMH</TD>
+    <TD><A title="Mount Hagen Airport" href="/wiki/Mount_Hagen_Airport">Mount 
+      Hagen Airport</A></TD>
+    <TD><A title="Mount Hagen" href="/wiki/Mount_Hagen">Mount Hagen</A>, <A 
+      title="Papua New Guinea" href="/wiki/Papua_New_Guinea">Papua New 
+    Guinea</A></TD></TR>
+  <TR>
+    <TD>HGZ</TD>
+    <TD></TD>
+    <TD><A title="Hog River Airport (page does not exist)" class="new" href="/w/index.php?title=Hog_River_Airport&amp;action=edit&amp;redlink=1">Hog 
+      River Airport</A> (FAA: 2AK6)</TD>
+    <TD><A title="Hogatza, Alaska (page does not exist)" class="new" href="/w/index.php?title=Hogatza,_Alaska&amp;action=edit&amp;redlink=1">Hogatza, 
+      Alaska</A>, United States</TD></TR>
+  <TR class="sortbottom">
+    <TH style="background: rgb(221, 221, 221); text-align: left;" 
+      colspan="4"><CITE id="HH"></CITE>-HH-</TH></TR>
+  <TR>
+    <TD>HHE</TD>
+    <TD>RJSH</TD>
+    <TD><A title="Hachinohe Air Base" class="mw-redirect" href="/wiki/Hachinohe_Air_Base">Hachinohe 
+      Air Base</A></TD>
+    <TD><A title="Hachinohe" class="mw-redirect" 
+      href="/wiki/Hachinohe">Hachinohe</A>, <A title="Honshū" class="mw-redirect" 
+      href="/wiki/Honsh%C5%AB">Honshū</A>, Japan</TD></TR>
+  <TR>
+    <TD>HHH</TD>
+    <TD>KHXD</TD>
+    <TD><A title="Hilton Head Airport" href="/wiki/Hilton_Head_Airport">Hilton 
+      Head Airport</A> (FAA: HXD)</TD>
+    <TD><A title="Hilton Head Island, South Carolina" href="/wiki/Hilton_Head_Island,_South_Carolina">Hilton 
+      Head Island, South Carolina</A>, United States</TD></TR>
+  <TR>
+    <TD>HHI</TD>
+    <TD>PHHI</TD>
+    <TD><A title="Wheeler Army Airfield" 
+      href="/wiki/Wheeler_Army_Airfield">Wheeler Army Airfield</A></TD>
+    <TD><A title="Wahiawa, Hawaii" href="/wiki/Wahiawa,_Hawaii">Wahiawa, 
+      Hawaii</A>, United States</TD></TR>
+  <TR>
+    <TD>HHN</TD>
+    <TD>EDFH</TD>
+    <TD><A title="Frankfurt-Hahn Airport" class="mw-redirect" href="/wiki/Frankfurt-Hahn_Airport">Frankfurt-Hahn 
+      Airport</A></TD>
+    <TD><A title="Rhineland-Palatinate" 
+      href="/wiki/Rhineland-Palatinate">Rhineland-Palatinate</A>, Germany</TD></TR>
+  <TR>
+    <TD>HHP</TD>
+    <TD>VHSS</TD>
+    <TD><A title="Shun Tak Heliport" class="mw-redirect" href="/wiki/Shun_Tak_Heliport">Shun 
+      Tak Heliport</A></TD>
+    <TD><A title="Sheung Wan" href="/wiki/Sheung_Wan">Sheung Wan</A>, Hong 
+    Kong</TD></TR>
+  <TR>
+    <TD>HHQ</TD>
+    <TD>VTPH</TD>
+    <TD><A title="Hua Hin Airport" href="/wiki/Hua_Hin_Airport">Hua Hin 
+      Airport</A></TD>
+    <TD><A title="Hua Hin" class="mw-redirect" href="/wiki/Hua_Hin">Hua 
+      Hin</A>, <A title="Thailand" href="/wiki/Thailand">Thailand</A></TD></TR>
+  <TR>
+    <TD>HHR</TD>
+    <TD>KHHR</TD>
+    <TD><A title="Hawthorne Municipal Airport (California)" href="/wiki/Hawthorne_Municipal_Airport_(California)">Hawthorne 
+      Municipal Airport</A> (Jack Northrop Field)</TD>
+    <TD><A title="Hawthorne, California" 
+      href="/wiki/Hawthorne,_California">Hawthorne, California</A>, United 
+    States</TD></TR>
+  <TR>
+    <TD>HHZ</TD>
+    <TD>NTGH</TD>
+    <TD><A title="Hikueru Atoll Airport (page does not exist)" class="new" 
+      href="/w/index.php?title=Hikueru_Atoll_Airport&amp;action=edit&amp;redlink=1">Hikueru 
+      Atoll Airport</A></TD>
+    <TD><A title="Hikueru Atoll" class="mw-redirect" href="/wiki/Hikueru_Atoll">Hikueru 
+      Atoll</A>, <A title="French Polynesia" 
+      href="/wiki/French_Polynesia">French Polynesia</A></TD></TR>
+  <TR class="sortbottom">
+    <TH style="background: rgb(221, 221, 221); text-align: left;" 
+      colspan="4"><CITE id="HI"></CITE>-HI-</TH></TR>
+  <TR>
+    <TD>HIA</TD>
+    <TD>ZSSH</TD>
+    <TD><A title="Huai'an Lianshui Airport" href="/wiki/Huai%27an_Lianshui_Airport">Huai'an 
+      Lianshui Airport</A></TD>
+    <TD><A title="Huai'an" href="/wiki/Huai%27an">Huai'an</A>, <A title="Jiangsu" 
+      href="/wiki/Jiangsu">Jiangsu</A>, China</TD></TR>
+  <TR>
+    <TD>HIB</TD>
+    <TD>KHIB</TD>
+    <TD><A title="Chisholm-Hibbing Airport" class="mw-redirect" href="/wiki/Chisholm-Hibbing_Airport">Chisholm-Hibbing 
+      Airport</A></TD>
+    <TD><A title="Hibbing, Minnesota" href="/wiki/Hibbing,_Minnesota">Hibbing, 
+      Minnesota</A>, United States</TD></TR>
+  <TR>
+    <TD>HID</TD>
+    <TD>YHID</TD>
+    <TD><A title="Horn Island Airport" href="/wiki/Horn_Island_Airport">Horn 
+      Island Airport</A></TD>
+    <TD><A title="Horn Island, Queensland" href="/wiki/Horn_Island,_Queensland">Horn 
+      Island, Queensland</A>, Australia</TD></TR>
+  <TR>
+    <TD>HIE</TD>
+    <TD>KHIE</TD>
+    <TD><A title="Mount Washington Regional Airport" href="/wiki/Mount_Washington_Regional_Airport">Mount 
+      Washington Regional Airport</A></TD>
+    <TD><A title="Whitefield, New Hampshire" href="/wiki/Whitefield,_New_Hampshire">Whitefield, 
+      New Hampshire</A>, United States</TD></TR>
+  <TR>
+    <TD>HIF</TD>
+    <TD>KHIF</TD>
+    <TD><A title="Hill Air Force Base" href="/wiki/Hill_Air_Force_Base">Hill 
+      Air Force Base</A></TD>
+    <TD><A title="Ogden, Utah" href="/wiki/Ogden,_Utah">Ogden, Utah</A>, 
+      United States</TD></TR>
+  <TR>
+    <TD>HIG</TD>
+    <TD>YHHY</TD>
+    <TD><A title="Highbury Airport (page does not exist)" class="new" href="/w/index.php?title=Highbury_Airport&amp;action=edit&amp;redlink=1">Highbury 
+      Airport</A></TD>
+    <TD><A title="Highbury, Queensland (page does not exist)" class="new" 
+      href="/w/index.php?title=Highbury,_Queensland&amp;action=edit&amp;redlink=1">Highbury, 
+      Queensland</A>, Australia</TD></TR>
+  <TR>
+    <TD>HIH</TD>
+    <TD></TD>
+    <TD><A title="Hook Island Airport (page does not exist)" class="new" href="/w/index.php?title=Hook_Island_Airport&amp;action=edit&amp;redlink=1">Hook 
+      Island Airport</A></TD>
+    <TD><A title="Hook Island" href="/wiki/Hook_Island">Hook Island</A>, <A 
+      title="Queensland" href="/wiki/Queensland">Queensland</A>, Australia</TD></TR>
+  <TR>
+    <TD>HII</TD>
+    <TD>KHII</TD>
+    <TD><A title="Lake Havasu City Airport" href="/wiki/Lake_Havasu_City_Airport">Lake 
+      Havasu City Airport</A></TD>
+    <TD><A title="Lake Havasu City, Arizona" href="/wiki/Lake_Havasu_City,_Arizona">Lake 
+      Havasu City, Arizona</A>, United States</TD></TR>
+  <TR>
+    <TD>HIJ</TD>
+    <TD>RJOA</TD>
+    <TD><A title="Hiroshima Airport" href="/wiki/Hiroshima_Airport">Hiroshima 
+      Airport</A></TD>
+    <TD><A title="Hiroshima" href="/wiki/Hiroshima">Hiroshima</A>, <A title="Honshū" 
+      class="mw-redirect" href="/wiki/Honsh%C5%AB">Honshū</A>, Japan</TD></TR>
+  <TR>
+    <TD>HIK</TD>
+    <TD>PHIK</TD>
+    <TD><A title="Hickam Air Force Base" class="mw-redirect" href="/wiki/Hickam_Air_Force_Base">Hickam 
+      Air Force Base</A></TD>
+    <TD><A title="Honolulu, Hawaii" class="mw-redirect" href="/wiki/Honolulu,_Hawaii">Honolulu, 
+      Hawaii</A>, United States</TD></TR>
+  <TR>
+    <TD>HIL</TD>
+    <TD></TD>
+    <TD><A title="Shilabo Airport (page does not exist)" class="new" href="/w/index.php?title=Shilabo_Airport&amp;action=edit&amp;redlink=1">Shilabo 
+      Airport</A></TD>
+    <TD><A title="Shilabo" class="mw-redirect" 
+      href="/wiki/Shilabo">Shilabo</A>, <A title="Ethiopia" href="/wiki/Ethiopia">Ethiopia</A></TD></TR>
+  <TR>
+    <TD>HIM</TD>
+    <TD></TD>
+    <TD><A title="Minneriya Airport (page does not exist)" class="new" href="/w/index.php?title=Minneriya_Airport&amp;action=edit&amp;redlink=1">Minneriya 
+      Airport</A> (<A title="Polonnaruwa Airport (page does not exist)" class="new" 
+      href="/w/index.php?title=Polonnaruwa_Airport&amp;action=edit&amp;redlink=1">Polonnaruwa 
+      Airport</A>)</TD>
+    <TD><A title="Polonnaruwa" href="/wiki/Polonnaruwa">Polonnaruwa</A>, <A 
+      title="Sri Lanka" href="/wiki/Sri_Lanka">Sri Lanka</A></TD></TR>
+  <TR>
+    <TD>HIN</TD>
+    <TD>RKPS</TD>
+    <TD><A title="Sacheon Airport" href="/wiki/Sacheon_Airport">Sacheon 
+      Airport</A> / Sacheon Air Base</TD>
+    <TD><A title="Sacheon" href="/wiki/Sacheon">Sacheon</A>, <A title="South Korea" 
+      href="/wiki/South_Korea">South Korea</A></TD></TR>
+  <TR>
+    <TD>HIO</TD>
+    <TD>KHIO</TD>
+    <TD><A title="Portland-Hillsboro Airport" class="mw-redirect" href="/wiki/Portland-Hillsboro_Airport">Portland-Hillsboro 
+      Airport</A></TD>
+    <TD><A title="Hillsboro, Oregon" 
+      href="/wiki/Hillsboro,_Oregon">Hillsboro</A> / <A title="Portland, Oregon" 
+      href="/wiki/Portland,_Oregon">Portland, Oregon</A>, United States</TD></TR>
+  <TR>
+    <TD>HIP</TD>
+    <TD>YHDY</TD>
+    <TD><A title="Headingly Airport (page does not exist)" class="new" href="/w/index.php?title=Headingly_Airport&amp;action=edit&amp;redlink=1">Headingly 
+      Airport</A></TD>
+    <TD><A title="Headingly Station" href="/wiki/Headingly_Station">Headingly 
+      Station</A>, <A title="Queensland" href="/wiki/Queensland">Queensland</A>, 
+      Australia</TD></TR>
+  <TR>
+    <TD>HIR</TD>
+    <TD>AGGH</TD>
+    <TD><A title="Honiara International Airport" href="/wiki/Honiara_International_Airport">Honiara 
+      International Airport</A></TD>
+    <TD><A title="Honiara" href="/wiki/Honiara">Honiara</A>, <A title="Guadalcanal Island" 
+      class="mw-redirect" href="/wiki/Guadalcanal_Island">Guadalcanal 
+      Island</A>, <A title="Solomon Islands" 
+      href="/wiki/Solomon_Islands">Solomon Islands</A></TD></TR>
+  <TR>
+    <TD>HIS</TD>
+    <TD></TD>
+    <TD><A title="Hayman Island Resort Seaplace Base (page does not exist)" 
+      class="new" href="/w/index.php?title=Hayman_Island_Resort_Seaplace_Base&amp;action=edit&amp;redlink=1">Hayman 
+      Island Resort Seaplace Base</A></TD>
+    <TD><A title="Hayman Island, Queensland" class="mw-redirect" href="/wiki/Hayman_Island,_Queensland">Hayman 
+      Island, Queensland</A>, Australia</TD></TR>
+  <TR>
+    <TD>HIT</TD>
+    <TD></TD>
+    <TD><A title="Hivaro Airport (page does not exist)" class="new" href="/w/index.php?title=Hivaro_Airport&amp;action=edit&amp;redlink=1">Hivaro 
+      Airport</A></TD>
+    <TD><A title="Hivaro (page does not exist)" class="new" href="/w/index.php?title=Hivaro&amp;action=edit&amp;redlink=1">Hivaro</A>, 
+      <A title="Papua New Guinea" href="/wiki/Papua_New_Guinea">Papua New 
+      Guinea</A></TD></TR>
+  <TR>
+    <TD>HIW</TD>
+    <TD>RJBH</TD>
+    <TD><A title="Hiroshima West Airport (page does not exist)" class="new" 
+      href="/w/index.php?title=Hiroshima_West_Airport&amp;action=edit&amp;redlink=1">Hiroshima 
+      West Airport</A></TD>
+    <TD><A title="Hiroshima" href="/wiki/Hiroshima">Hiroshima</A>, <A title="Honshū" 
+      class="mw-redirect" href="/wiki/Honsh%C5%AB">Honshū</A>, Japan</TD></TR>
+  <TR class="sortbottom">
+    <TH style="background: rgb(221, 221, 221); text-align: left;" 
+      colspan="4"><CITE id="HJ"></CITE>-HJ-</TH></TR>
+  <TR>
+    <TD>HJJ</TD>
+    <TD></TD>
+    <TD><A title="Zhijiang Airport" href="/wiki/Zhijiang_Airport">Zhijiang 
+      Airport</A></TD>
+    <TD><A title="Zhijiang, Hubei" href="/wiki/Zhijiang,_Hubei">Zhijiang, 
+      Hubei</A>, China</TD></TR>
+  <TR>
+    <TD>HJR</TD>
+    <TD>VAKJ</TD>
+    <TD><A title="Khajuraho Airport" class="mw-redirect" href="/wiki/Khajuraho_Airport">Khajuraho 
+      Airport</A></TD>
+    <TD><A title="Khajuraho" class="mw-redirect" 
+      href="/wiki/Khajuraho">Khajuraho</A>, India</TD></TR>
+  <TR>
+    <TD>HJT</TD>
+    <TD>ZMHU</TD>
+    <TD><A title="Khujirt Airport" href="/wiki/Khujirt_Airport">Khujirt 
+      Airport</A></TD>
+    <TD><A title="Khujirt" href="/wiki/Khujirt">Khujirt</A>, <A title="Övörkhangai" 
+      class="mw-redirect" href="/wiki/%C3%96v%C3%B6rkhangai">Övörkhangai</A>, <A 
+      title="Mongolia" href="/wiki/Mongolia">Mongolia</A></TD></TR>
+  <TR class="sortbottom">
+    <TH style="background: rgb(221, 221, 221); text-align: left;" 
+      colspan="4"><CITE id="HK"></CITE>-HK-</TH></TR>
+  <TR>
+    <TD>HKA</TD>
+    <TD>KHKA</TD>
+    <TD><A title="Blytheville Municipal Airport" href="/wiki/Blytheville_Municipal_Airport">Blytheville 
+      Municipal Airport</A></TD>
+    <TD><A title="Blytheville, Arkansas" 
+      href="/wiki/Blytheville,_Arkansas">Blytheville, Arkansas</A>, United 
+    States</TD></TR>
+  <TR>
+    <TD>HKB</TD>
+    <TD></TD>
+    <TD><A title="Healy Lake Airport" href="/wiki/Healy_Lake_Airport">Healy 
+      Lake Airport</A></TD>
+    <TD><A title="Healy Lake, Alaska" href="/wiki/Healy_Lake,_Alaska">Healy 
+      Lake, Alaska</A>, United States</TD></TR>
+  <TR>
+    <TD>HKD</TD>
+    <TD>RJCH</TD>
+    <TD><A title="Hakodate Airport" href="/wiki/Hakodate_Airport">Hakodate 
+      Airport</A></TD>
+    <TD><A title="Hakodate" class="mw-redirect" 
+      href="/wiki/Hakodate">Hakodate</A>, <A title="Hokkaidō" class="mw-redirect" 
+      href="/wiki/Hokkaid%C5%8D">Hokkaidō</A>, Japan</TD></TR>
+  <TR>
+    <TD>HKG</TD>
+    <TD>VHHH</TD>
+    <TD><A title="Hong Kong International Airport" href="/wiki/Hong_Kong_International_Airport">Hong 
+      Kong International Airport</A> (succeeded <A title="Kai Tak Airport" href="/wiki/Kai_Tak_Airport">Kai 
+      Tak Airport</A>)</TD>
+    <TD><A title="Chek Lap Kok" href="/wiki/Chek_Lap_Kok">Chek Lap Kok</A>, <A 
+      title="Hong Kong" href="/wiki/Hong_Kong">Hong Kong</A></TD></TR>
+  <TR>
+    <TD>HKK</TD>
+    <TD>NZHK</TD>
+    <TD><A title="Hokitika Airport" href="/wiki/Hokitika_Airport">Hokitika 
+      Airport</A></TD>
+    <TD><A title="Hokitika" href="/wiki/Hokitika">Hokitika</A>, New 
+  Zealand</TD></TR>
+  <TR>
+    <TD>HKN</TD>
+    <TD>AYHK</TD>
+    <TD><A title="Kimbe Airport" class="mw-redirect" href="/wiki/Kimbe_Airport">Kimbe 
+      Airport</A></TD>
+    <TD><A title="Hoskins, Papua New Guinea (page does not exist)" class="new" 
+      href="/w/index.php?title=Hoskins,_Papua_New_Guinea&amp;action=edit&amp;redlink=1">Hoskins, 
+      Papua New Guinea</A></TD></TR>
+  <TR>
+    <TD>HKS</TD>
+    <TD>KHKS</TD>
+    <TD><A title="Hawkins Field (airport)" href="/wiki/Hawkins_Field_(airport)">Hawkins 
+      Field</A></TD>
+    <TD><A title="Jackson, Mississippi" 
+      href="/wiki/Jackson,_Mississippi">Jackson, Mississippi</A>, United 
+    States</TD></TR>
+  <TR>
+    <TD>HKT</TD>
+    <TD>VTSP</TD>
+    <TD><A title="Phuket International Airport" href="/wiki/Phuket_International_Airport">Phuket 
+      International Airport</A></TD>
+    <TD><A title="Phuket city" class="mw-redirect" 
+      href="/wiki/Phuket_city">Phuket</A>, <A title="Thailand" href="/wiki/Thailand">Thailand</A></TD></TR>
+  <TR>
+    <TD>HKV</TD>
+    <TD>LBHS</TD>
+    <TD><A title="Haskovo Malevo Airport" 
+      href="/wiki/Haskovo_Malevo_Airport">Haskovo Malevo Airport</A></TD>
+    <TD><A title="Haskovo" href="/wiki/Haskovo">Haskovo</A>, <A title="Bulgaria" 
+      href="/wiki/Bulgaria">Bulgaria</A></TD></TR>
+  <TR>
+    <TD>HKY</TD>
+    <TD>KHKY</TD>
+    <TD><A title="Hickory Regional Airport" href="/wiki/Hickory_Regional_Airport">Hickory 
+      Regional Airport</A></TD>
+    <TD><A title="Hickory, North Carolina" href="/wiki/Hickory,_North_Carolina">Hickory, 
+      North Carolina</A>, United States</TD></TR>
+  <TR class="sortbottom">
+    <TH style="background: rgb(221, 221, 221); text-align: left;" 
+      colspan="4"><CITE id="HL"></CITE>-HL-</TH></TR>
+  <TR>
+    <TD>HLA</TD>
+    <TD>FALA</TD>
+    <TD><A title="Lanseria Airport" class="mw-redirect" href="/wiki/Lanseria_Airport">Lanseria 
+      Airport</A></TD>
+    <TD><A title="Lanseria" class="mw-redirect" 
+      href="/wiki/Lanseria">Lanseria</A>, South Africa</TD></TR>
+  <TR>
+    <TD>HLB</TD>
+    <TD>KHLB</TD>
+    <TD><A title="Hillenbrand Industries Airport (page does not exist)" class="new" 
+      href="/w/index.php?title=Hillenbrand_Industries_Airport&amp;action=edit&amp;redlink=1">Hillenbrand 
+      Industries Airport</A></TD>
+    <TD><A title="Batesville, Indiana" 
+      href="/wiki/Batesville,_Indiana">Batesville, Indiana</A>, United 
+  States</TD></TR>
+  <TR>
+    <TD>HLC</TD>
+    <TD>KHLC</TD>
+    <TD><A title="Hill City Municipal Airport" href="/wiki/Hill_City_Municipal_Airport">Hill 
+      City Municipal Airport</A></TD>
+    <TD><A title="Hill City, Kansas" href="/wiki/Hill_City,_Kansas">Hill City, 
+      Kansas</A>, United States</TD></TR>
+  <TR>
+    <TD>HLD</TD>
+    <TD>ZBLA</TD>
+    <TD><A title="Hailar Dongshan Airport" class="mw-redirect" href="/wiki/Hailar_Dongshan_Airport">Hailar 
+      Dongshan Airport</A></TD>
+    <TD><A title="Hailar District" href="/wiki/Hailar_District">Hailar</A>, <A 
+      title="Inner Mongolia" href="/wiki/Inner_Mongolia">Inner Mongolia</A>, 
+      China</TD></TR>
+  <TR>
+    <TD>HLF</TD>
+    <TD>ESSF</TD>
+    <TD><A title="Hultsfred-Vimmerby Air Base (page does not exist)" class="new" 
+      href="/w/index.php?title=Hultsfred-Vimmerby_Air_Base&amp;action=edit&amp;redlink=1">Hultsfred-Vimmerby 
+      Air Base</A></TD>
+    <TD><A title="Hultsfred" href="/wiki/Hultsfred">Hultsfred</A> / <A title="Vimmerby" 
+      href="/wiki/Vimmerby">Vimmerby</A>, Sweden</TD></TR>
+  <TR>
+    <TD>HLG</TD>
+    <TD>KHLG</TD>
+    <TD><A title="Wheeling Ohio County Airport" href="/wiki/Wheeling_Ohio_County_Airport">Wheeling 
+      Ohio County Airport</A></TD>
+    <TD><A title="Wheeling, West Virginia" href="/wiki/Wheeling,_West_Virginia">Wheeling, 
+      West Virginia</A>, United States</TD></TR>
+  <TR>
+    <TD>HLH</TD>
+    <TD>ZBUL</TD>
+    <TD><A title="Ulanhot Airport" href="/wiki/Ulanhot_Airport">Ulanhot 
+      Airport</A></TD>
+    <TD><A title="Ulanhot" class="mw-redirect" 
+      href="/wiki/Ulanhot">Ulanhot</A>, China</TD></TR>
+  <TR>
+    <TD>HLI</TD>
+    <TD>KCVH</TD>
+    <TD><A title="Hollister Municipal Airport" href="/wiki/Hollister_Municipal_Airport">Hollister 
+      Municipal Airport</A> (FAA: CVH)</TD>
+    <TD><A title="Hollister, California" 
+      href="/wiki/Hollister,_California">Hollister, California</A>, United 
+    States</TD></TR>
+  <TR>
+    <TD>HLL</TD>
+    <TD>YHIL</TD>
+    <TD><A title="Hillside Airport (Australia) (page does not exist)" class="new" 
+      href="/w/index.php?title=Hillside_Airport_(Australia)&amp;action=edit&amp;redlink=1">Hillside 
+      Airport</A></TD>
+    <TD><A title="Hillside, Western Australia (page does not exist)" class="new" 
+      href="/w/index.php?title=Hillside,_Western_Australia&amp;action=edit&amp;redlink=1">Hillside, 
+      Western Australia</A>, Australia</TD></TR>
+  <TR>
+    <TD>HLM</TD>
+    <TD>KHLM</TD>
+    <TD><A title="Park Township Airport" 
+      href="/wiki/Park_Township_Airport">Park Township Airport</A></TD>
+    <TD><A title="Holland, Michigan" href="/wiki/Holland,_Michigan">Holland, 
+      Michigan</A>, United States</TD></TR>
+  <TR>
+    <TD>HLN</TD>
+    <TD>KHLN</TD>
+    <TD><A title="Helena Regional Airport" href="/wiki/Helena_Regional_Airport">Helena 
+      Regional Airport</A></TD>
+    <TD><A title="Helena, Montana" href="/wiki/Helena,_Montana">Helena, 
+      Montana</A>, United States</TD></TR>
+  <TR>
+    <TD>HLO</TD>
+    <TD>BIID</TD>
+    <TD><A title="Ingjaldssanður Airport (page does not exist)" class="new" 
+      href="/w/index.php?title=Ingjaldssan%C3%B0ur_Airport&amp;action=edit&amp;redlink=1">Ingjaldssanður 
+      Airport</A> (Ingjaldssandur)</TD>
+    <TD><A title="Onundarfjörður (page does not exist)" class="new" href="/w/index.php?title=Onundarfj%C3%B6r%C3%B0ur&amp;action=edit&amp;redlink=1">Onundarfjörður</A>, 
+      <A title="Iceland" href="/wiki/Iceland">Iceland</A></TD></TR>
+  <TR>
+    <TD>HLP</TD>
+    <TD>WIHH</TD>
+    <TD><A title="Halim Perdanakusuma International Airport" class="mw-redirect" 
+      href="/wiki/Halim_Perdanakusuma_International_Airport">Halim Perdanakusuma 
+      International Airport</A></TD>
+    <TD><A title="Jakarta" href="/wiki/Jakarta">Jakarta</A>, <A title="Indonesia" 
+      href="/wiki/Indonesia">Indonesia</A></TD></TR>
+  <TR>
+    <TD>HLR</TD>
+    <TD>KHLR</TD>
+    <TD><A title="Hood Army Airfield" href="/wiki/Hood_Army_Airfield">Hood 
+      Army Airfield</A></TD>
+    <TD><A title="Fort Hood" href="/wiki/Fort_Hood">Fort Hood</A> / <A title="Killeen, Texas" 
+      href="/wiki/Killeen,_Texas">Killeen, Texas</A>, United States</TD></TR>
+  <TR>
+    <TD>HLS</TD>
+    <TD>YSTH</TD>
+    <TD><A title="St. Helens Airport" class="mw-redirect" href="/wiki/St._Helens_Airport">St. 
+      Helens Airport</A></TD>
+    <TD><A title="St. Helens, Tasmania" class="mw-redirect" href="/wiki/St._Helens,_Tasmania">St. 
+      Helens, Tasmania</A>, Australia</TD></TR>
+  <TR>
+    <TD>HLT</TD>
+    <TD>YHML</TD>
+    <TD><A title="Hamilton Airport (Australia)" class="mw-redirect" href="/wiki/Hamilton_Airport_(Australia)">Hamilton 
+      Airport</A></TD>
+    <TD><A title="Hamilton, Victoria" 
+      href="/wiki/Hamilton,_Victoria">Hamilton, Victoria</A>, Australia</TD></TR>
+  <TR>
+    <TD>HLV</TD>
+    <TD></TD>
+    <TD><A title="Helenvale Airport (page does not exist)" class="new" href="/w/index.php?title=Helenvale_Airport&amp;action=edit&amp;redlink=1">Helenvale 
+      Airport</A></TD>
+    <TD><A title="Helenvale, Queensland (page does not exist)" class="new" 
+      href="/w/index.php?title=Helenvale,_Queensland&amp;action=edit&amp;redlink=1">Helenvale, 
+      Queensland</A>, Australia</TD></TR>
+  <TR>
+    <TD>HLW</TD>
+    <TD>FAHL</TD>
+    <TD><A title="Hluhluwe Airport" href="/wiki/Hluhluwe_Airport">Hluhluwe 
+      Airport</A></TD>
+    <TD><A title="Hluhluwe" href="/wiki/Hluhluwe">Hluhluwe</A>, South 
+  Africa</TD></TR>
+  <TR>
+    <TD>HLY</TD>
+    <TD>EGOV</TD>
+    <TD><A title="Anglesey Airport" href="/wiki/Anglesey_Airport">Anglesey 
+      Airport</A> (Maes Awyr Môn) / <A title="RAF Valley" href="/wiki/RAF_Valley">RAF 
+      Valley</A></TD>
+    <TD><A title="Anglesey" href="/wiki/Anglesey">Anglesey</A>, <A title="Wales" 
+      href="/wiki/Wales">Wales</A>, United Kingdom</TD></TR>
+  <TR>
+    <TD>HLZ</TD>
+    <TD>NZHN</TD>
+    <TD><A title="Hamilton International Airport" href="/wiki/Hamilton_International_Airport">Hamilton 
+      International Airport</A></TD>
+    <TD><A title="Hamilton, New Zealand" 
+      href="/wiki/Hamilton,_New_Zealand">Hamilton, New Zealand</A></TD></TR>
+  <TR class="sortbottom">
+    <TH style="background: rgb(221, 221, 221); text-align: left;" 
+      colspan="4"><CITE id="HM"></CITE>-HM-</TH></TR>
+  <TR>
+    <TD>HMA</TD>
+    <TD>USHH</TD>
+    <TD><A title="Khanty-Mansiysk Airport" href="/wiki/Khanty-Mansiysk_Airport">Khanty-Mansiysk 
+      Airport</A></TD>
+    <TD><A title="Khanty-Mansiysk" 
+      href="/wiki/Khanty-Mansiysk">Khanty-Mansiysk</A>, Russia</TD></TR>
+  <TR>
+    <TD>HME</TD>
+    <TD>DAUH</TD>
+    <TD><A title="Oued Irara Airport" class="mw-redirect" href="/wiki/Oued_Irara_Airport">Oued 
+      Irara Airport</A></TD>
+    <TD><A title="Hassi Messaoud" href="/wiki/Hassi_Messaoud">Hassi 
+      Messaoud</A>, <A title="Algeria" href="/wiki/Algeria">Algeria</A></TD></TR>
+  <TR>
+    <TD>HMG</TD>
+    <TD>YHMB</TD>
+    <TD><A title="Hermannsburg Airport (page does not exist)" class="new" 
+      href="/w/index.php?title=Hermannsburg_Airport&amp;action=edit&amp;redlink=1">Hermannsburg 
+      Airport</A></TD>
+    <TD><A title="Hermannsburg, Northern Territory" href="/wiki/Hermannsburg,_Northern_Territory">Hermannsburg, 
+      Northern Territory</A>, Australia</TD></TR>
+  <TR>
+    <TD>HMI</TD>
+    <TD>ZWHM</TD>
+    <TD><A title="Hami Airport" href="/wiki/Hami_Airport">Hami Airport</A></TD>
+    <TD><A title="Hami City" href="/wiki/Hami_City">Hami City</A>, <A title="Xinjiang" 
+      href="/wiki/Xinjiang">Xinjiang</A>, China</TD></TR>
+  <TR>
+    <TD>HMJ</TD>
+    <TD>UKLH</TD>
+    <TD><A title="Khmelnytsky Airport (page does not exist)" class="new" href="/w/index.php?title=Khmelnytsky_Airport&amp;action=edit&amp;redlink=1">Khmelnytsky 
+      Airport</A></TD>
+    <TD><A title="Khmelnytskyi, Ukraine" 
+      href="/wiki/Khmelnytskyi,_Ukraine">Khmelnytsky</A>, <A title="Ukraine" 
+      href="/wiki/Ukraine">Ukraine</A></TD></TR>
+  <TR>
+    <TD>HMN</TD>
+    <TD>KHMN</TD>
+    <TD><A title="Holloman Air Force Base" href="/wiki/Holloman_Air_Force_Base">Holloman 
+      Air Force Base</A></TD>
+    <TD><A title="Alamogordo, New Mexico" 
+      href="/wiki/Alamogordo,_New_Mexico">Alamogordo, New Mexico</A>, United 
+      States</TD></TR>
+  <TR>
+    <TD>HMO</TD>
+    <TD>MMHO</TD>
+    <TD><A title="General Ignacio Pesqueira Garcia International Airport" 
+      class="mw-redirect" href="/wiki/General_Ignacio_Pesqueira_Garcia_International_Airport">General 
+      Ignacio Pesqueira Garcia International Airport</A></TD>
+    <TD><A title="Hermosillo" href="/wiki/Hermosillo">Hermosillo</A>, <A 
+      title="Sonora" href="/wiki/Sonora">Sonora</A>, Mexico</TD></TR>
+  <TR>
+    <TD>HMR</TD>
+    <TD>ENHA</TD>
+    <TD><A title="Hamar Airport, Stafsberg" href="/wiki/Hamar_Airport,_Stafsberg">Hamar 
+      Airport, Stafsberg</A></TD>
+    <TD><A title="Hamar" href="/wiki/Hamar">Hamar</A>, Norway</TD></TR>
+  <TR>
+    <TD>HMT</TD>
+    <TD>KHMT</TD>
+    <TD><A title="Hemet-Ryan Airport" 
+      href="/wiki/Hemet-Ryan_Airport">Hemet-Ryan Airport</A></TD>
+    <TD><A title="Hemet, California" href="/wiki/Hemet,_California">Hemet, 
+      California</A>, United States</TD></TR>
+  <TR>
+    <TD>HMV</TD>
+    <TD>ESUT</TD>
+    <TD><A title="Hemavan Airport" href="/wiki/Hemavan_Airport">Hemavan 
+      Airport</A></TD>
+    <TD><A title="Hemavan" href="/wiki/Hemavan">Hemavan</A>, Sweden</TD></TR>
+  <TR class="sortbottom">
+    <TH style="background: rgb(221, 221, 221); text-align: left;" 
+      colspan="4"><CITE id="HN"></CITE>-HN-</TH></TR>
+  <TR>
+    <TD>HNA</TD>
+    <TD>RJSI</TD>
+    <TD><A title="Hanamaki Airport" href="/wiki/Hanamaki_Airport">Hanamaki 
+      Airport</A></TD>
+    <TD><A title="Morioka" href="/wiki/Morioka">Morioka</A>, <A title="Honshū" 
+      class="mw-redirect" href="/wiki/Honsh%C5%AB">Honshū</A>, Japan</TD></TR>
+  <TR>
+    <TD>HNB</TD>
+    <TD>KHNB</TD>
+    <TD><A title="Huntingburg Airport" 
+      href="/wiki/Huntingburg_Airport">Huntingburg Airport</A></TD>
+    <TD><A title="Huntingburg, Indiana" 
+      href="/wiki/Huntingburg,_Indiana">Huntingburg, Indiana</A>, United 
+    States</TD></TR>
+  <TR>
+    <TD>HNC</TD>
+    <TD>KHSE</TD>
+    <TD><A title="Billy Mitchell Airport" 
+      href="/wiki/Billy_Mitchell_Airport">Billy Mitchell Airport</A> (FAA: 
+    HSE)</TD>
+    <TD><A title="Hatteras, North Carolina" href="/wiki/Hatteras,_North_Carolina">Hatteras, 
+      North Carolina</A>, United States</TD></TR>
+  <TR>
+    <TD>HND</TD>
+    <TD>RJTT</TD>
+    <TD><A title="Haneda Airport" href="/wiki/Haneda_Airport">Haneda 
+      Airport</A> (Haneda Airport)</TD>
+    <TD>Tokyo, <A title="Honshū" class="mw-redirect" 
+      href="/wiki/Honsh%C5%AB">Honshū</A>, Japan</TD></TR>
+  <TR>
+    <TD>HNE</TD>
+    <TD>PAHE</TD>
+    <TD><S><A title="Tahneta Pass Airport (page does not exist)" class="new" 
+      href="/w/index.php?title=Tahneta_Pass_Airport&amp;action=edit&amp;redlink=1">Tahneta 
+      Pass Airport</A></S> (closed)</TD>
+    <TD><A title="Tahneta Pass Lodge (page does not exist)" class="new" href="/w/index.php?title=Tahneta_Pass_Lodge&amp;action=edit&amp;redlink=1">Tahneta 
+      Pass Lodge</A>, <A title="Alaska" href="/wiki/Alaska">Alaska</A>, United 
+      States</TD></TR>
+  <TR>
+    <TD>HNH</TD>
+    <TD>PAOH</TD>
+    <TD><A title="Hoonah Airport" href="/wiki/Hoonah_Airport">Hoonah 
+      Airport</A></TD>
+    <TD><A title="Hoonah, Alaska" href="/wiki/Hoonah,_Alaska">Hoonah, 
+      Alaska</A>, United States</TD></TR>
+  <TR>
+    <TD>HNI</TD>
+    <TD></TD>
+    <TD><A title="Heiweni Airport (page does not exist)" class="new" href="/w/index.php?title=Heiweni_Airport&amp;action=edit&amp;redlink=1">Heiweni 
+      Airport</A></TD>
+    <TD><A title="Heiweni (page does not exist)" class="new" href="/w/index.php?title=Heiweni&amp;action=edit&amp;redlink=1">Heiweni</A>, 
+      <A title="Papua New Guinea" href="/wiki/Papua_New_Guinea">Papua New 
+      Guinea</A></TD></TR>
+  <TR>
+    <TD>HNK</TD>
+    <TD></TD>
+    <TD><A title="Hinchinbrook Island Airport (page does not exist)" class="new" 
+      href="/w/index.php?title=Hinchinbrook_Island_Airport&amp;action=edit&amp;redlink=1">Hinchinbrook 
+      Island Airport</A></TD>
+    <TD><A title="Hinchinbrook Island" 
+      href="/wiki/Hinchinbrook_Island">Hinchinbrook Island</A>, <A title="Queensland" 
+      href="/wiki/Queensland">Queensland</A>, Australia</TD></TR>
+  <TR>
+    <TD>HNL</TD>
+    <TD>PHNL</TD>
+    <TD><A title="Honolulu International Airport" href="/wiki/Honolulu_International_Airport">Honolulu 
+      International Airport</A></TD>
+    <TD><A title="Honolulu, Hawaii" class="mw-redirect" href="/wiki/Honolulu,_Hawaii">Honolulu, 
+      Hawaii</A>, United States</TD></TR>
+  <TR>
+    <TD>HNM</TD>
+    <TD>PHHN</TD>
+    <TD><A title="Hana Airport" href="/wiki/Hana_Airport">Hana Airport</A></TD>
+    <TD><A title="Hana, Hawaii" href="/wiki/Hana,_Hawaii">Hana, Hawaii</A>, 
+      United States</TD></TR>
+  <TR>
+    <TD>HNN</TD>
+    <TD></TD>
+    <TD><A title="Honinabi Airport (page does not exist)" class="new" href="/w/index.php?title=Honinabi_Airport&amp;action=edit&amp;redlink=1">Honinabi 
+      Airport</A></TD>
+    <TD><A title="Honinabi (page does not exist)" class="new" href="/w/index.php?title=Honinabi&amp;action=edit&amp;redlink=1">Honinabi</A>, 
+      <A title="Papua New Guinea" href="/wiki/Papua_New_Guinea">Papua New 
+      Guinea</A></TD></TR>
+  <TR>
+    <TD>HNS</TD>
+    <TD>PAHN</TD>
+    <TD><A title="Haines Airport" href="/wiki/Haines_Airport">Haines 
+      Airport</A></TD>
+    <TD><A title="Haines, Alaska" href="/wiki/Haines,_Alaska">Haines, 
+      Alaska</A>, United States</TD></TR>
+  <TR>
+    <TD>HNY</TD>
+    <TD>ZGHY</TD>
+    <TD><A title="Hengyang Airport" class="mw-redirect" href="/wiki/Hengyang_Airport">Hengyang 
+      Airport</A></TD>
+    <TD><A title="Hengyang" href="/wiki/Hengyang">Hengyang</A>, <A title="Hunan" 
+      href="/wiki/Hunan">Hunan</A>, China</TD></TR>
+  <TR class="sortbottom">
+    <TH style="background: rgb(221, 221, 221); text-align: left;" 
+      colspan="4"><CITE id="HO"></CITE>-HO-</TH></TR>
+  <TR>
+    <TD>HOA</TD>
+    <TD>HKHO</TD>
+    <TD><A title="Hola Airport" href="/wiki/Hola_Airport">Hola Airport</A></TD>
+    <TD><A title="Hola, Kenya" href="/wiki/Hola,_Kenya">Hola, Kenya</A></TD></TR>
+  <TR>
+    <TD>HOB</TD>
+    <TD>KHOB</TD>
+    <TD><A title="Lea County Regional Airport" href="/wiki/Lea_County_Regional_Airport">Lea 
+      County Regional Airport</A></TD>
+    <TD><A title="Hobbs, New Mexico" href="/wiki/Hobbs,_New_Mexico">Hobbs, New 
+      Mexico</A>, United States</TD></TR>
+  <TR>
+    <TD>HOC</TD>
+    <TD></TD>
+    <TD><A title="Komako Airport (page does not exist)" class="new" href="/w/index.php?title=Komako_Airport&amp;action=edit&amp;redlink=1">Komako 
+      Airport</A></TD>
+    <TD><A title="Komako" class="mw-redirect" href="/wiki/Komako">Komako</A>, 
+      <A title="Papua New Guinea" href="/wiki/Papua_New_Guinea">Papua New 
+      Guinea</A></TD></TR>
+  <TR>
+    <TD>HOD</TD>
+    <TD>OYHD</TD>
+    <TD><A title="Hodeida International Airport" href="/wiki/Hodeida_International_Airport">Hodeida 
+      International Airport</A></TD>
+    <TD><A title="Al Hudaydah" href="/wiki/Al_Hudaydah">Al Hudaydah</A> 
+      (Hodeida), <A title="Yemen" href="/wiki/Yemen">Yemen</A></TD></TR>
+  <TR>
+    <TD>HOE</TD>
+    <TD>VLHS</TD>
+    <TD><A title="Ban Huoeisay Airport" href="/wiki/Ban_Huoeisay_Airport">Ban 
+      Huoeisay Airport</A></TD>
+    <TD><A title="Houeisay (page does not exist)" class="new" href="/w/index.php?title=Houeisay&amp;action=edit&amp;redlink=1">Houeisay</A>, 
+      <A title="Laos" href="/wiki/Laos">Laos</A></TD></TR>
+  <TR>
+    <TD>HOF</TD>
+    <TD>OEAH</TD>
+    <TD><A title="Al-Ahsa Airport" class="mw-redirect" href="/wiki/Al-Ahsa_Airport">al-Ahsa 
+      Airport</A> (al-Hasa Airport)</TD>
+    <TD><A title="Hofuf" href="/wiki/Hofuf">Hofuf</A>, <A title="Saudi Arabia" 
+      href="/wiki/Saudi_Arabia">Saudi Arabia</A></TD></TR>
+  <TR>
+    <TD>HOG</TD>
+    <TD>MUHG</TD>
+    <TD><A title="Frank País Airport" 
+      href="/wiki/Frank_Pa%C3%ADs_Airport">Frank País Airport</A></TD>
+    <TD><A title="Holguín" href="/wiki/Holgu%C3%ADn">Holguín</A>, <A title="Cuba" 
+      href="/wiki/Cuba">Cuba</A></TD></TR>
+  <TR>
+    <TD>HOH</TD>
+    <TD>LOIH</TD>
+    <TD><A title="Hohenems-Dornbirn Airport" href="/wiki/Hohenems-Dornbirn_Airport">Hohenems-Dornbirn 
+      Airport</A></TD>
+    <TD><A title="Hohenems" href="/wiki/Hohenems">Hohenems</A>, Austria</TD></TR>
+  <TR>
+    <TD>HOI</TD>
+    <TD>NTTO</TD>
+    <TD><A title="Hao Airport" href="/wiki/Hao_Airport">Hao Airport</A></TD>
+    <TD><A title="Hao (French Polynesia)" 
+      href="/wiki/Hao_(French_Polynesia)">Hao</A>, <A title="Tuamotu Island" 
+      class="mw-redirect" href="/wiki/Tuamotu_Island">Tuamotu Island</A>, <A 
+      title="French Polynesia" href="/wiki/French_Polynesia">French 
+    Polynesia</A></TD></TR>
+  <TR>
+    <TD>HOK</TD>
+    <TD>YHOO</TD>
+    <TD><A title="Lajamanu Airport (page does not exist)" class="new" href="/w/index.php?title=Lajamanu_Airport&amp;action=edit&amp;redlink=1">Lajamanu 
+      Airport</A> (Hooker Creek Airport)</TD>
+    <TD><A title="Lajamanu, Northern Territory" href="/wiki/Lajamanu,_Northern_Territory">Lajamanu, 
+      Northern Territory</A>, Australia</TD></TR>
+  <TR>
+    <TD>HOM</TD>
+    <TD>PAHO</TD>
+    <TD><A title="Homer Airport" href="/wiki/Homer_Airport">Homer 
+    Airport</A></TD>
+    <TD><A title="Homer, Alaska" href="/wiki/Homer,_Alaska">Homer, Alaska</A>, 
+      United States</TD></TR>
+  <TR>
+    <TD>HON</TD>
+    <TD>KHON</TD>
+    <TD><A title="Huron Regional Airport" 
+      href="/wiki/Huron_Regional_Airport">Huron Regional Airport</A></TD>
+    <TD><A title="Huron, South Dakota" href="/wiki/Huron,_South_Dakota">Huron, 
+      South Dakota</A>, United States</TD></TR>
+  <TR>
+    <TD>HOO</TD>
+    <TD></TD>
+    <TD><A title="Nhon Co Airport (page does not exist)" class="new" href="/w/index.php?title=Nhon_Co_Airport&amp;action=edit&amp;redlink=1">Nhon 
+      Co Airport</A></TD>
+    <TD><A title="Quanduc (page does not exist)" class="new" href="/w/index.php?title=Quanduc&amp;action=edit&amp;redlink=1">Quanduc</A> 
+      (Quang Duc), <A title="Vietnam" href="/wiki/Vietnam">Vietnam</A></TD></TR>
+  <TR>
+    <TD>HOP</TD>
+    <TD>KHOP</TD>
+    <TD><A title="Campbell Army Airfield" 
+      href="/wiki/Campbell_Army_Airfield">Campbell Army Airfield</A></TD>
+    <TD><A title="Fort Campbell, Kentucky" class="mw-redirect" href="/wiki/Fort_Campbell,_Kentucky">Fort 
+      Campbell</A> / <A title="Hopkinsville, Kentucky" href="/wiki/Hopkinsville,_Kentucky">Hopkinsville, 
+      Kentucky</A>, United States</TD></TR>
+  <TR>
+    <TD>HOQ</TD>
+    <TD>EDQM</TD>
+    <TD><A title="Hof Airport" class="mw-redirect" 
+      href="/wiki/Hof_Airport">Hof Airport</A> (Plauen Airport)</TD>
+    <TD><A title="Hof, Germany" class="mw-redirect" 
+      href="/wiki/Hof,_Germany">Hof</A>, <A title="Bavaria" 
+      href="/wiki/Bavaria">Bavaria</A>, Germany</TD></TR>
+  <TR>
+    <TD>HOR</TD>
+    <TD>LPHR</TD>
+    <TD><A title="Horta Airport" href="/wiki/Horta_Airport">Horta 
+    Airport</A></TD>
+    <TD><A title="Horta (Azores)" class="mw-redirect" href="/wiki/Horta_(Azores)">Horta</A>, 
+      <A title="Azores" href="/wiki/Azores">Azores</A>, Portugal</TD></TR>
+  <TR>
+    <TD>HOS</TD>
+    <TD>SAHC</TD>
+    <TD><A title="Chos Malal Airport" href="/wiki/Chos_Malal_Airport">Chos 
+      Malal Airport</A> (Oscar Reguera Airport)</TD>
+    <TD><A title="Chos Malal" href="/wiki/Chos_Malal">Chos Malal</A>, <A 
+      title="Neuquén Province" href="/wiki/Neuqu%C3%A9n_Province">Neuquén</A>, 
+      <A title="Argentina" href="/wiki/Argentina">Argentina</A></TD></TR>
+  <TR>
+    <TD>HOT</TD>
+    <TD>KHOT</TD>
+    <TD><A title="Memorial Field Airport" 
+      href="/wiki/Memorial_Field_Airport">Memorial Field Airport</A></TD>
+    <TD><A title="Hot Springs, Arkansas" 
+      href="/wiki/Hot_Springs,_Arkansas">Hot Springs, Arkansas</A>, United 
+    States</TD></TR>
+  <TR>
+    <TD>HOU</TD>
+    <TD>KHOU</TD>
+    <TD><A title="William P. Hobby Airport" href="/wiki/William_P._Hobby_Airport">William 
+      P. Hobby Airport</A></TD>
+    <TD><A title="Houston, Texas" class="mw-redirect" href="/wiki/Houston,_Texas">Houston, 
+      Texas</A>, United States</TD></TR>
+  <TR>
+    <TD>HOV</TD>
+    <TD>ENOV</TD>
+    <TD><A title="Ørsta/Volda Airport, Hovden" class="mw-redirect" href="/wiki/%C3%98rsta/Volda_Airport,_Hovden">Ørsta/Volda 
+      Airport, Hovden</A></TD>
+    <TD><A title="Ørsta" href="/wiki/%C3%98rsta">Ørsta</A> / <A title="Volda" 
+      href="/wiki/Volda">Volda</A> / <A title="Hovden, Møre og Romsdal (page does not exist)" 
+      class="new" href="/w/index.php?title=Hovden,_M%C3%B8re_og_Romsdal&amp;action=edit&amp;redlink=1">Hovden, 
+      Møre og Romsdal</A>, Norway</TD></TR>
+  <TR>
+    <TD>HOX</TD>
+    <TD>VYHL</TD>
+    <TD><A title="Hommalinn Airport (page does not exist)" class="new" href="/w/index.php?title=Hommalinn_Airport&amp;action=edit&amp;redlink=1">Hommalinn 
+      Airport</A></TD>
+    <TD><A title="Hommalinn" class="mw-redirect" 
+      href="/wiki/Hommalinn">Hommalinn</A>, <A title="Burma" 
+      href="/wiki/Burma">Myanmar (Burma)</A></TD></TR>
+  <TR>
+    <TD>HOY</TD>
+    <TD></TD>
+    <TD><A title="Hoy Airport (page does not exist)" class="new" href="/w/index.php?title=Hoy_Airport&amp;action=edit&amp;redlink=1">Hoy 
+      Airport</A></TD>
+    <TD><A title="Longhope" href="/wiki/Longhope">Longhope</A>, <A title="Scotland" 
+      href="/wiki/Scotland">Scotland</A>, United Kingdom</TD></TR>
+  <TR class="sortbottom">
+    <TH style="background: rgb(221, 221, 221); text-align: left;" 
+      colspan="4"><CITE id="HP"></CITE>-HP-</TH></TR>
+  <TR>
+    <TD>HPA</TD>
+    <TD>NFTL</TD>
+    <TD><A title="Salote Pilolevu Airport" class="mw-redirect" href="/wiki/Salote_Pilolevu_Airport">Salote 
+      Pilolevu Airport</A></TD>
+    <TD><A title="Lifuka" href="/wiki/Lifuka">Lifuka</A>, <A title="Ha'apai" 
+      class="mw-redirect" href="/wiki/Ha%27apai">Ha'apai</A>, <A title="Tonga" 
+      href="/wiki/Tonga">Tonga</A></TD></TR>
+  <TR>
+    <TD>HPB</TD>
+    <TD>PAHP</TD>
+    <TD><A title="Hooper Bay Airport" href="/wiki/Hooper_Bay_Airport">Hooper 
+      Bay Airport</A></TD>
+    <TD><A title="Hooper Bay, Alaska" href="/wiki/Hooper_Bay,_Alaska">Hooper 
+      Bay, Alaska</A>, United States</TD></TR>
+  <TR>
+    <TD>HPE</TD>
+    <TD></TD>
+    <TD><A title="Hope Vale Airport (page does not exist)" class="new" href="/w/index.php?title=Hope_Vale_Airport&amp;action=edit&amp;redlink=1">Hope 
+      Vale Airport</A></TD>
+    <TD><A title="Hope Vale, Queensland" class="mw-redirect" href="/wiki/Hope_Vale,_Queensland">Hope 
+      Vale, Queensland</A>, Australia</TD></TR>
+  <TR>
+    <TD>HPG</TD>
+    <TD>ZHSN</TD>
+    <TD><A title="Shennongjia Hongping Airport" href="/wiki/Shennongjia_Hongping_Airport">Shennongjia 
+      Hongping Airport</A></TD>
+    <TD><A title="Shennongjia" href="/wiki/Shennongjia">Shennongjia</A>, <A 
+      title="Hubei" href="/wiki/Hubei">Hubei</A>, China</TD></TR>
+  <TR>
+    <TD>HPH</TD>
+    <TD>VVCI</TD>
+    <TD><A title="Cat Bi International Airport" href="/wiki/Cat_Bi_International_Airport">Cat 
+      Bi International Airport</A></TD>
+    <TD><A title="Haiphong" href="/wiki/Haiphong">Haiphong</A>, <A title="Vietnam" 
+      href="/wiki/Vietnam">Vietnam</A></TD></TR>
+  <TR>
+    <TD>HPN</TD>
+    <TD>KHPN</TD>
+    <TD><A title="Westchester County Airport" href="/wiki/Westchester_County_Airport">Westchester 
+      County Airport</A></TD>
+    <TD><A title="White Plains, New York" 
+      href="/wiki/White_Plains,_New_York">White Plains, New York</A>, United 
+      States</TD></TR>
+  <TR>
+    <TD>HPR</TD>
+    <TD></TD>
+    <TD><A title="Pretoria Central Heliport (page does not exist)" class="new" 
+      href="/w/index.php?title=Pretoria_Central_Heliport&amp;action=edit&amp;redlink=1">Pretoria 
+      Central Heliport</A></TD>
+    <TD><A title="Pretoria" href="/wiki/Pretoria">Pretoria</A>, South 
+  Africa</TD></TR>
+  <TR>
+    <TD>HPT</TD>
+    <TD>KHPT</TD>
+    <TD><A title="Hampton Municipal Airport (page does not exist)" class="new" 
+      href="/w/index.php?title=Hampton_Municipal_Airport&amp;action=edit&amp;redlink=1">Hampton 
+      Municipal Airport</A></TD>
+    <TD><A title="Hampton, Iowa" href="/wiki/Hampton,_Iowa">Hampton, Iowa</A>, 
+      United States</TD></TR>
+  <TR>
+    <TD>HPV</TD>
+    <TD></TD>
+    <TD><A title="Princeville Airport" 
+      href="/wiki/Princeville_Airport">Princeville Airport</A> (FAA: HI01)</TD>
+    <TD><A title="Hanalei, Hawaii" href="/wiki/Hanalei,_Hawaii">Hanalei, 
+      Hawaii</A>, United States</TD></TR>
+  <TR>
+    <TD>HPY</TD>
+    <TD>KHPY</TD>
+    <TD><A title="Baytown Airport" href="/wiki/Baytown_Airport">Baytown 
+      Airport</A></TD>
+    <TD><A title="Baytown, Texas" href="/wiki/Baytown,_Texas">Baytown, 
+      Texas</A>, United States</TD></TR>
+  <TR class="sortbottom">
+    <TH style="background: rgb(221, 221, 221); text-align: left;" 
+      colspan="4"><CITE id="HQ"></CITE>-HQ-</TH></TR>
+  <TR>
+    <TD>HQM</TD>
+    <TD>KHQM</TD>
+    <TD><A title="Bowerman Airport" href="/wiki/Bowerman_Airport">Bowerman 
+      Airport</A></TD>
+    <TD><A title="Hoquiam, Washington" 
+      href="/wiki/Hoquiam,_Washington">Hoquiam, Washington</A>, United 
+  States</TD></TR>
+  <TR class="sortbottom">
+    <TH style="background: rgb(221, 221, 221); text-align: left;" 
+      colspan="4"><CITE id="HR"></CITE>-HR-</TH></TR>
+  <TR>
+    <TD>HRA</TD>
+    <TD></TD>
+    <TD><A title="Mansehra Airport (page does not exist)" class="new" href="/w/index.php?title=Mansehra_Airport&amp;action=edit&amp;redlink=1">Mansehra 
+      Airport</A></TD>
+    <TD><A title="Mansehra" href="/wiki/Mansehra">Mansehra</A>, Pakistan</TD></TR>
+  <TR>
+    <TD>HRB</TD>
+    <TD>ZYHB</TD>
+    <TD><A title="Harbin Taiping International Airport" href="/wiki/Harbin_Taiping_International_Airport">Harbin 
+      Taiping International Airport</A></TD>
+    <TD><A title="Harbin" href="/wiki/Harbin">Harbin</A>, <A title="Heilongjiang" 
+      href="/wiki/Heilongjiang">Heilongjiang</A>, China</TD></TR>
+  <TR>
+    <TD>HRC</TD>
+    <TD></TD>
+    <TD><A title="Zhairem Airport (page does not exist)" class="new" href="/w/index.php?title=Zhairem_Airport&amp;action=edit&amp;redlink=1">Zhairem 
+      Airport</A></TD>
+    <TD><A title="Zhairem (page does not exist)" class="new" href="/w/index.php?title=Zhairem&amp;action=edit&amp;redlink=1">Zhairem</A>, 
+      <A title="Kazakhstan" href="/wiki/Kazakhstan">Kazakhstan</A></TD></TR>
+  <TR>
+    <TD>HRE</TD>
+    <TD>FVHA</TD>
+    <TD><A title="Harare International Airport" href="/wiki/Harare_International_Airport">Harare 
+      International Airport</A></TD>
+    <TD><A title="Harare" href="/wiki/Harare">Harare</A>, <A title="Zimbabwe" 
+      href="/wiki/Zimbabwe">Zimbabwe</A></TD></TR>
+  <TR>
+    <TD>HRG</TD>
+    <TD>HEGN</TD>
+    <TD><A title="Hurghada International Airport" href="/wiki/Hurghada_International_Airport">Hurghada 
+      International Airport</A></TD>
+    <TD><A title="Hurghada" href="/wiki/Hurghada">Hurghada</A>, <A title="Egypt" 
+      href="/wiki/Egypt">Egypt</A></TD></TR>
+  <TR>
+    <TD>HRI</TD>
+    <TD>VCRI</TD>
+    <TD><A title="Mattala Rajapaksa International Airport" href="/wiki/Mattala_Rajapaksa_International_Airport">Mattala 
+      Rajapaksa International Airport</A></TD>
+    <TD><A title="Hambantota" href="/wiki/Hambantota">Hambantota</A>, <A 
+      title="Sri Lanka" href="/wiki/Sri_Lanka">Sri Lanka</A></TD></TR>
+  <TR>
+    <TD>HRJ</TD>
+    <TD>VNCJ</TD>
+    <TD><A title="Chaurjhari Airport" 
+      href="/wiki/Chaurjhari_Airport">Chaurjhari Airport</A></TD>
+    <TD><A title="Chaurjhari (page does not exist)" class="new" href="/w/index.php?title=Chaurjhari&amp;action=edit&amp;redlink=1">Chaurjhari</A>, 
+      <A title="Nepal" href="/wiki/Nepal">Nepal</A></TD></TR>
+  <TR>
+    <TD>HRK</TD>
+    <TD>UKHH</TD>
+    <TD><A title="Kharkiv International Airport" href="/wiki/Kharkiv_International_Airport">Kharkiv 
+      International Airport</A> (Osnova Airport)</TD>
+    <TD><A title="Kharkiv" href="/wiki/Kharkiv">Kharkiv</A>, <A title="Ukraine" 
+      href="/wiki/Ukraine">Ukraine</A></TD></TR>
+  <TR>
+    <TD>HRL</TD>
+    <TD>KHRL</TD>
+    <TD><A title="Valley International Airport" href="/wiki/Valley_International_Airport">Valley 
+      International Airport</A></TD>
+    <TD><A title="Harlingen, Texas" href="/wiki/Harlingen,_Texas">Harlingen, 
+      Texas</A>, United States</TD></TR>
+  <TR>
+    <TD>HRM</TD>
+    <TD>DAFH</TD>
+    <TD><A title="Tilrempt Airport" class="mw-redirect" href="/wiki/Tilrempt_Airport">Tilrempt 
+      Airport</A></TD>
+    <TD><A title="Hassi R'Mel" href="/wiki/Hassi_R%27Mel">Hassi R'Mel</A>, <A 
+      title="Algeria" href="/wiki/Algeria">Algeria</A></TD></TR>
+  <TR>
+    <TD>HRN</TD>
+    <TD></TD>
+    <TD><A title="Heron Island Heliport (page does not exist)" class="new" 
+      href="/w/index.php?title=Heron_Island_Heliport&amp;action=edit&amp;redlink=1">Heron 
+      Island Heliport</A></TD>
+    <TD><A title="Heron Island, Queensland" class="mw-redirect" href="/wiki/Heron_Island,_Queensland">Heron 
+      Island, Queensland</A>, Australia</TD></TR>
+  <TR>
+    <TD>HRO</TD>
+    <TD>KHRO</TD>
+    <TD><A title="Boone County Airport (Arkansas)" href="/wiki/Boone_County_Airport_(Arkansas)">Boone 
+      County Airport</A></TD>
+    <TD><A title="Harrison, Arkansas" 
+      href="/wiki/Harrison,_Arkansas">Harrison, Arkansas</A>, United 
+States</TD></TR>
+  <TR>
+    <TD>HRR</TD>
+    <TD></TD>
+    <TD><A title="Herrera Airport, Columbia (page does not exist)" class="new" 
+      href="/w/index.php?title=Herrera_Airport,_Columbia&amp;action=edit&amp;redlink=1">Herrera 
+      Airport</A></TD>
+    <TD><A title="Herrera, Columbia (page does not exist)" class="new" href="/w/index.php?title=Herrera,_Columbia&amp;action=edit&amp;redlink=1">Herrera</A>, 
+      <A title="Colombia" href="/wiki/Colombia">Colombia</A></TD></TR>
+  <TR>
+    <TD>HRS</TD>
+    <TD>FAHR</TD>
+    <TD><A title="Harrismith Airport (page does not exist)" class="new" href="/w/index.php?title=Harrismith_Airport&amp;action=edit&amp;redlink=1">Harrismith 
+      Airport</A></TD>
+    <TD><A title="Harrismith" href="/wiki/Harrismith">Harrismith</A>, South 
+      Africa</TD></TR>
+  <TR>
+    <TD>HRT</TD>
+    <TD>EGXU</TD>
+    <TD><A title="Linton-On-Ouse Airport (page does not exist)" class="new" 
+      href="/w/index.php?title=Linton-On-Ouse_Airport&amp;action=edit&amp;redlink=1">Linton-On-Ouse 
+      Airport</A></TD>
+    <TD><A title="Harrogate" href="/wiki/Harrogate">Harrogate</A>, England, 
+      United Kingdom</TD></TR>
+  <TR>
+    <TD>HRY</TD>
+    <TD>YHBY</TD>
+    <TD><A title="Henbury Airport (page does not exist)" class="new" href="/w/index.php?title=Henbury_Airport&amp;action=edit&amp;redlink=1">Henbury 
+      Airport</A></TD>
+    <TD><A title="Henbury Station" href="/wiki/Henbury_Station">Henbury 
+      Station</A>, <A title="Northern Territory" 
+      href="/wiki/Northern_Territory">Northern Territory</A>, Australia</TD></TR>
+  <TR>
+    <TD>HRZ</TD>
+    <TD></TD>
+    <TD><A title="Horizontina Airport (page does not exist)" class="new" href="/w/index.php?title=Horizontina_Airport&amp;action=edit&amp;redlink=1">Horizontina 
+      Airport</A></TD>
+    <TD><A title="Horizontina" href="/wiki/Horizontina">Horizontina</A>, <A 
+      title="Rio Grande do Sul" href="/wiki/Rio_Grande_do_Sul">Rio Grande do 
+      Sul</A>, Brazil</TD></TR>
+  <TR class="sortbottom">
+    <TH style="background: rgb(221, 221, 221); text-align: left;" 
+      colspan="4"><CITE id="HS"></CITE>-HS-</TH></TR>
+  <TR>
+    <TD>HSB</TD>
+    <TD>KHSB</TD>
+    <TD><A title="Harrisburg-Raleigh Airport (page does not exist)" class="new" 
+      href="/w/index.php?title=Harrisburg-Raleigh_Airport&amp;action=edit&amp;redlink=1">Harrisburg-Raleigh 
+      Airport</A></TD>
+    <TD><A title="Harrisburg, Illinois" 
+      href="/wiki/Harrisburg,_Illinois">Harrisburg, Illinois</A>, United 
+    States</TD></TR>
+  <TR>
+    <TD>HSC</TD>
+    <TD></TD>
+    <TD><A title="Shaoguan Airport" class="mw-redirect" href="/wiki/Shaoguan_Airport">Shaoguan 
+      Airport</A></TD>
+    <TD><A title="Shaoguan" href="/wiki/Shaoguan">Shaoguan</A>, <A title="Guangdong" 
+      href="/wiki/Guangdong">Guangdong</A>, China</TD></TR>
+  <TR>
+    <TD>HSG</TD>
+    <TD>RJFS</TD>
+    <TD><A title="Saga Airport" href="/wiki/Saga_Airport">Saga Airport</A></TD>
+    <TD><A title="Saga, Saga" href="/wiki/Saga,_Saga">Saga</A>, <A title="Kyūshū" 
+      class="mw-redirect" href="/wiki/Ky%C5%ABsh%C5%AB">Kyūshū</A>, Japan</TD></TR>
+  <TR>
+    <TD>HSH</TD>
+    <TD>KHND</TD>
+    <TD><A title="Henderson Executive Airport" href="/wiki/Henderson_Executive_Airport">Henderson 
+      Executive Airport</A> (FAA: HND)</TD>
+    <TD><A title="Henderson, Nevada" 
+      href="/wiki/Henderson,_Nevada">Henderson</A>, United States</TD></TR>
+  <TR>
+    <TD>HSI</TD>
+    <TD>KHSI</TD>
+    <TD><A title="Hastings Municipal Airport" href="/wiki/Hastings_Municipal_Airport">Hastings 
+      Municipal Airport</A></TD>
+    <TD><A title="Hastings, Nebraska" 
+      href="/wiki/Hastings,_Nebraska">Hastings, Nebraska</A>, United 
+States</TD></TR>
+  <TR>
+    <TD>HSK</TD>
+    <TD>LEHC</TD>
+    <TD><A title="Huesca-Pirineos Airport" class="mw-redirect" href="/wiki/Huesca-Pirineos_Airport">Huesca-Pirineos 
+      Airport</A></TD>
+    <TD><A title="Huesca" href="/wiki/Huesca">Huesca</A>, Spain</TD></TR>
+  <TR>
+    <TD>HSL</TD>
+    <TD>PAHL</TD>
+    <TD><A title="Huslia Airport" href="/wiki/Huslia_Airport">Huslia 
+      Airport</A> (FAA: HLA)</TD>
+    <TD><A title="Huslia, Alaska" href="/wiki/Huslia,_Alaska">Huslia, 
+      Alaska</A>, United States</TD></TR>
+  <TR>
+    <TD>HSM</TD>
+    <TD>YHSM</TD>
+    <TD><A title="Horsham Airport" href="/wiki/Horsham_Airport">Horsham 
+      Airport</A></TD>
+    <TD><A title="Horsham, Victoria" href="/wiki/Horsham,_Victoria">Horsham, 
+      Victoria</A>, Australia</TD></TR>
+  <TR>
+    <TD>HSN</TD>
+    <TD>ZSZS</TD>
+    <TD><A title="Zhoushan Putuoshan Airport" href="/wiki/Zhoushan_Putuoshan_Airport">Zhoushan 
+      Putuoshan Airport</A></TD>
+    <TD><A title="Zhoushan" href="/wiki/Zhoushan">Zhoushan</A>, <A title="Zhejiang" 
+      href="/wiki/Zhejiang">Zhejiang</A>, China</TD></TR>
+  <TR>
+    <TD>HSP</TD>
+    <TD>KHSP</TD>
+    <TD><A title="Ingalls Field (page does not exist)" class="new" href="/w/index.php?title=Ingalls_Field&amp;action=edit&amp;redlink=1">Ingalls 
+      Field</A></TD>
+    <TD><A title="Hot Springs, Virginia" 
+      href="/wiki/Hot_Springs,_Virginia">Hot Springs, Virginia</A>, United 
+    States</TD></TR>
+  <TR>
+    <TD>HSS</TD>
+    <TD>VIHR</TD>
+    <TD><A title="Hissar Airport (page does not exist)" class="new" href="/w/index.php?title=Hissar_Airport&amp;action=edit&amp;redlink=1">Hissar 
+      Airport</A></TD>
+    <TD><A title="Hisar, India" class="mw-redirect" 
+      href="/wiki/Hisar,_India">Hissar</A>, India</TD></TR>
+  <TR>
+    <TD>HST</TD>
+    <TD>KHST</TD>
+    <TD><A title="Homestead Air Reserve Base" href="/wiki/Homestead_Air_Reserve_Base">Homestead 
+      Air Reserve Base</A></TD>
+    <TD><A title="Homestead, Florida" 
+      href="/wiki/Homestead,_Florida">Homestead, Florida</A>, United 
+States</TD></TR>
+  <TR>
+    <TD>HSV</TD>
+    <TD>KHSV</TD>
+    <TD><A title="Huntsville International Airport" href="/wiki/Huntsville_International_Airport">Huntsville 
+      International Airport</A> (Carl T. Jones Field)</TD>
+    <TD><A title="Huntsville, Alabama" 
+      href="/wiki/Huntsville,_Alabama">Huntsville</A> / <A title="Decatur, Alabama" 
+      href="/wiki/Decatur,_Alabama">Decatur, Alabama</A>, United States</TD></TR>
+  <TR>
+    <TD>HSZ</TD>
+    <TD>RCPO</TD>
+    <TD><A title="Hsinchu Airport (page does not exist)" class="new" href="/w/index.php?title=Hsinchu_Airport&amp;action=edit&amp;redlink=1">Hsinchu 
+      Airport</A></TD>
+    <TD><A title="Hsinchu" href="/wiki/Hsinchu">Hsinchu</A>, <A title="Taiwan" 
+      href="/wiki/Taiwan">Taiwan</A></TD></TR>
+  <TR class="sortbottom">
+    <TH style="background: rgb(221, 221, 221); text-align: left;" 
+      colspan="4"><CITE id="HT"></CITE>-HT-</TH></TR>
+  <TR>
+    <TD>HTA</TD>
+    <TD>UIAA</TD>
+    <TD><A title="Kadala Airport" href="/wiki/Kadala_Airport">Kadala 
+      Airport</A></TD>
+    <TD><A title="Chita, Zabaykalsky Krai" href="/wiki/Chita,_Zabaykalsky_Krai">Chita</A>, 
+      Russia</TD></TR>
+  <TR>
+    <TD>HTB</TD>
+    <TD></TD>
+    <TD><A title="Terre-de-Bas Airport (page does not exist)" class="new" 
+      href="/w/index.php?title=Terre-de-Bas_Airport&amp;action=edit&amp;redlink=1">Terre-de-Bas 
+      Airport</A></TD>
+    <TD><A title="Terre-de-Bas" href="/wiki/Terre-de-Bas">Terre-de-Bas</A>, <A 
+      title="Guadeloupe" href="/wiki/Guadeloupe">Guadeloupe</A></TD></TR>
+  <TR>
+    <TD>HTF</TD>
+    <TD>EGTH</TD>
+    <TD><S><A title="Hatfield Aerodrome" 
+      href="/wiki/Hatfield_Aerodrome">Hatfield Aerodrome</A></S> (closed 
+    1990s)</TD>
+    <TD><A title="Hatfield, Hertfordshire" href="/wiki/Hatfield,_Hertfordshire">Hatfield, 
+      Hertfordshire</A>, England, United Kingdom</TD></TR>
+  <TR>
+    <TD>HTG</TD>
+    <TD>UOHH</TD>
+    <TD><A title="Hatanga Airport" class="mw-redirect" href="/wiki/Hatanga_Airport">Hatanga 
+      Airport</A></TD>
+    <TD><A title="Khatanga (village)" class="mw-redirect" href="/wiki/Khatanga_(village)">Khatanga</A>, 
+      <A title="Krasnoyarsk Krai" href="/wiki/Krasnoyarsk_Krai">Krasnoyarsk 
+      Krai</A>, Russia</TD></TR>
+  <TR>
+    <TD>HTH</TD>
+    <TD>KHTH</TD>
+    <TD><A title="Hawthorne Industrial Airport" href="/wiki/Hawthorne_Industrial_Airport">Hawthorne 
+      Industrial Airport</A></TD>
+    <TD><A title="Hawthorne, Nevada" href="/wiki/Hawthorne,_Nevada">Hawthorne, 
+      Nevada</A>, United States</TD></TR>
+  <TR>
+    <TD>HTI</TD>
+    <TD>YBHM</TD>
+    <TD><A title="Great Barrier Reef Airport" href="/wiki/Great_Barrier_Reef_Airport">Great 
+      Barrier Reef Airport</A></TD>
+    <TD><A title="Hamilton Island (Queensland)" href="/wiki/Hamilton_Island_(Queensland)">Hamilton 
+      Island</A>, <A title="Queensland" href="/wiki/Queensland">Queensland</A>, 
+      Australia</TD></TR>
+  <TR>
+    <TD>HTL</TD>
+    <TD>KHTL</TD>
+    <TD><A title="Roscommon County - Blodgett Memorial Airport" class="mw-redirect" 
+      href="/wiki/Roscommon_County_-_Blodgett_Memorial_Airport">Roscommon County 
+      - Blodgett Memorial Airport</A></TD>
+    <TD><A title="Houghton Lake, Michigan" href="/wiki/Houghton_Lake,_Michigan">Houghton 
+      Lake, Michigan</A>, United States</TD></TR>
+  <TR>
+    <TD>HTN</TD>
+    <TD>ZWTN</TD>
+    <TD><A title="Hotan Airport" href="/wiki/Hotan_Airport">Hotan 
+    Airport</A></TD>
+    <TD><A title="Hotan" href="/wiki/Hotan">Hotan</A>, <A title="Xinjiang" 
+      href="/wiki/Xinjiang">Xinjiang</A>, China</TD></TR>
+  <TR>
+    <TD>HTO</TD>
+    <TD>KHTO</TD>
+    <TD><A title="East Hampton Airport" href="/wiki/East_Hampton_Airport">East 
+      Hampton Airport</A></TD>
+    <TD><A title="East Hampton (town), New York" href="/wiki/East_Hampton_(town),_New_York">East 
+      Hampton, New York</A>, United States</TD></TR>
+  <TR>
+    <TD>HTR</TD>
+    <TD>RORH</TD>
+    <TD><A title="Hateruma Airport" href="/wiki/Hateruma_Airport">Hateruma 
+      Airport</A></TD>
+    <TD><A title="Hateruma" href="/wiki/Hateruma">Hateruma</A>, <A title="Okinawa" 
+      class="mw-redirect" href="/wiki/Okinawa">Okinawa</A>, Japan</TD></TR>
+  <TR>
+    <TD>HTS</TD>
+    <TD>KHTS</TD>
+    <TD><A title="Tri-State Airport" href="/wiki/Tri-State_Airport">Tri-State 
+      Airport</A> (Milton J. Ferguson Field)</TD>
+    <TD><A title="Huntington, West Virginia" href="/wiki/Huntington,_West_Virginia">Huntington, 
+      West Virginia</A>, United States</TD></TR>
+  <TR>
+    <TD>HTU</TD>
+    <TD>YHPN</TD>
+    <TD><A title="Hopetoun Airport" href="/wiki/Hopetoun_Airport">Hopetoun 
+      Airport</A></TD>
+    <TD><A title="Hopetoun, Victoria" 
+      href="/wiki/Hopetoun,_Victoria">Hopetoun, Victoria</A>, Australia</TD></TR>
+  <TR>
+    <TD>HTV</TD>
+    <TD>KUTS</TD>
+    <TD><A title="Huntsville Municipal Airport (Texas)" class="mw-redirect" 
+      href="/wiki/Huntsville_Municipal_Airport_(Texas)">Huntsville Municipal 
+      Airport</A></TD>
+    <TD><A title="Huntsville, Texas" 
+      href="/wiki/Huntsville,_Texas">Huntsville, Texas</A>, United States</TD></TR>
+  <TR>
+    <TD>HTW</TD>
+    <TD>KHTW</TD>
+    <TD><A title="Lawrence County Airpark" href="/wiki/Lawrence_County_Airpark">Lawrence 
+      County Airpark</A></TD>
+    <TD><A title="Chesapeake, Ohio" href="/wiki/Chesapeake,_Ohio">Chesapeake, 
+      Ohio</A> / <A title="Huntington, West Virginia" href="/wiki/Huntington,_West_Virginia">Huntington, 
+      West Virginia</A>, United States</TD></TR>
+  <TR>
+    <TD>HTY</TD>
+    <TD>LTDA</TD>
+    <TD><A title="Hatay Airport" href="/wiki/Hatay_Airport">Hatay 
+    Airport</A></TD>
+    <TD><A title="Hatay Province" href="/wiki/Hatay_Province">Hatay</A>, 
+    Turkey</TD></TR>
+  <TR>
+    <TD>HTZ</TD>
+    <TD>SKHC</TD>
+    <TD><A title="Hato Corozal Airport (page does not exist)" class="new" 
+      href="/w/index.php?title=Hato_Corozal_Airport&amp;action=edit&amp;redlink=1">Hato 
+      Corozal Airport</A></TD>
+    <TD><A title="Hato Corozal" href="/wiki/Hato_Corozal">Hato Corozal</A>, <A 
+      title="Colombia" href="/wiki/Colombia">Colombia</A></TD></TR>
+  <TR class="sortbottom">
+    <TH style="background: rgb(221, 221, 221); text-align: left;" 
+      colspan="4"><CITE id="HU"></CITE>-HU-</TH></TR>
+  <TR>
+    <TD>HUA</TD>
+    <TD>KHUA</TD>
+    <TD><A title="Redstone Army Airfield" 
+      href="/wiki/Redstone_Army_Airfield">Redstone Army Airfield</A></TD>
+    <TD><A title="Redstone Arsenal" href="/wiki/Redstone_Arsenal">Redstone 
+      Arsenal</A> (near <A title="Huntsville, Alabama" href="/wiki/Huntsville,_Alabama">Huntsville</A>), 
+      <A title="Alabama" href="/wiki/Alabama">Alabama</A>, United States</TD></TR>
+  <TR>
+    <TD>HUB</TD>
+    <TD>YHBR</TD>
+    <TD><A title="Humbert River Airport (page does not exist)" class="new" 
+      href="/w/index.php?title=Humbert_River_Airport&amp;action=edit&amp;redlink=1">Humbert 
+      River Airport</A></TD>
+    <TD><A title="Humbert River (page does not exist)" class="new" href="/w/index.php?title=Humbert_River&amp;action=edit&amp;redlink=1">Humbert 
+      River</A>, <A title="Northern Territory" 
+      href="/wiki/Northern_Territory">Northern Territory</A>, Australia</TD></TR>
+  <TR>
+    <TD>HUC</TD>
+    <TD></TD>
+    <TD><A title="Humacao Airport" href="/wiki/Humacao_Airport">Humacao 
+      Airport</A></TD>
+    <TD><A title="Humacao, Puerto Rico" 
+      href="/wiki/Humacao,_Puerto_Rico">Humacao, Puerto Rico</A>, United 
+    States</TD></TR>
+  <TR>
+    <TD>HUD</TD>
+    <TD></TD>
+    <TD><A title="Humboldt Municipal Airport (Iowa)" href="/wiki/Humboldt_Municipal_Airport_(Iowa)">Humboldt 
+      Municipal Airport</A> (FAA: 0K7)</TD>
+    <TD><A title="Humboldt, Iowa" href="/wiki/Humboldt,_Iowa">Humboldt, 
+      Iowa</A>, United States</TD></TR>
+  <TR>
+    <TD>HUE</TD>
+    <TD>HAHU</TD>
+    <TD><A title="Humera Airport" href="/wiki/Humera_Airport">Humera 
+      Airport</A></TD>
+    <TD><A title="Humera" href="/wiki/Humera">Humera</A>, <A title="Ethiopia" 
+      href="/wiki/Ethiopia">Ethiopia</A></TD></TR>
+  <TR>
+    <TD>HUF</TD>
+    <TD>KHUF</TD>
+    <TD><A title="Terre Haute International Airport" href="/wiki/Terre_Haute_International_Airport">Terre 
+      Haute International Airport</A> (Hulman Field)</TD>
+    <TD><A title="Terre Haute, Indiana" 
+      href="/wiki/Terre_Haute,_Indiana">Terre Haute, Indiana</A>, United 
+    States</TD></TR>
+  <TR>
+    <TD>HUG</TD>
+    <TD>MGHT</TD>
+    <TD><A title="Huehuetenango Airport (page does not exist)" class="new" 
+      href="/w/index.php?title=Huehuetenango_Airport&amp;action=edit&amp;redlink=1">Huehuetenango 
+      Airport</A></TD>
+    <TD><A title="Huehuetenango" href="/wiki/Huehuetenango">Huehuetenango</A>, 
+      <A title="Huehuetenango" href="/wiki/Huehuetenango">Huehuetenango</A>, <A 
+      title="Guatemala" href="/wiki/Guatemala">Guatemala</A></TD></TR>
+  <TR>
+    <TD>HUH</TD>
+    <TD>NTTH</TD>
+    <TD><A title="Fare Airport" class="mw-redirect" 
+      href="/wiki/Fare_Airport">Fare Airport</A></TD>
+    <TD><A title="Huahine" href="/wiki/Huahine">Huahine</A>, <A title="Society Islands" 
+      href="/wiki/Society_Islands">Society Islands</A>, <A title="French Polynesia" 
+      href="/wiki/French_Polynesia">French Polynesia</A></TD></TR>
+  <TR>
+    <TD>HUI</TD>
+    <TD>VVPB</TD>
+    <TD><A title="Phu Bai International Airport" href="/wiki/Phu_Bai_International_Airport">Phu 
+      Bai International Airport</A></TD>
+    <TD><A title="Huế" href="/wiki/Hu%E1%BA%BF">Huế</A>, <A title="Thừa Thiên–Huế Province" 
+      href="/wiki/Th%E1%BB%ABa_Thi%C3%AAn%E2%80%93Hu%E1%BA%BF_Province">Thừa 
+      Thiên–Huế</A>, <A title="Vietnam" href="/wiki/Vietnam">Vietnam</A></TD></TR>
+  <TR>
+    <TD>HUJ</TD>
+    <TD>KHHW</TD>
+    <TD><A title="Stan Stamper Municipal Airport" href="/wiki/Stan_Stamper_Municipal_Airport">Stan 
+      Stamper Municipal Airport</A> (FAA: HHW)</TD>
+    <TD><A title="Hugo, Oklahoma" href="/wiki/Hugo,_Oklahoma">Hugo, 
+      Oklahoma</A>, United States</TD></TR>
+  <TR>
+    <TD>HUK</TD>
+    <TD></TD>
+    <TD><A title="Hukuntsi Airport" href="/wiki/Hukuntsi_Airport">Hukuntsi 
+      Airport</A></TD>
+    <TD><A title="Hukuntsi" href="/wiki/Hukuntsi">Hukuntsi</A>, <A title="Botswana" 
+      href="/wiki/Botswana">Botswana</A></TD></TR>
+  <TR>
+    <TD>HUL</TD>
+    <TD>KHUL</TD>
+    <TD><A title="Houlton International Airport" href="/wiki/Houlton_International_Airport">Houlton 
+      International Airport</A></TD>
+    <TD><A title="Houlton, Maine" href="/wiki/Houlton,_Maine">Houlton, 
+      Maine</A>, United States</TD></TR>
+  <TR>
+    <TD>HUM</TD>
+    <TD>KHUM</TD>
+    <TD><A title="Houma-Terrebonne Airport" class="mw-redirect" href="/wiki/Houma-Terrebonne_Airport">Houma-Terrebonne 
+      Airport</A></TD>
+    <TD><A title="Houma, Louisiana" href="/wiki/Houma,_Louisiana">Houma, 
+      Louisiana</A>, United States</TD></TR>
+  <TR>
+    <TD>HUN</TD>
+    <TD>RCYU</TD>
+    <TD><A title="Hualien Airport" href="/wiki/Hualien_Airport">Hualien 
+      Airport</A></TD>
+    <TD><A title="Hualien City" href="/wiki/Hualien_City">Hualien</A>, <A 
+      title="Taiwan" href="/wiki/Taiwan">Taiwan</A>, <A title="Republic of China" 
+      class="mw-redirect" href="/wiki/Republic_of_China">Republic of 
+  China</A></TD></TR>
+  <TR>
+    <TD>HUQ</TD>
+    <TD>HLON</TD>
+    <TD><A title="Hun Airport (page does not exist)" class="new" href="/w/index.php?title=Hun_Airport&amp;action=edit&amp;redlink=1">Hun 
+      Airport</A></TD>
+    <TD><A title="Hun, Libya" href="/wiki/Hun,_Libya">Hun, Libya</A></TD></TR>
+  <TR>
+    <TD>HUS</TD>
+    <TD>PAHU</TD>
+    <TD><A title="Hughes Airport (Alaska)" href="/wiki/Hughes_Airport_(Alaska)">Hughes 
+      Airport</A></TD>
+    <TD><A title="Hughes, Alaska" href="/wiki/Hughes,_Alaska">Hughes, 
+      Alaska</A>, United States</TD></TR>
+  <TR>
+    <TD>HUT</TD>
+    <TD>KHUT</TD>
+    <TD><A title="Hutchinson Municipal Airport (Kansas)" href="/wiki/Hutchinson_Municipal_Airport_(Kansas)">Hutchinson 
+      Municipal Airport</A></TD>
+    <TD><A title="Hutchinson, Kansas" 
+      href="/wiki/Hutchinson,_Kansas">Hutchinson, Kansas</A>, United 
+States</TD></TR>
+  <TR>
+    <TD>HUU</TD>
+    <TD>SPNC</TD>
+    <TD><A title="Alf. FAP David Figueroa Fernandini Airport" class="mw-redirect" 
+      href="/wiki/Alf._FAP_David_Figueroa_Fernandini_Airport">Alférez FAP David 
+      Figueroa Fernandini Airport</A></TD>
+    <TD><A title="Huánuco" href="/wiki/Hu%C3%A1nuco">Huánuco</A>, <A title="Huánuco Region" 
+      href="/wiki/Hu%C3%A1nuco_Region">Huánuco Region</A>, <A title="Peru" href="/wiki/Peru">Peru</A></TD></TR>
+  <TR>
+    <TD>HUV</TD>
+    <TD>ESNH</TD>
+    <TD><A title="Hudiksvall Airport (page does not exist)" class="new" href="/w/index.php?title=Hudiksvall_Airport&amp;action=edit&amp;redlink=1">Hudiksvall 
+      Airport</A></TD>
+    <TD><A title="Hudiksvall" href="/wiki/Hudiksvall">Hudiksvall</A>, 
+  Sweden</TD></TR>
+  <TR>
+    <TD>HUX</TD>
+    <TD>MMBT</TD>
+    <TD><A title="Huatulco International Airport" class="mw-redirect" href="/wiki/Huatulco_International_Airport">Huatulco 
+      International Airport</A></TD>
+    <TD><A title="Huatulco" href="/wiki/Huatulco">Huatulco</A> (Bahías de 
+      Huatulco), <A title="Oaxaca" href="/wiki/Oaxaca">Oaxaca</A>, Mexico</TD></TR>
+  <TR>
+    <TD>HUY</TD>
+    <TD>EGNJ</TD>
+    <TD><A title="Humberside Airport" 
+      href="/wiki/Humberside_Airport">Humberside Airport</A></TD>
+    <TD><A title="North Lincolnshire" href="/wiki/North_Lincolnshire">North 
+      Lincolnshire</A>, United Kingdom</TD></TR>
+  <TR>
+    <TD>HUZ</TD>
+    <TD>ZGHZ</TD>
+    <TD><A title="Huizhou Airport" href="/wiki/Huizhou_Airport">Huizhou 
+      Airport</A></TD>
+    <TD><A title="Huizhou" href="/wiki/Huizhou">Huizhou</A>, <A title="Guangdong" 
+      href="/wiki/Guangdong">Guangdong</A>, China</TD></TR>
+  <TR class="sortbottom">
+    <TH style="background: rgb(221, 221, 221); text-align: left;" 
+      colspan="4"><CITE id="HV"></CITE>-HV-</TH></TR>
+  <TR>
+    <TD>HVA</TD>
+    <TD>FMNL</TD>
+    <TD><A title="Analalava Airport" href="/wiki/Analalava_Airport">Analalava 
+      Airport</A></TD>
+    <TD><A title="Analalava" href="/wiki/Analalava">Analalava</A>, <A title="Madagascar" 
+      href="/wiki/Madagascar">Madagascar</A></TD></TR>
+  <TR>
+    <TD>HVB</TD>
+    <TD>YHBA</TD>
+    <TD><A title="Hervey Bay Airport" href="/wiki/Hervey_Bay_Airport">Hervey 
+      Bay Airport</A></TD>
+    <TD><A title="Hervey Bay" href="/wiki/Hervey_Bay">Hervey Bay</A>, <A 
+      title="Queensland" href="/wiki/Queensland">Queensland</A>, Australia</TD></TR>
+  <TR>
+    <TD>HVD</TD>
+    <TD>ZMKD</TD>
+    <TD><A title="Khovd Airport" href="/wiki/Khovd_Airport">Khovd 
+    Airport</A></TD>
+    <TD><A title="Khovd (city)" href="/wiki/Khovd_(city)">Khovd</A>, <A title="Mongolia" 
+      href="/wiki/Mongolia">Mongolia</A></TD></TR>
+  <TR>
+    <TD>HVE</TD>
+    <TD>KHVE</TD>
+    <TD><A title="Hanksville Airport (page does not exist)" class="new" href="/w/index.php?title=Hanksville_Airport&amp;action=edit&amp;redlink=1">Hanksville 
+      Airport</A></TD>
+    <TD><A title="Hanksville, Utah" href="/wiki/Hanksville,_Utah">Hanksville, 
+      Utah</A>, United States</TD></TR>
+  <TR>
+    <TD>HVG</TD>
+    <TD>ENHV</TD>
+    <TD><A title="Honningsvåg Airport, Valan" href="/wiki/Honningsv%C3%A5g_Airport,_Valan">Honningsvåg 
+      Airport, Valan</A></TD>
+    <TD><A title="Nordkapp" href="/wiki/Nordkapp">Nordkapp</A>, <A title="Finnmark" 
+      href="/wiki/Finnmark">Finnmark</A>, Norway</TD></TR>
+  <TR>
+    <TD>HVK</TD>
+    <TD>BIHK</TD>
+    <TD><A title="Hólmavík Airport" 
+      href="/wiki/H%C3%B3lmav%C3%ADk_Airport">Hólmavík Airport</A></TD>
+    <TD><A title="Hólmavík" href="/wiki/H%C3%B3lmav%C3%ADk">Hólmavík</A>, <A 
+      title="Iceland" href="/wiki/Iceland">Iceland</A></TD></TR>
+  <TR>
+    <TD>HVM</TD>
+    <TD>BIHV</TD>
+    <TD><A title="Krókstaðarmelar Airport (page does not exist)" class="new" 
+      href="/w/index.php?title=Kr%C3%B3ksta%C3%B0armelar_Airport&amp;action=edit&amp;redlink=1">Krókstaðarmelar 
+      Airport</A> (Krokstadarmelar)</TD>
+    <TD><A title="Hvammstangi" href="/wiki/Hvammstangi">Hvammstangi</A>, <A 
+      title="Iceland" href="/wiki/Iceland">Iceland</A></TD></TR>
+  <TR>
+    <TD>HVN</TD>
+    <TD>KHVN</TD>
+    <TD><A title="Tweed-New Haven Airport" class="mw-redirect" href="/wiki/Tweed-New_Haven_Airport">Tweed-New 
+      Haven Airport</A></TD>
+    <TD><A title="New Haven, Connecticut" 
+      href="/wiki/New_Haven,_Connecticut">New Haven, Connecticut</A>, United 
+      States</TD></TR>
+  <TR>
+    <TD>HVR</TD>
+    <TD>KHVR</TD>
+    <TD><A title="Havre City-County Airport" class="mw-redirect" href="/wiki/Havre_City-County_Airport">Havre 
+      City-County Airport</A></TD>
+    <TD><A title="Havre, Montana" href="/wiki/Havre,_Montana">Havre, 
+      Montana</A>, United States</TD></TR>
+  <TR>
+    <TD>HVS</TD>
+    <TD>KHVS</TD>
+    <TD><A title="Hartsville Regional Airport" href="/wiki/Hartsville_Regional_Airport">Hartsville 
+      Regional Airport</A></TD>
+    <TD><A title="Hartsville, South Carolina" href="/wiki/Hartsville,_South_Carolina">Hartsville, 
+      South Carolina</A>, United States</TD></TR>
+  <TR class="sortbottom">
+    <TH style="background: rgb(221, 221, 221); text-align: left;" 
+      colspan="4"><CITE id="HW"></CITE>-HW-</TH></TR>
+  <TR>
+    <TD>HWA</TD>
+    <TD></TD>
+    <TD><A title="Hawabango Airport (page does not exist)" class="new" href="/w/index.php?title=Hawabango_Airport&amp;action=edit&amp;redlink=1">Hawabango 
+      Airport</A></TD>
+    <TD><A title="Hawabango (page does not exist)" class="new" href="/w/index.php?title=Hawabango&amp;action=edit&amp;redlink=1">Hawabango</A>, 
+      <A title="Papua New Guinea" href="/wiki/Papua_New_Guinea">Papua New 
+      Guinea</A></TD></TR>
+  <TR>
+    <TD>HWD</TD>
+    <TD>KHWD</TD>
+    <TD><A title="Hayward Executive Airport" href="/wiki/Hayward_Executive_Airport">Hayward 
+      Executive Airport</A></TD>
+    <TD><A title="Hayward, California" 
+      href="/wiki/Hayward,_California">Hayward, California</A>, United 
+  States</TD></TR>
+  <TR>
+    <TD>HWI</TD>
+    <TD></TD>
+    <TD><A title="Hawk Inlet Seaplane Base (page does not exist)" class="new" 
+      href="/w/index.php?title=Hawk_Inlet_Seaplane_Base&amp;action=edit&amp;redlink=1">Hawk 
+      Inlet Seaplane Base</A></TD>
+    <TD><A title="Hawk Inlet (page does not exist)" class="new" href="/w/index.php?title=Hawk_Inlet&amp;action=edit&amp;redlink=1">Hawk 
+      Inlet</A>, <A title="Alaska" href="/wiki/Alaska">Alaska</A>, United 
+    States</TD></TR>
+  <TR>
+    <TD>HWK</TD>
+    <TD>YHAW</TD>
+    <TD><A title="Wilpena Pound" href="/wiki/Wilpena_Pound">Wilpena 
+    Pound</A></TD>
+    <TD><A title="Hawker, South Australia" href="/wiki/Hawker,_South_Australia">Hawker, 
+      South Australia</A>, Australia</TD></TR>
+  <TR>
+    <TD>HWN</TD>
+    <TD>FVWN</TD>
+    <TD><A title="Hwange National Park Airport" href="/wiki/Hwange_National_Park_Airport">Hwange 
+      National Park Airport</A></TD>
+    <TD><A title="Hwange National Park" 
+      href="/wiki/Hwange_National_Park">Hwange National Park</A>, <A title="Zimbabwe" 
+      href="/wiki/Zimbabwe">Zimbabwe</A></TD></TR>
+  <TR>
+    <TD>HWO</TD>
+    <TD>KHWO</TD>
+    <TD><A title="North Perry Airport" href="/wiki/North_Perry_Airport">North 
+      Perry Airport</A></TD>
+    <TD><A title="Hollywood, Florida" 
+      href="/wiki/Hollywood,_Florida">Hollywood, Florida</A>, United 
+States</TD></TR>
+  <TR class="sortbottom">
+    <TH style="background: rgb(221, 221, 221); text-align: left;" 
+      colspan="4"><CITE id="HX"></CITE>-HX-</TH></TR>
+  <TR>
+    <TD>HXD</TD>
+    <TD>ZLDL</TD>
+    <TD><A title="Delingha Airport" href="/wiki/Delingha_Airport">Delingha 
+      Airport</A></TD>
+    <TD><A title="Delingha" class="mw-redirect" 
+      href="/wiki/Delingha">Delingha</A>, <A title="Qinghai" href="/wiki/Qinghai">Qinghai</A>, 
+      China</TD></TR>
+  <TR>
+    <TD>HXX</TD>
+    <TD>YHAY</TD>
+    <TD><A title="Hay Airport" href="/wiki/Hay_Airport">Hay Airport</A></TD>
+    <TD><A title="Hay, New South Wales" href="/wiki/Hay,_New_South_Wales">Hay, 
+      New South Wales</A>, Australia</TD></TR>
+  <TR class="sortbottom">
+    <TH style="background: rgb(221, 221, 221); text-align: left;" 
+      colspan="4"><CITE id="HY"></CITE>-HY-</TH></TR>
+  <TR>
+    <TD>HYA</TD>
+    <TD>KHYA</TD>
+    <TD><A title="Barnstable Municipal Airport" href="/wiki/Barnstable_Municipal_Airport">Barnstable 
+      Municipal Airport</A> (Boardman/Polando Field)</TD>
+    <TD><A title="Hyannis, Massachusetts" 
+      href="/wiki/Hyannis,_Massachusetts">Hyannis, Massachusetts</A>, United 
+      States</TD></TR>
+  <TR>
+    <TD>HYC</TD>
+    <TD>EGUH</TD>
+    <TD><A title="RAF High Wycombe" href="/wiki/RAF_High_Wycombe">RAF High 
+      Wycombe</A></TD>
+    <TD><A title="High Wycombe" href="/wiki/High_Wycombe">High Wycombe</A>, <A 
+      title="Buckinghamshire" href="/wiki/Buckinghamshire">Buckinghamshire</A>, 
+      England, United Kingdom</TD></TR>
+  <TR>
+    <TD>HYD</TD>
+    <TD>VOHS</TD>
+    <TD><A title="Rajiv Gandhi International Airport" href="/wiki/Rajiv_Gandhi_International_Airport">Rajiv 
+      Gandhi International Airport</A> (succeeded <A title="Begumpet Airport" 
+      href="/wiki/Begumpet_Airport">Begumpet Airport</A>)</TD>
+    <TD><A title="Hyderabad, India" class="mw-redirect" href="/wiki/Hyderabad,_India">Hyderabad, 
+      India</A></TD></TR>
+  <TR>
+    <TD>HYF</TD>
+    <TD></TD>
+    <TD><A title="Hayfields Airport (page does not exist)" class="new" href="/w/index.php?title=Hayfields_Airport&amp;action=edit&amp;redlink=1">Hayfields 
+      Airport</A></TD>
+    <TD><A title="Hayfields (page does not exist)" class="new" href="/w/index.php?title=Hayfields&amp;action=edit&amp;redlink=1">Hayfields</A>, 
+      <A title="Papua New Guinea" href="/wiki/Papua_New_Guinea">Papua New 
+      Guinea</A></TD></TR>
+  <TR>
+    <TD>HYG</TD>
+    <TD>PAHY</TD>
+    <TD><A title="Hydaburg Seaplane Base" 
+      href="/wiki/Hydaburg_Seaplane_Base">Hydaburg Seaplane Base</A></TD>
+    <TD><A title="Hydaburg, Alaska" href="/wiki/Hydaburg,_Alaska">Hydaburg, 
+      Alaska</A>, United States</TD></TR>
+  <TR>
+    <TD>HYL</TD>
+    <TD></TD>
+    <TD><A title="Hollis Seaplane Base" 
+      href="/wiki/Hollis_Seaplane_Base">Hollis Seaplane Base</A></TD>
+    <TD><A title="Hollis, Alaska" href="/wiki/Hollis,_Alaska">Hollis, 
+      Alaska</A>, United States</TD></TR>
+  <TR>
+    <TD>HYN</TD>
+    <TD>ZSLQ</TD>
+    <TD><A title="Taizhou Luqiao Airport" 
+      href="/wiki/Taizhou_Luqiao_Airport">Taizhou Luqiao Airport</A></TD>
+    <TD><A title="Taizhou, Zhejiang" href="/wiki/Taizhou,_Zhejiang">Taizhou, 
+      Zhejiang</A>, China</TD></TR>
+  <TR>
+    <TD>HYR</TD>
+    <TD>KHYR</TD>
+    <TD><A title="Sawyer County Airport" 
+      href="/wiki/Sawyer_County_Airport">Sawyer County Airport</A></TD>
+    <TD><A title="Hayward, Wisconsin" href="/wiki/Hayward,_Wisconsin">Hayward, 
+      Wisconsin</A>, United States</TD></TR>
+  <TR>
+    <TD>HYS</TD>
+    <TD>KHYS</TD>
+    <TD><A title="Hays Regional Airport" 
+      href="/wiki/Hays_Regional_Airport">Hays Regional Airport</A></TD>
+    <TD><A title="Hays, Kansas" href="/wiki/Hays,_Kansas">Hays, Kansas</A>, 
+      United States</TD></TR>
+  <TR>
+    <TD>HYV</TD>
+    <TD>EFHV</TD>
+    <TD><A title="Hyvinkää Airport" class="mw-redirect" href="/wiki/Hyvink%C3%A4%C3%A4_Airport">Hyvinkää 
+      Airport</A></TD>
+    <TD><A title="Hyvinkää" href="/wiki/Hyvink%C3%A4%C3%A4">Hyvinkää</A>, 
+      Finland</TD></TR>
+  <TR class="sortbottom">
+    <TH style="background: rgb(221, 221, 221); text-align: left;" 
+      colspan="4"><CITE id="HZ"></CITE>-HZ-</TH></TR>
+  <TR>
+    <TD>HZB</TD>
+    <TD>LFQT</TD>
+    <TD><A title="Merville - Calonne Airport" class="mw-redirect" href="/wiki/Merville_-_Calonne_Airport">Merville 
+      - Calonne Airport</A></TD>
+    <TD><A title="Merville, Nord" href="/wiki/Merville,_Nord">Merville</A> / 
+      <A title="Calonne-sur-la-Lys" href="/wiki/Calonne-sur-la-Lys">Calonne</A>, 
+      France</TD></TR>
+  <TR>
+    <TD>HZG</TD>
+    <TD>ZLHZ</TD>
+    <TD><A title="Hanzhong Airport" class="mw-redirect" href="/wiki/Hanzhong_Airport">Hanzhong 
+      Airport</A></TD>
+    <TD><A title="Hanzhong" href="/wiki/Hanzhong">Hanzhong</A>, <A title="Shaanxi" 
+      href="/wiki/Shaanxi">Shaanxi</A>, China</TD></TR>
+  <TR>
+    <TD>HZH</TD>
+    <TD>ZUNP</TD>
+    <TD><A title="Liping Airport" href="/wiki/Liping_Airport">Liping 
+      Airport</A></TD>
+    <TD><A title="Liping County" href="/wiki/Liping_County">Liping County</A>, 
+      <A title="Guizhou" href="/wiki/Guizhou">Guizhou</A>, China</TD></TR>
+  <TR>
+    <TD>HZK</TD>
+    <TD>BIHU</TD>
+    <TD><A title="Húsavík Airport" 
+      href="/wiki/H%C3%BAsav%C3%ADk_Airport">Húsavík Airport</A></TD>
+    <TD><A title="Húsavík" href="/wiki/H%C3%BAsav%C3%ADk">Húsavík</A>, <A 
+      title="Iceland" href="/wiki/Iceland">Iceland</A></TD></TR>
+  <TR>
+    <TD>HZL</TD>
+    <TD>KHZL</TD>
+    <TD><A title="Hazleton Municipal Airport" href="/wiki/Hazleton_Municipal_Airport">Hazleton 
+      Municipal Airport</A></TD>
+    <TD><A title="Hazleton, Pennsylvania" 
+      href="/wiki/Hazleton,_Pennsylvania">Hazleton, Pennsylvania</A>, United 
+      States</TD></TR>
+  <TR>
+    <TD>HZR</TD>
+    <TD>KHZR</TD>
+    <TD><A title="False River Regional Airport" href="/wiki/False_River_Regional_Airport">False 
+      River Regional Airport</A></TD>
+    <TD><A title="New Roads, Louisiana" href="/wiki/New_Roads,_Louisiana">New 
+      Roads, Louisiana</A>, United States</TD></TR>
+  <TR>
+    <TD>HZV</TD>
+    <TD>FAHW</TD>
+    <TD><A title="Hazyview Airport (page does not exist)" class="new" href="/w/index.php?title=Hazyview_Airport&amp;action=edit&amp;redlink=1">Hazyview 
+      Airport</A></TD>
+    <TD><A title="Hazyview" href="/wiki/Hazyview">Hazyview</A>, South 
+  Africa</TD></TR></TBODY></TABLE>
+<H2><SPAN class="mw-headline" id="References">References</SPAN><SPAN class="mw-editsection"><SPAN 
+class="mw-editsection-bracket">[</SPAN><A title="Edit section: References" href="/w/index.php?title=List_of_airports_by_IATA_code:_H&amp;action=edit&amp;section=2">edit</A><SPAN 
+class="mw-editsection-bracket">]</SPAN></SPAN></H2>
+<UL>
+  <LI><SPAN class="citation web"><A class="external text" href="http://www.unece.org/cefact/locode/welcome.html" 
+  rel="nofollow">"United Nations Code for Trade and Transport Locations"</A>. 
+  <I><A title="UN/LOCODE" href="/wiki/UN/LOCODE">UN/LOCODE</A> 2011-2</I>. <A 
+  title="United Nations Economic Commission for Europe" href="/wiki/United_Nations_Economic_Commission_for_Europe">UNECE</A>. 
+  28 February 2012.</SPAN><SPAN title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+airports+by+IATA+code%3A+H&amp;rft.atitle=United+Nations+Code+for+Trade+and+Transport+Locations&amp;rft.date=28+February+2012&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.unece.org%2Fcefact%2Flocode%2Fwelcome.html&amp;rft.jtitle=UN%2FLOCODE+2011-2&amp;rft.pub=UNECE&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" 
+  class="Z3988"><SPAN style="display: none;">&nbsp;</SPAN></SPAN> - includes 
+  IATA codes</LI>
+  <LI><SPAN class="citation web"><A class="external text" href="http://www.icao.int/safety/ism/Accident%20Incident%20Reporting%20Guidance/LocationIndicatorsByState.pdf" 
+  rel="nofollow">"ICAO Location Indicators by State"</A> (<A title="PDF" class="mw-redirect" 
+  href="/wiki/PDF">PDF</A>). <A title="International Civil Aviation Organization" 
+  href="/wiki/International_Civil_Aviation_Organization">International Civil 
+  Aviation Organization</A>. 17 September 2010.</SPAN><SPAN title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+airports+by+IATA+code%3A+H&amp;rft.btitle=ICAO+Location+Indicators+by+State&amp;rft.date=17+September+2010&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.icao.int%2Fsafety%2Fism%2FAccident%2520Incident%2520Reporting%2520Guidance%2FLocationIndicatorsByState.pdf&amp;rft.pub=International+Civil+Aviation+Organization&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" 
+  class="Z3988"><SPAN style="display: none;">&nbsp;</SPAN></SPAN></LI>
+  <LI><A class="external text" href="http://aviation-safety.net/" 
+  rel="nofollow">Aviation Safety Network</A> - IATA and ICAO airport codes</LI>
+  <LI><A class="external text" href="http://gcmap.com/" rel="nofollow">Great 
+  Circle Mapper</A> - IATA, ICAO and FAA airport codes</LI></UL><!-- 
+NewPP limit report
+Parsed by mw1076
+CPU time usage: 1.372 seconds
+Real time usage: 1.467 seconds
+Preprocessor visited node count: 378/1000000
+Preprocessor generated node count: 2210/1500000
+Post‐expand include size: 4719/2048000 bytes
+Template argument size: 52/2048000 bytes
+Highest expansion depth: 5/40
+Expensive parser function count: 0/500
+Lua time usage: 0.035/10.000 seconds
+Lua memory usage: 1.07 MB/50 MB
+--> <!-- Saved in parser cache with key enwiki:pcache:idhash:317106-0!*!0!!*!*!* and timestamp 20140910163136 and revision id 624213776
+ --> 
+<NOSCRIPT>&lt;img 
+src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" 
+title="" width="1" height="1" style="border: none; position: absolute;" 
+/&gt;</NOSCRIPT></DIV>
+<DIV class="printfooter">						Retrieved from "<A dir="ltr" href="http://en.wikipedia.org/w/index.php?title=List_of_airports_by_IATA_code:_H&amp;oldid=624213776">http://en.wikipedia.org/w/index.php?title=List_of_airports_by_IATA_code:_H&amp;oldid=624213776</A>"					</DIV>
+<DIV class="catlinks" id="catlinks">
+<DIV class="mw-normal-catlinks" id="mw-normal-catlinks"><A title="Help:Category" 
+href="/wiki/Help:Category">Categories</A>: 
+<UL>
+  <LI><A title="Category:Lists of airports by IATA code" href="/wiki/Category:Lists_of_airports_by_IATA_code">Lists 
+  of airports by IATA code</A></LI></UL></DIV></DIV>
+<DIV class="visualClear"></DIV></DIV></DIV>
+<DIV id="mw-navigation">
+<H2>Navigation menu</H2>
+<DIV id="mw-head">
+<DIV id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+<H3 id="p-personal-label">Personal tools</H3>
+<UL>
+  <LI id="pt-createaccount"><A href="/w/index.php?title=Special:UserLogin&amp;returnto=List+of+airports+by+IATA+code%3A+H&amp;type=signup">Create 
+  account</A></LI>
+  <LI id="pt-login"><A title="You're encouraged to log in; however, it's not mandatory. [o]" 
+  accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=List+of+airports+by+IATA+code%3A+H">Log 
+  in</A></LI></UL></DIV>
+<DIV id="left-navigation">
+<DIV class="vectorTabs" id="p-namespaces" role="navigation" aria-labelledby="p-namespaces-label">
+<H3 id="p-namespaces-label">Namespaces</H3>
+<UL>
+  <LI class="selected" id="ca-nstab-main"><SPAN><A title="View the content page [c]" 
+  accesskey="c" 
+  href="/wiki/List_of_airports_by_IATA_code:_H">Article</A></SPAN></LI>
+  <LI id="ca-talk"><SPAN><A title="Discussion about the content page [t]" 
+  accesskey="t" 
+  href="/wiki/Talk:List_of_airports_by_IATA_code:_H">Talk</A></SPAN></LI></UL></DIV>
+<DIV class="vectorMenu emptyPortlet" id="p-variants" role="navigation" 
+aria-labelledby="p-variants-label">
+<H3 id="p-variants-label"><SPAN>Variants</SPAN><A href="#"></A></H3>
+<DIV class="menu">
+<UL></UL></DIV></DIV></DIV>				 
+<DIV id="right-navigation">
+<DIV class="vectorTabs" id="p-views" role="navigation" aria-labelledby="p-views-label">
+<H3 id="p-views-label">Views</H3>
+<UL>
+  <LI class="selected" id="ca-view"><SPAN><A href="/wiki/List_of_airports_by_IATA_code:_H">Read</A></SPAN></LI>
+  <LI id="ca-edit"><SPAN><A title="You can edit this page. Please use the preview button before saving [e]" 
+  accesskey="e" href="/w/index.php?title=List_of_airports_by_IATA_code:_H&amp;action=edit">Edit</A></SPAN></LI>
+  <LI class="collapsible" id="ca-history"><SPAN><A title="Past versions of this page [h]" 
+  accesskey="h" href="/w/index.php?title=List_of_airports_by_IATA_code:_H&amp;action=history">View 
+  history</A></SPAN></LI></UL></DIV>
+<DIV class="vectorMenu emptyPortlet" id="p-cactions" role="navigation" 
+aria-labelledby="p-cactions-label">
+<H3 id="p-cactions-label"><SPAN>More</SPAN><A href="#"></A></H3>
+<DIV class="menu">
+<UL></UL></DIV></DIV>
+<DIV id="p-search" role="search">
+<H3><LABEL for="searchInput">Search</LABEL>						 </H3>
+<FORM id="searchform" action="/w/index.php">
+<DIV id="simpleSearch"><INPUT name="search" title="Search Wikipedia [f]" id="searchInput" accesskey="f" type="search" placeholder="Search"><INPUT name="title" type="hidden" value="Special:Search"><INPUT name="fulltext" title="Search Wikipedia for this text" class="searchButton mw-fallbackSearchButton" id="mw-searchButton" type="submit" value="Search"><INPUT name="go" title="Go to a page with this exact name if one exists" class="searchButton" id="searchButton" type="submit" value="Go">								</DIV></FORM></DIV></DIV></DIV>
+<DIV id="mw-panel">
+<DIV id="p-logo" role="banner"><A title="Visit the main page" style='background-image: url("//upload.wikimedia.org/wikipedia/en/b/bc/Wiki.png");' 
+href="/wiki/Main_Page"></A></DIV>
+<DIV class="portal" id="p-navigation" role="navigation" aria-labelledby="p-navigation-label">
+<H3 id="p-navigation-label">Navigation</H3>
+<DIV class="body">
+<UL>
+  <LI id="n-mainpage-description"><A title="Visit the main page [z]" accesskey="z" 
+  href="/wiki/Main_Page">Main page</A></LI>
+  <LI id="n-contents"><A title="Guides to browsing Wikipedia" href="/wiki/Portal:Contents">Contents</A></LI>
+  <LI id="n-featuredcontent"><A title="Featured content – the best of Wikipedia" 
+  href="/wiki/Portal:Featured_content">Featured content</A></LI>
+  <LI id="n-currentevents"><A title="Find background information on current events" 
+  href="/wiki/Portal:Current_events">Current events</A></LI>
+  <LI id="n-randompage"><A title="Load a random article [x]" accesskey="x" href="/wiki/Special:Random">Random 
+  article</A></LI>
+  <LI id="n-sitesupport"><A title="Support us" href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en">Donate 
+  to Wikipedia</A></LI>
+  <LI id="n-shoplink"><A title="Visit the Wikimedia Shop" href="//shop.wikimedia.org">Wikimedia 
+  Shop</A></LI></UL></DIV></DIV>
+<DIV class="portal" id="p-interaction" role="navigation" aria-labelledby="p-interaction-label">
+<H3 id="p-interaction-label">Interaction</H3>
+<DIV class="body">
+<UL>
+  <LI id="n-help"><A title="Guidance on how to use and edit Wikipedia" href="/wiki/Help:Contents">Help</A></LI>
+  <LI id="n-aboutsite"><A title="Find out about Wikipedia" href="/wiki/Wikipedia:About">About 
+  Wikipedia</A></LI>
+  <LI id="n-portal"><A title="About the project, what you can do, where to find things" 
+  href="/wiki/Wikipedia:Community_portal">Community portal</A></LI>
+  <LI id="n-recentchanges"><A title="A list of recent changes in the wiki [r]" 
+  accesskey="r" href="/wiki/Special:RecentChanges">Recent changes</A></LI>
+  <LI id="n-contactpage"><A 
+  href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact 
+page</A></LI></UL></DIV></DIV>
+<DIV class="portal" id="p-tb" role="navigation" aria-labelledby="p-tb-label">
+<H3 id="p-tb-label">Tools</H3>
+<DIV class="body">
+<UL>
+  <LI id="t-whatlinkshere"><A title="List of all English Wikipedia pages containing links to this page [j]" 
+  accesskey="j" href="/wiki/Special:WhatLinksHere/List_of_airports_by_IATA_code:_H">What 
+  links here</A></LI>
+  <LI id="t-recentchangeslinked"><A title="Recent changes in pages linked from this page [k]" 
+  accesskey="k" href="/wiki/Special:RecentChangesLinked/List_of_airports_by_IATA_code:_H">Related 
+  changes</A></LI>
+  <LI id="t-upload"><A title="Upload files [u]" accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard">Upload 
+  file</A></LI>
+  <LI id="t-specialpages"><A title="A list of all special pages [q]" accesskey="q" 
+  href="/wiki/Special:SpecialPages">Special pages</A></LI>
+  <LI id="t-permalink"><A title="Permanent link to this revision of the page" 
+  href="/w/index.php?title=List_of_airports_by_IATA_code:_H&amp;oldid=624213776">Permanent 
+  link</A></LI>
+  <LI id="t-info"><A href="/w/index.php?title=List_of_airports_by_IATA_code:_H&amp;action=info">Page 
+  information</A></LI>
+  <LI id="t-wikibase"><A title="Link to connected data repository item [g]" 
+  accesskey="g" href="//www.wikidata.org/wiki/Q1570868">Wikidata item</A></LI>
+  <LI id="t-cite"><A title="Information on how to cite this page" href="/w/index.php?title=Special:Cite&amp;page=List_of_airports_by_IATA_code%3A_H&amp;id=624213776">Cite 
+  this page</A></LI></UL></DIV></DIV>
+<DIV class="portal" id="p-coll-print_export" role="navigation" aria-labelledby="p-coll-print_export-label">
+<H3 id="p-coll-print_export-label">Print/export</H3>
+<DIV class="body">
+<UL>
+  <LI id="coll-create_a_book"><A href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=List+of+airports+by+IATA+code%3A+H">Create 
+  a book</A></LI>
+  <LI id="coll-download-as-rdf2latex"><A href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=List+of+airports+by+IATA+code%3A+H&amp;oldid=624213776&amp;writer=rdf2latex">Download 
+  as PDF</A></LI>
+  <LI id="t-print"><A title="Printable version of this page [p]" accesskey="p" 
+  href="/w/index.php?title=List_of_airports_by_IATA_code:_H&amp;printable=yes">Printable 
+  version</A></LI></UL></DIV></DIV>
+<DIV class="portal" id="p-lang" role="navigation" 
+aria-labelledby="p-lang-label">
+<H3 id="p-lang-label">Languages</H3>
+<DIV class="body">
+<UL>
+  <LI class="interlanguage-link interwiki-de"><A title="Liste der IATA-Codes/H – German" 
+  lang="de" href="//de.wikipedia.org/wiki/Liste_der_IATA-Codes/H" 
+  hreflang="de">Deutsch</A></LI>
+  <LI class="interlanguage-link interwiki-fa"><A title="فهرست فرودگاه‌ها بر پایه کد یاتا: H – Persian" 
+  lang="fa" href="//fa.wikipedia.org/wiki/%D9%81%D9%87%D8%B1%D8%B3%D8%AA_%D9%81%D8%B1%D9%88%D8%AF%DA%AF%D8%A7%D9%87%E2%80%8C%D9%87%D8%A7_%D8%A8%D8%B1_%D9%BE%D8%A7%DB%8C%D9%87_%DA%A9%D8%AF_%DB%8C%D8%A7%D8%AA%D8%A7:_H" 
+  hreflang="fa">فارسی</A></LI>
+  <LI class="interlanguage-link interwiki-fr"><A title="Liste des codes AITA des aéroports/H – French" 
+  lang="fr" href="//fr.wikipedia.org/wiki/Liste_des_codes_AITA_des_a%C3%A9roports/H" 
+  hreflang="fr">Français</A></LI>
+  <LI class="interlanguage-link interwiki-hi"><A title="विमानक्षेत्रों की सूची IATA कोड अनुसार: H – Hindi" 
+  lang="hi" href="//hi.wikipedia.org/wiki/%E0%A4%B5%E0%A4%BF%E0%A4%AE%E0%A4%BE%E0%A4%A8%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A5%87%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A5%8B%E0%A4%82_%E0%A4%95%E0%A5%80_%E0%A4%B8%E0%A5%82%E0%A4%9A%E0%A5%80_IATA_%E0%A4%95%E0%A5%8B%E0%A4%A1_%E0%A4%85%E0%A4%A8%E0%A5%81%E0%A4%B8%E0%A4%BE%E0%A4%B0:_H" 
+  hreflang="hi">हिन्दी</A></LI>
+  <LI class="interlanguage-link interwiki-hr"><A title="Dodatak:Popis zračnih luka po IATA kodu: H – Croatian" 
+  lang="hr" href="//hr.wikipedia.org/wiki/Dodatak:Popis_zra%C4%8Dnih_luka_po_IATA_kodu:_H" 
+  hreflang="hr">Hrvatski</A></LI>
+  <LI class="interlanguage-link interwiki-it"><A title="Codici aeroportuali IATA - H – Italian" 
+  lang="it" href="//it.wikipedia.org/wiki/Codici_aeroportuali_IATA_-_H" 
+  hreflang="it">Italiano</A></LI>
+  <LI class="interlanguage-link interwiki-lb"><A title="IATA FluchhafenIndex-H – Luxembourgish" 
+  lang="lb" href="//lb.wikipedia.org/wiki/IATA_FluchhafenIndex-H" 
+  hreflang="lb">Lëtzebuergesch</A></LI>
+  <LI class="interlanguage-link interwiki-nl"><A title="Vliegvelden gesorteerd naar IATA-code H – Dutch" 
+  lang="nl" href="//nl.wikipedia.org/wiki/Vliegvelden_gesorteerd_naar_IATA-code_H" 
+  hreflang="nl">Nederlands</A></LI>
+  <LI class="interlanguage-link interwiki-ja"><A title="IATA空港コードの一覧/H – Japanese" 
+  lang="ja" href="//ja.wikipedia.org/wiki/IATA%E7%A9%BA%E6%B8%AF%E3%82%B3%E3%83%BC%E3%83%89%E3%81%AE%E4%B8%80%E8%A6%A7/H" 
+  hreflang="ja">日本語</A></LI>
+  <LI class="interlanguage-link interwiki-no"><A title="Liste over flyplasser etter IATA-kode/H – Norwegian (bokmål)" 
+  lang="no" href="//no.wikipedia.org/wiki/Liste_over_flyplasser_etter_IATA-kode/H" 
+  hreflang="no">Norsk bokmål</A></LI>
+  <LI class="interlanguage-link interwiki-pl"><A title="Porty lotnicze świata: H – Polish" 
+  lang="pl" href="//pl.wikipedia.org/wiki/Porty_lotnicze_%C5%9Bwiata:_H" 
+  hreflang="pl">Polski</A></LI>
+  <LI class="interlanguage-link interwiki-zh"><A title="国际航空运输协会机场代码 (H) – Chinese" 
+  lang="zh" href="//zh.wikipedia.org/wiki/%E5%9B%BD%E9%99%85%E8%88%AA%E7%A9%BA%E8%BF%90%E8%BE%93%E5%8D%8F%E4%BC%9A%E6%9C%BA%E5%9C%BA%E4%BB%A3%E7%A0%81_(H)" 
+  hreflang="zh">中文</A></LI>
+  <LI class="uls-p-lang-dummy"><A href="#"></A></LI></UL>
+<DIV class="after-portlet after-portlet-lang"><SPAN class="wb-langlinks-edit wb-langlinks-link"><A 
+title="Edit interlanguage links" class="wbc-editpage" href="//www.wikidata.org/wiki/Q1570868#sitelinks-wikipedia" 
+text="Edit links" action="edit">Edit 
+links</A></SPAN></DIV></DIV></DIV></DIV></DIV>
+<DIV id="footer" role="contentinfo">
+<UL id="footer-info">
+  <LI id="footer-info-lastmod"> This page was last modified on 4 September 2014 
+  at 22:07.<BR></LI>
+  <LI id="footer-info-copyright">Text is available under the <A href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" 
+  rel="license">Creative Commons Attribution-ShareAlike License</A><A style="display: none;" 
+  href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"></A>;
+   additional terms may apply.  By using this site, you agree to the <A href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms 
+  of Use</A> and <A href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy 
+  Policy</A>. Wikipedia® is a registered trademark of the <A href="//www.wikimediafoundation.org/">Wikimedia 
+  Foundation, Inc.</A>, a non-profit organization.</LI></UL>
+<UL id="footer-places">
+  <LI id="footer-places-privacy"><A title="wikimedia:Privacy policy" href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy 
+  policy</A></LI>
+  <LI id="footer-places-about"><A title="Wikipedia:About" href="/wiki/Wikipedia:About">About 
+  Wikipedia</A></LI>
+  <LI id="footer-places-disclaimer"><A title="Wikipedia:General disclaimer" 
+  href="/wiki/Wikipedia:General_disclaimer">Disclaimers</A></LI>
+  <LI id="footer-places-contact"><A href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact 
+  Wikipedia</A></LI>
+  <LI id="footer-places-developers"><A href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</A></LI>
+  <LI id="footer-places-mobileview"><A class="noprint stopMobileRedirectToggle" 
+  href="//en.m.wikipedia.org/w/index.php?title=List_of_airports_by_IATA_code:_H&amp;mobileaction=toggle_view_mobile">Mobile 
+  view</A></LI></UL>
+<UL class="noprint" id="footer-icons">
+  <LI id="footer-copyrightico"><A href="//wikimediafoundation.org/"><IMG width="88" 
+  height="31" alt="Wikimedia Foundation" src="//bits.wikimedia.org/images/wikimedia-button.png"></A>
+  													 </LI>
+  <LI id="footer-poweredbyico"><A href="//www.mediawiki.org/"><IMG width="88" 
+  height="31" alt="Powered by MediaWiki" src="//bits.wikimedia.org/static-1.25wmf1/resources/assets/poweredby_mediawiki_88x31.png"></A>
+  													 </LI></UL>
+<DIV style="clear: both;"></DIV></DIV>
+<SCRIPT>/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/</SCRIPT>
+
+<SCRIPT>if(window.mw){
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","site":"loading","user":"ready","user.groups":"ready"});
+}</SCRIPT>
+ 
+<SCRIPT>if(window.mw){
+mw.loader.load(["mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.featured-articles-links","ext.eventLogging.subscriber","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"],null,true);
+}</SCRIPT>
+ 
+<SCRIPT>if(window.mw){
+document.write("\u003Cscript src=\"//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false\u0026amp;lang=en\u0026amp;modules=site\u0026amp;only=scripts\u0026amp;skin=vector\u0026amp;*\"\u003E\u003C/script\u003E");
+}</SCRIPT>
+ 
+<SCRIPT>if(window.mw){
+mw.config.set({"wgBackendResponseTime":209,"wgHostname":"mw1188"});
+}</SCRIPT>
+		 </BODY></HTML>

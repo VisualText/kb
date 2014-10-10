@@ -1,0 +1,2413 @@
+<!-- https://en.wikipedia.org/wiki/List_of_airports_by_IATA_code:_I -->
+<!DOCTYPE HTML>
+<!DOCTYPE html PUBLIC "" ""><HTML class="client-nojs" lang="en" 
+dir="ltr"><HEAD><META content="IE=11.0000" http-equiv="X-UA-Compatible">
+ 
+<META charset="UTF-8"> <TITLE>List of airports by IATA code: I - Wikipedia, the 
+free encyclopedia</TITLE> 
+<META name="generator" content="MediaWiki 1.25wmf1"> <LINK href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/List_of_airports_by_IATA_code:_I" 
+rel="alternate"> <LINK title="Edit this page" href="/w/index.php?title=List_of_airports_by_IATA_code:_I&amp;action=edit" 
+rel="alternate" type="application/x-wiki"> <LINK title="Edit this page" href="/w/index.php?title=List_of_airports_by_IATA_code:_I&amp;action=edit" 
+rel="edit"> <LINK href="//bits.wikimedia.org/apple-touch/wikipedia.png" rel="apple-touch-icon"> 
+<LINK href="//bits.wikimedia.org/favicon/wikipedia.ico" rel="shortcut icon"> 
+<LINK title="Wikipedia (en)" href="/w/opensearch_desc.php" rel="search" type="application/opensearchdescription+xml"> 
+<LINK href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"> 
+<LINK href="/wiki/List_of_airports_by_IATA_code:_I" rel="alternate" hreflang="x-default"> 
+<LINK href="//creativecommons.org/licenses/by-sa/3.0/" rel="copyright"> <LINK 
+title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" 
+rel="alternate" type="application/atom+xml"> <LINK href="http://en.wikipedia.org/wiki/List_of_airports_by_IATA_code:_I" 
+rel="canonical"> <LINK href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cteahouse%7Cext.uls.nojs%7Cext.visualEditor.viewPageTarget.noscript%7Cext.wikihiero%2CwikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector&amp;*" 
+rel="stylesheet"> 
+<META name="ResourceLoaderDynamicStyles" content=""> <LINK href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" 
+rel="stylesheet"> 
+<STYLE>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:3904d24a08aa08f6a68dc338f9be277e */</STYLE>
+ 
+<SCRIPT src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></SCRIPT>
+ 
+<SCRIPT>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"List_of_airports_by_IATA_code:_I","wgTitle":"List of airports by IATA code: I","wgCurRevisionId":627365602,"wgRevisionId":627365602,"wgArticleId":317107,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Lists of airports by IATA code"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"List_of_airports_by_IATA_code:_I","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":false,"previewDialog":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"isPageWatched":false,"pageLanguageCode":"en","pageLanguageDir":"ltr","svgMaxSize":4096,"namespacesWithSubpages":{"6":0,"8":0,"1":true,"2":true,"3":true,"4":true,"5":true,"7":true,"9":true,"10":true,"11":true,"12":true,"13":true,"14":true,"15":true,"100":true,"101":true,"102":true,"103":true,"104":true,"105":true,"106":true,"107":true,"108":true,"109":true,"110":true,"111":true,"447":true,"2600":false,"828":true,"829":true}},"wikilove-recipient":"","wikilove-anon":0,"wgGuidedTourHelpGuiderUrl":"Help:Guided tours/guider","wgHHVMStart":1412726400000,"wgULSAcceptLanguageList":["en-us"],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q1758154"});
+}</SCRIPT>
+
+<SCRIPT>if(window.mw){
+mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"editfont":"default","editondblclick":0,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nickname":"","norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rows":25,"showhiddencats":false,"shownumberswatching":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"watchrollback":0,
+"wllimit":250,"useeditwarning":1,"prefershttps":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"visualeditor-enable":0,"visualeditor-betatempdisable":0,"visualeditor-enable-experimental":0,"visualeditor-enable-language":0,"visualeditor-hidebetawelcome":0,"wikilove-enabled":1,"mathJax":false,"echo-subscriptions-web-page-review":true,"echo-subscriptions-email-page-review":false,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"echo-subscriptions-web-education-program":true,"echo-subscriptions-email-education-program":false,"echo-notify-show-link":true,"echo-show-alert":true,"echo-email-frequency":0,"echo-email-format":"html","echo-subscriptions-email-system":true,"echo-subscriptions-web-system":true,"echo-subscriptions-email-user-rights":true,"echo-subscriptions-web-user-rights":true,"echo-subscriptions-email-other":false,
+"echo-subscriptions-web-other":true,"echo-subscriptions-email-edit-user-talk":false,"echo-subscriptions-web-edit-user-talk":true,"echo-subscriptions-email-reverted":false,"echo-subscriptions-web-reverted":true,"echo-subscriptions-email-article-linked":false,"echo-subscriptions-web-article-linked":false,"echo-subscriptions-email-mention":false,"echo-subscriptions-web-mention":true,"echo-subscriptions-web-edit-thank":true,"echo-subscriptions-email-edit-thank":false,"echo-subscriptions-web-flow-discussion":true,"echo-subscriptions-email-flow-discussion":false,"gettingstarted-task-toolbar-show-intro":true,"uls-preferences":"","multimediaviewer-enable":true,"language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":
+false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs118":false,"searchNs119":false,"searchNs446":false,"searchNs447":false,"searchNs710":false,"searchNs711":false,"searchNs828":false,"searchNs829":false,"searchNs2600":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,"gadget-geonotice":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-refToolbar":1,"gadget-mySandbox":1,"gadget-featured-articles-links":1,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function($,jQuery){mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\"});},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:8d55686787f352ccb6a28352f979b72d */
+}</SCRIPT>
+ 
+<SCRIPT>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","ext.visualEditor.viewPageTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+}</SCRIPT>
+ <LINK href="//meta.wikimedia.org" rel="dns-prefetch"> <!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.25wmf1/skins/Vector/csshover.min.htc")}</style><![endif]--> 
+</HEAD> 
+<BODY class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-List_of_airports_by_IATA_code_I skin-vector action-view vector-animateLayout">
+<DIV class="noprint" id="mw-page-base"></DIV>
+<DIV class="noprint" id="mw-head-base"></DIV>
+<DIV class="mw-body" id="content" role="main"><A id="top"></A>							 
+<DIV id="siteNotice"><!-- CentralNotice --></DIV>
+<H1 class="firstHeading" id="firstHeading" lang="en"><SPAN dir="auto">List of 
+airports by IATA code: I</SPAN></H1>
+<DIV class="mw-body-content" id="bodyContent">
+<DIV id="siteSub">From Wikipedia, the free encyclopedia</DIV>								 
+<DIV id="contentSub"></DIV>
+<DIV class="mw-jump" id="jump-to-nav">					Jump to:					<A 
+href="#mw-navigation">navigation</A>, 					<A href="#p-search">search</A>
+				 </DIV>
+<DIV class="mw-content-ltr" id="mw-content-text" lang="en" dir="ltr">
+<P><A title="List of airports" href="/wiki/List_of_airports">List of 
+airports</A> by <A title="International Air Transport Association airport code" 
+href="/wiki/International_Air_Transport_Association_airport_code">IATA code</A>: 
+<A title="List of airports by IATA code: A" href="/wiki/List_of_airports_by_IATA_code:_A">A</A> 
+- <A title="List of airports by IATA code: B" href="/wiki/List_of_airports_by_IATA_code:_B">B</A> 
+- <A title="List of airports by IATA code: C" href="/wiki/List_of_airports_by_IATA_code:_C">C</A> 
+- <A title="List of airports by IATA code: D" href="/wiki/List_of_airports_by_IATA_code:_D">D</A> 
+- <A title="List of airports by IATA code: E" href="/wiki/List_of_airports_by_IATA_code:_E">E</A> 
+- <A title="List of airports by IATA code: F" href="/wiki/List_of_airports_by_IATA_code:_F">F</A> 
+- <A title="List of airports by IATA code: G" href="/wiki/List_of_airports_by_IATA_code:_G">G</A> 
+- <A title="List of airports by IATA code: H" href="/wiki/List_of_airports_by_IATA_code:_H">H</A> 
+- <STRONG class="selflink">I</STRONG> - <A title="List of airports by IATA code: J" 
+href="/wiki/List_of_airports_by_IATA_code:_J">J</A> - <A title="List of airports by IATA code: K" 
+href="/wiki/List_of_airports_by_IATA_code:_K">K</A> - <A title="List of airports by IATA code: L" 
+href="/wiki/List_of_airports_by_IATA_code:_L">L</A> - <A title="List of airports by IATA code: M" 
+href="/wiki/List_of_airports_by_IATA_code:_M">M</A> - <A title="List of airports by IATA code: N" 
+href="/wiki/List_of_airports_by_IATA_code:_N">N</A> - <A title="List of airports by IATA code: O" 
+href="/wiki/List_of_airports_by_IATA_code:_O">O</A> - <A title="List of airports by IATA code: P" 
+href="/wiki/List_of_airports_by_IATA_code:_P">P</A> - <A title="List of airports by IATA code: Q" 
+href="/wiki/List_of_airports_by_IATA_code:_Q">Q</A> - <A title="List of airports by IATA code: R" 
+href="/wiki/List_of_airports_by_IATA_code:_R">R</A> - <A title="List of airports by IATA code: S" 
+href="/wiki/List_of_airports_by_IATA_code:_S">S</A> - <A title="List of airports by IATA code: T" 
+href="/wiki/List_of_airports_by_IATA_code:_T">T</A> - <A title="List of airports by IATA code: U" 
+href="/wiki/List_of_airports_by_IATA_code:_U">U</A> - <A title="List of airports by IATA code: V" 
+href="/wiki/List_of_airports_by_IATA_code:_V">V</A> - <A title="List of airports by IATA code: W" 
+href="/wiki/List_of_airports_by_IATA_code:_W">W</A> - <A title="List of airports by IATA code: X" 
+href="/wiki/List_of_airports_by_IATA_code:_X">X</A> - <A title="List of airports by IATA code: Y" 
+href="/wiki/List_of_airports_by_IATA_code:_Y">Y</A> - <A title="List of airports by IATA code: Z" 
+href="/wiki/List_of_airports_by_IATA_code:_Z">Z</A></P>
+<DL>
+  <DD><I>See also: <A title="International Civil Aviation Organization airport code" 
+  href="/wiki/International_Civil_Aviation_Organization_airport_code#Prefixes">List 
+  of airports by ICAO code</A></I></DD></DL>
+<HR>
+
+<H2><SPAN class="mw-headline" id="I">I</SPAN><SPAN class="mw-editsection"><SPAN 
+class="mw-editsection-bracket">[</SPAN><A title="Edit section: I" href="/w/index.php?title=List_of_airports_by_IATA_code:_I&amp;action=edit&amp;section=1">edit</A><SPAN 
+class="mw-editsection-bracket">]</SPAN></SPAN></H2>
+<DIV class="toc plainlinks hlist" id="toc" style="clear: left;">
+<DIV id="toctitle">
+<H2><SPAN class="mw-headline" id="Contents">Contents</SPAN></H2> </DIV>
+<UL>
+  <LI><A href="#IA">IA</A> <A href="#IB">IB</A> <A href="#IC">IC</A> <A href="#ID">ID</A> 
+  <A href="#IE">IE</A> <A href="#IF">IF</A> <A href="#IG">IG</A> <A 
+  href="#IH">IH</A> <A href="#II">II</A> <A href="#IJ">IJ</A> <A 
+  href="#IK">IK</A> <A href="#IL">IL</A> <A href="#IM">IM</A> <A 
+  href="#IN">IN</A> <A href="#IO">IO</A> <A href="#IP">IP</A> <A 
+  href="#IQ">IQ</A> <A href="#IR">IR</A> <A href="#IS">IS</A> <A 
+  href="#IT">IT</A> <A href="#IU">IU</A> <A href="#IV">IV</A> <A 
+  href="#IW">IW</A> <A href="#IX">IX</A> <A href="#IY">IY</A> <A 
+  href="#IZ">IZ</A></LI> </UL></DIV>
+<TABLE class="wikitable sortable" style="font-size: 95%;">
+  <TBODY>
+  <TR>
+    <TH style="width: 4em; text-align: left;">IATA</TH>
+    <TH style="width: 5em; text-align: left;"><A title="International Civil Aviation Organization airport code" 
+      href="/wiki/International_Civil_Aviation_Organization_airport_code">ICAO</A></TH>
+    <TH style="text-align: left;">Airport&nbsp;name</TH>
+    <TH style="text-align: left;">Location&nbsp;served</TH></TR>
+  <TR class="sortbottom">
+    <TH style="background: rgb(221, 221, 221); text-align: left;" 
+      colspan="4"><CITE id="IA"></CITE>-IA-</TH></TR>
+  <TR>
+    <TD>IAA</TD>
+    <TD>UOII</TD>
+    <TD><A title="Igarka Airport" href="/wiki/Igarka_Airport">Igarka 
+      Airport</A></TD>
+    <TD><A title="Igarka" href="/wiki/Igarka">Igarka</A>, <A title="Russia" 
+      href="/wiki/Russia">Russia</A></TD></TR>
+  <TR>
+    <TD>IAB</TD>
+    <TD>KIAB</TD>
+    <TD><A title="McConnell Air Force Base" href="/wiki/McConnell_Air_Force_Base">McConnell 
+      Air Force Base</A></TD>
+    <TD><A title="Wichita, Kansas" href="/wiki/Wichita,_Kansas">Wichita, 
+      Kansas</A>, <A title="United States" href="/wiki/United_States">United 
+      States</A></TD></TR>
+  <TR>
+    <TD>IAD</TD>
+    <TD>KIAD</TD>
+    <TD><A title="Washington Dulles International Airport" href="/wiki/Washington_Dulles_International_Airport">Washington 
+      Dulles International Airport</A></TD>
+    <TD><A title="Washington, D.C." href="/wiki/Washington,_D.C.">Washington, 
+      D.C.</A> / <A title="Virginia" href="/wiki/Virginia">Virginia</A>, <A 
+      title="United States" href="/wiki/United_States">United States</A></TD></TR>
+  <TR>
+    <TD>IAG</TD>
+    <TD>KIAG</TD>
+    <TD><A title="Niagara Falls International Airport" href="/wiki/Niagara_Falls_International_Airport">Niagara 
+      Falls International Airport</A></TD>
+    <TD><A title="Niagara Falls, New York" href="/wiki/Niagara_Falls,_New_York">Niagara 
+      Falls, New York</A>, <A title="United States" 
+      href="/wiki/United_States">United States</A></TD></TR>
+  <TR>
+    <TD>IAH</TD>
+    <TD>KIAH</TD>
+    <TD><A title="George Bush Intercontinental Airport" href="/wiki/George_Bush_Intercontinental_Airport">George 
+      Bush Intercontinental Airport</A></TD>
+    <TD><A title="Houston, Texas" class="mw-redirect" href="/wiki/Houston,_Texas">Houston, 
+      Texas</A>, <A title="United States" href="/wiki/United_States">United 
+      States</A></TD></TR>
+  <TR>
+    <TD>IAL</TD>
+    <TD>AYIU</TD>
+    <TD><A title="Ialibu Airport (page does not exist)" class="new" href="/w/index.php?title=Ialibu_Airport&amp;action=edit&amp;redlink=1">Ialibu 
+      Airport</A></TD>
+    <TD><A title="Ialibu" href="/wiki/Ialibu">Ialibu</A>, <A title="Papua New Guinea" 
+      href="/wiki/Papua_New_Guinea">Papua New Guinea</A></TD></TR>
+  <TR>
+    <TD>IAM</TD>
+    <TD>DAUZ</TD>
+    <TD><A title="In Amenas Airport" href="/wiki/In_Amenas_Airport">In Amenas 
+      Airport</A></TD>
+    <TD><A title="In Amenas" href="/wiki/In_Amenas">In Amenas</A>, <A title="Algeria" 
+      href="/wiki/Algeria">Algeria</A></TD></TR>
+  <TR>
+    <TD>IAN</TD>
+    <TD>PAIK</TD>
+    <TD><A title="Bob Baker Memorial Airport" href="/wiki/Bob_Baker_Memorial_Airport">Bob 
+      Baker Memorial Airport</A></TD>
+    <TD><A title="Kiana, Alaska" href="/wiki/Kiana,_Alaska">Kiana, Alaska</A>, 
+      <A title="United States" href="/wiki/United_States">United 
+States</A></TD></TR>
+  <TR>
+    <TD>IAQ</TD>
+    <TD></TD>
+    <TD><A title="Bahregan Airport (page does not exist)" class="new" href="/w/index.php?title=Bahregan_Airport&amp;action=edit&amp;redlink=1">Bahregan 
+      Airport</A></TD>
+    <TD><A title="Bahregan (page does not exist)" class="new" href="/w/index.php?title=Bahregan&amp;action=edit&amp;redlink=1">Bahregan</A>, 
+      <A title="Iran" href="/wiki/Iran">Iran</A></TD></TR>
+  <TR>
+    <TD>IAR</TD>
+    <TD>UUDL</TD>
+    <TD><A title="Yaroslavl Airport" class="mw-redirect" href="/wiki/Yaroslavl_Airport">Yaroslavl 
+      Airport</A></TD>
+    <TD><A title="Yaroslavl" href="/wiki/Yaroslavl">Yaroslavl</A>, <A title="Russia" 
+      href="/wiki/Russia">Russia</A></TD></TR>
+  <TR>
+    <TD>IAS</TD>
+    <TD>LRIA</TD>
+    <TD><A title="Iași International Airport" href="/wiki/Ia%C8%99i_International_Airport">Iași 
+      International Airport</A></TD>
+    <TD><A title="Iași" href="/wiki/Ia%C8%99i">Iași</A>, <A title="Romania" 
+      href="/wiki/Romania">Romania</A></TD></TR>
+  <TR>
+    <TD>IAU</TD>
+    <TD></TD>
+    <TD><A title="Iaura Airport (page does not exist)" class="new" href="/w/index.php?title=Iaura_Airport&amp;action=edit&amp;redlink=1">Iaura 
+      Airport</A></TD>
+    <TD><A title="Iaura (page does not exist)" class="new" href="/w/index.php?title=Iaura&amp;action=edit&amp;redlink=1">Iaura</A>, 
+      <A title="Papua New Guinea" href="/wiki/Papua_New_Guinea">Papua New 
+      Guinea</A></TD></TR>
+  <TR class="sortbottom">
+    <TH style="background: rgb(221, 221, 221); text-align: left;" 
+      colspan="4"><CITE id="IB"></CITE>-IB-</TH></TR>
+  <TR>
+    <TD>IBA</TD>
+    <TD>DNIB</TD>
+    <TD><A title="Ibadan Airport" href="/wiki/Ibadan_Airport">Ibadan 
+      Airport</A></TD>
+    <TD><A title="Ibadan" href="/wiki/Ibadan">Ibadan</A>, <A title="Nigeria" 
+      href="/wiki/Nigeria">Nigeria</A></TD></TR>
+  <TR>
+    <TD>IBE</TD>
+    <TD>SKIB</TD>
+    <TD><A title="Perales Airport" href="/wiki/Perales_Airport">Perales 
+      Airport</A></TD>
+    <TD><A title="Ibagué" href="/wiki/Ibagu%C3%A9">Ibagué</A>, <A title="Colombia" 
+      href="/wiki/Colombia">Colombia</A></TD></TR>
+  <TR>
+    <TD>IBI</TD>
+    <TD></TD>
+    <TD><A title="Iboki Airport (page does not exist)" class="new" href="/w/index.php?title=Iboki_Airport&amp;action=edit&amp;redlink=1">Iboki 
+      Airport</A></TD>
+    <TD><A title="Iboki (page does not exist)" class="new" href="/w/index.php?title=Iboki&amp;action=edit&amp;redlink=1">Iboki</A>, 
+      <A title="Papua New Guinea" href="/wiki/Papua_New_Guinea">Papua New 
+      Guinea</A></TD></TR>
+  <TR>
+    <TD>IBL</TD>
+    <TD></TD>
+    <TD><A title="Indigo Bay Lodge Airport" href="/wiki/Indigo_Bay_Lodge_Airport">Indigo 
+      Bay Lodge Airport</A></TD>
+    <TD><A title="Bazaruto Island" href="/wiki/Bazaruto_Island">Bazaruto 
+      Island</A>, <A title="Mozambique" 
+  href="/wiki/Mozambique">Mozambique</A></TD></TR>
+  <TR>
+    <TD>IBO</TD>
+    <TD></TD>
+    <TD><A title="Ibo Airport (page does not exist)" class="new" href="/w/index.php?title=Ibo_Airport&amp;action=edit&amp;redlink=1">Ibo 
+      Airport</A></TD>
+    <TD><A title="Ibo, Mozambique" href="/wiki/Ibo,_Mozambique">Ibo</A>, <A 
+      title="Mozambique" href="/wiki/Mozambique">Mozambique</A></TD></TR>
+  <TR>
+    <TD>IBP</TD>
+    <TD>SPBR</TD>
+    <TD><A title="Iberia Airport" href="/wiki/Iberia_Airport">Iberia 
+      Airport</A></TD>
+    <TD><A title="Iberia, Peru (page does not exist)" class="new" href="/w/index.php?title=Iberia,_Peru&amp;action=edit&amp;redlink=1">Iberia</A>, 
+      <A title="Peru" href="/wiki/Peru">Peru</A></TD></TR>
+  <TR>
+    <TD>IBZ</TD>
+    <TD>LEIB</TD>
+    <TD><A title="Ibiza Airport" href="/wiki/Ibiza_Airport">Ibiza 
+    Airport</A></TD>
+    <TD><A title="Ibiza" href="/wiki/Ibiza">Ibiza</A>, <A title="Spain" href="/wiki/Spain">Spain</A></TD></TR>
+  <TR class="sortbottom">
+    <TH style="background: rgb(221, 221, 221); text-align: left;" 
+      colspan="4"><CITE id="IC"></CITE>-IC-</TH></TR>
+  <TR>
+    <TD>ICA</TD>
+    <TD>SVIC</TD>
+    <TD><A title="Icabaru Airport (page does not exist)" class="new" href="/w/index.php?title=Icabaru_Airport&amp;action=edit&amp;redlink=1">Icabaru 
+      Airport</A></TD>
+    <TD><A title="Icabaru (page does not exist)" class="new" href="/w/index.php?title=Icabaru&amp;action=edit&amp;redlink=1">Icabaru</A>, 
+      <A title="Venezuela" href="/wiki/Venezuela">Venezuela</A></TD></TR>
+  <TR>
+    <TD>ICI</TD>
+    <TD>NFCI</TD>
+    <TD><A title="Cicia Airport" href="/wiki/Cicia_Airport">Cicia 
+    Airport</A></TD>
+    <TD><A title="Cicia" href="/wiki/Cicia">Cicia</A>, <A title="Fiji" href="/wiki/Fiji">Fiji</A></TD></TR>
+  <TR>
+    <TD>ICK</TD>
+    <TD>SMNI</TD>
+    <TD><A title="Nieuw-Nickerie Airport" class="mw-redirect" href="/wiki/Nieuw-Nickerie_Airport">Nieuw-Nickerie 
+      Airport</A> (Maj. Fernandes Airport)</TD>
+    <TD><A title="Nieuw-Nickerie" class="mw-redirect" href="/wiki/Nieuw-Nickerie">Nieuw-Nickerie</A>, 
+      <A title="Suriname" href="/wiki/Suriname">Suriname</A></TD></TR>
+  <TR>
+    <TD>ICL</TD>
+    <TD>KICL</TD>
+    <TD><A title="Schenck Field (page does not exist)" class="new" href="/w/index.php?title=Schenck_Field&amp;action=edit&amp;redlink=1">Schenck 
+      Field</A></TD>
+    <TD><A title="Clarinda, Iowa" href="/wiki/Clarinda,_Iowa">Clarinda, 
+      Iowa</A>, <A title="United States" href="/wiki/United_States">United 
+      States</A></TD></TR>
+  <TR>
+    <TD>ICN</TD>
+    <TD>RKSI</TD>
+    <TD><A title="Incheon International Airport" href="/wiki/Incheon_International_Airport">Incheon 
+      International Airport</A></TD>
+    <TD><A title="Incheon" href="/wiki/Incheon">Incheon</A> (near <A title="Seoul" 
+      href="/wiki/Seoul">Seoul</A>), <A title="South Korea" href="/wiki/South_Korea">South 
+      Korea</A></TD></TR>
+  <TR>
+    <TD>ICO</TD>
+    <TD>RPSG</TD>
+    <TD><A title="Sicogon Airport (page does not exist)" class="new" href="/w/index.php?title=Sicogon_Airport&amp;action=edit&amp;redlink=1">Sicogon 
+      Airport</A></TD>
+    <TD><A title="Carles, Iloilo" href="/wiki/Carles,_Iloilo">Carles</A>, <A 
+      title="Iloilo" href="/wiki/Iloilo">Iloilo</A>, <A title="Philippines" 
+      href="/wiki/Philippines">Philippines</A></TD></TR>
+  <TR>
+    <TD>ICR</TD>
+    <TD>MUNC</TD>
+    <TD><A title="Nicaro Airport" href="/wiki/Nicaro_Airport">Nicaro 
+      Airport</A></TD>
+    <TD><A title="Nicaro" class="mw-redirect" href="/wiki/Nicaro">Nicaro</A>, 
+      <A title="Cuba" href="/wiki/Cuba">Cuba</A></TD></TR>
+  <TR>
+    <TD>ICT</TD>
+    <TD>KICT</TD>
+    <TD><A title="Wichita Mid-Continent Airport" class="mw-redirect" href="/wiki/Wichita_Mid-Continent_Airport">Wichita 
+      Mid-Continent Airport</A></TD>
+    <TD><A title="Wichita, Kansas" href="/wiki/Wichita,_Kansas">Wichita, 
+      Kansas</A>, <A title="United States" href="/wiki/United_States">United 
+      States</A></TD></TR>
+  <TR>
+    <TD>ICY</TD>
+    <TD></TD>
+    <TD><A title="Icy Bay Airport" href="/wiki/Icy_Bay_Airport">Icy Bay 
+      Airport</A> (FAA: 19AK)</TD>
+    <TD><A title="Icy Bay" class="mw-redirect" href="/wiki/Icy_Bay">Icy 
+      Bay</A>, <A title="Alaska" href="/wiki/Alaska">Alaska</A>, <A title="United States" 
+      href="/wiki/United_States">United States</A></TD></TR>
+  <TR class="sortbottom">
+    <TH style="background: rgb(221, 221, 221); text-align: left;" 
+      colspan="4"><CITE id="ID"></CITE>-ID-</TH></TR>
+  <TR>
+    <TD>IDA</TD>
+    <TD>KIDA</TD>
+    <TD><A title="Idaho Falls Regional Airport" href="/wiki/Idaho_Falls_Regional_Airport">Idaho 
+      Falls Regional Airport</A></TD>
+    <TD><A title="Idaho Falls, Idaho" class="mw-redirect" href="/wiki/Idaho_Falls,_Idaho">Idaho 
+      Falls, Idaho</A>, <A title="United States" 
+      href="/wiki/United_States">United States</A></TD></TR>
+  <TR>
+    <TD>IDB</TD>
+    <TD>ESUE</TD>
+    <TD><A title="Idre Airport (page does not exist)" class="new" href="/w/index.php?title=Idre_Airport&amp;action=edit&amp;redlink=1">Idre 
+      Airport</A></TD>
+    <TD><A title="Idre" href="/wiki/Idre">Idre</A>, <A title="Sweden" href="/wiki/Sweden">Sweden</A></TD></TR>
+  <TR>
+    <TD>IDF</TD>
+    <TD>FZCB</TD>
+    <TD><A title="Idiofa Airport" href="/wiki/Idiofa_Airport">Idiofa 
+      Airport</A></TD>
+    <TD><A title="Idiofa" href="/wiki/Idiofa">Idiofa</A>, <A title="Democratic Republic of the Congo" 
+      href="/wiki/Democratic_Republic_of_the_Congo">Democratic Republic of the 
+      Congo</A></TD></TR>
+  <TR>
+    <TD>IDG</TD>
+    <TD>KIDG</TD>
+    <TD><A title="Ida Grove Municipal Airport (page does not exist)" class="new" 
+      href="/w/index.php?title=Ida_Grove_Municipal_Airport&amp;action=edit&amp;redlink=1">Ida 
+      Grove Municipal Airport</A></TD>
+    <TD><A title="Ida Grove, Iowa" href="/wiki/Ida_Grove,_Iowa">Ida Grove, 
+      Iowa</A>, <A title="United States" href="/wiki/United_States">United 
+      States</A></TD></TR>
+  <TR>
+    <TD>IDI</TD>
+    <TD>KIDI</TD>
+    <TD><A title="Indiana County Airport" class="mw-redirect" href="/wiki/Indiana_County_Airport">Indiana 
+      County Airport</A> (Jimmy Stewart Field)</TD>
+    <TD><A title="Indiana, Pennsylvania" 
+      href="/wiki/Indiana,_Pennsylvania">Indiana, Pennsylvania</A>, <A title="United States" 
+      href="/wiki/United_States">United States</A></TD></TR>
+  <TR>
+    <TD>IDK</TD>
+    <TD>YIDK</TD>
+    <TD><A title="Indulkana Airport (page does not exist)" class="new" href="/w/index.php?title=Indulkana_Airport&amp;action=edit&amp;redlink=1">Indulkana 
+      Airport</A></TD>
+    <TD><A title="Indulkana, South Australia" class="mw-redirect" href="/wiki/Indulkana,_South_Australia">Indulkana, 
+      South Australia</A>, <A title="Australia" 
+      href="/wiki/Australia">Australia</A></TD></TR>
+  <TR>
+    <TD>IDN</TD>
+    <TD></TD>
+    <TD><A title="Indagen Airport (page does not exist)" class="new" href="/w/index.php?title=Indagen_Airport&amp;action=edit&amp;redlink=1">Indagen 
+      Airport</A></TD>
+    <TD><A title="Indagen (page does not exist)" class="new" href="/w/index.php?title=Indagen&amp;action=edit&amp;redlink=1">Indagen</A>, 
+      <A title="Papua New Guinea" href="/wiki/Papua_New_Guinea">Papua New 
+      Guinea</A></TD></TR>
+  <TR>
+    <TD>IDO</TD>
+    <TD>SWIY</TD>
+    <TD><A title="Santa Isabel do Morro Airport (page does not exist)" class="new" 
+      href="/w/index.php?title=Santa_Isabel_do_Morro_Airport&amp;action=edit&amp;redlink=1">Santa 
+      Isabel do Morro Airport</A></TD>
+    <TD><A title="Santa Isabel do Morro (page does not exist)" class="new" 
+      href="/w/index.php?title=Santa_Isabel_do_Morro&amp;action=edit&amp;redlink=1">Santa 
+      Isabel do Morro</A>, <A title="Tocantins" 
+      href="/wiki/Tocantins">Tocantins</A>, <A title="Brazil" href="/wiki/Brazil">Brazil</A></TD></TR>
+  <TR>
+    <TD>IDP</TD>
+    <TD>KIDP</TD>
+    <TD><A title="Independence Municipal Airport (Kansas)" href="/wiki/Independence_Municipal_Airport_(Kansas)">Independence 
+      Municipal Airport</A></TD>
+    <TD><A title="Independence, Kansas" 
+      href="/wiki/Independence,_Kansas">Independence, Kansas</A>, <A title="United States" 
+      href="/wiki/United_States">United States</A></TD></TR>
+  <TR>
+    <TD>IDR</TD>
+    <TD>VAID</TD>
+    <TD><A title="Devi Ahilyabai Holkar International Airport" class="mw-redirect" 
+      href="/wiki/Devi_Ahilyabai_Holkar_International_Airport">Devi Ahilyabai 
+      Holkar International Airport</A></TD>
+    <TD><A title="Indore" href="/wiki/Indore">Indore</A>, <A title="Madhya Pradesh" 
+      href="/wiki/Madhya_Pradesh">Madhya Pradesh</A>, <A title="India" href="/wiki/India">India</A></TD></TR>
+  <TR>
+    <TD>IDY</TD>
+    <TD>LFEY</TD>
+    <TD><A title="Île d'Yeu Airport" class="mw-redirect" href="/wiki/%C3%8Ele_d%27Yeu_Airport">Île 
+      d'Yeu Airport</A></TD>
+    <TD><A title="Île d'Yeu" href="/wiki/%C3%8Ele_d%27Yeu">Île d'Yeu</A>, <A 
+      title="France" href="/wiki/France">France</A></TD></TR>
+  <TR class="sortbottom">
+    <TH style="background: rgb(221, 221, 221); text-align: left;" 
+      colspan="4"><CITE id="IE"></CITE>-IE-</TH></TR>
+  <TR>
+    <TD>IEG</TD>
+    <TD>EPZG</TD>
+    <TD><A title="Zielona Góra Airport" 
+      href="/wiki/Zielona_G%C3%B3ra_Airport">Zielona Góra Airport</A> (Babimost 
+      Air Base)</TD>
+    <TD><A title="Zielona Góra" href="/wiki/Zielona_G%C3%B3ra">Zielona 
+      Góra</A>, <A title="Poland" href="/wiki/Poland">Poland</A></TD></TR>
+  <TR>
+    <TD>IEJ</TD>
+    <TD>RORE</TD>
+    <TD><A title="Iejima Airport" href="/wiki/Iejima_Airport">Iejima 
+      Airport</A></TD>
+    <TD><A title="Iejima" href="/wiki/Iejima">Iejima</A>, <A title="Japan" 
+      href="/wiki/Japan">Japan</A></TD></TR>
+  <TR>
+    <TD>IES</TD>
+    <TD>EDAU</TD>
+    <TD><A title="Göhlis Airport (page does not exist)" class="new" href="/w/index.php?title=G%C3%B6hlis_Airport&amp;action=edit&amp;redlink=1">Göhlis 
+      Airport</A></TD>
+    <TD><A title="Riesa" href="/wiki/Riesa">Riesa</A>, <A title="Germany" 
+      href="/wiki/Germany">Germany</A></TD></TR>
+  <TR>
+    <TD>IEV</TD>
+    <TD>UKKK</TD>
+    <TD><A title="Kiev International Airport" class="mw-redirect" href="/wiki/Kiev_International_Airport">Kiev 
+      International Airport</A></TD>
+    <TD><A title="Kiev" href="/wiki/Kiev">Kiev</A>, <A title="Ukraine" href="/wiki/Ukraine">Ukraine</A></TD></TR>
+  <TR class="sortbottom">
+    <TH style="background: rgb(221, 221, 221); text-align: left;" 
+      colspan="4"><CITE id="IF"></CITE>-IF-</TH></TR>
+  <TR>
+    <TD>IFA</TD>
+    <TD>KIFA</TD>
+    <TD><A title="Iowa Falls Municipal Airport (page does not exist)" class="new" 
+      href="/w/index.php?title=Iowa_Falls_Municipal_Airport&amp;action=edit&amp;redlink=1">Iowa 
+      Falls Municipal Airport</A></TD>
+    <TD><A title="Iowa Falls, Iowa" href="/wiki/Iowa_Falls,_Iowa">Iowa Falls, 
+      Iowa</A>, <A title="United States" href="/wiki/United_States">United 
+      States</A></TD></TR>
+  <TR>
+    <TD>IFF</TD>
+    <TD>YIFY</TD>
+    <TD><A title="Iffley Airport (page does not exist)" class="new" href="/w/index.php?title=Iffley_Airport&amp;action=edit&amp;redlink=1">Iffley 
+      Airport</A></TD>
+    <TD><A title="Iffley Station" href="/wiki/Iffley_Station">Iffley</A>, <A 
+      title="Queensland" href="/wiki/Queensland">Queensland</A>, <A title="Australia" 
+      href="/wiki/Australia">Australia</A></TD></TR>
+  <TR>
+    <TD>IFJ</TD>
+    <TD>BIIS</TD>
+    <TD><A title="Ísafjörður Airport" href="/wiki/%C3%8Dsafj%C3%B6r%C3%B0ur_Airport">Ísafjörður 
+      Airport</A></TD>
+    <TD><A title="Ísafjörður" 
+      href="/wiki/%C3%8Dsafj%C3%B6r%C3%B0ur">Ísafjörður</A>, <A title="Iceland" 
+      href="/wiki/Iceland">Iceland</A></TD></TR>
+  <TR>
+    <TD>IFL</TD>
+    <TD>YIFL</TD>
+    <TD><A title="Innisfail Airport (Australia) (page does not exist)" class="new" 
+      href="/w/index.php?title=Innisfail_Airport_(Australia)&amp;action=edit&amp;redlink=1">Innisfail 
+      Airport</A></TD>
+    <TD><A title="Innisfail, Queensland" 
+      href="/wiki/Innisfail,_Queensland">Innisfail, Queensland</A>, <A title="Australia" 
+      href="/wiki/Australia">Australia</A></TD></TR>
+  <TR>
+    <TD>IFN</TD>
+    <TD>OIFM</TD>
+    <TD><A title="Esfahan Shahid Beheshti International Airport" class="mw-redirect" 
+      href="/wiki/Esfahan_Shahid_Beheshti_International_Airport">Esfahan Shahid 
+      Beheshti International Airport</A></TD>
+    <TD><A title="Isfahan" href="/wiki/Isfahan">Isfahan</A>, <A title="Iran" 
+      href="/wiki/Iran">Iran</A></TD></TR>
+  <TR>
+    <TD>IFO</TD>
+    <TD>UKLI</TD>
+    <TD><A title="Ivano-Frankivsk Airport" class="mw-redirect" href="/wiki/Ivano-Frankivsk_Airport">Ivano-Frankivsk 
+      Airport</A></TD>
+    <TD><A title="Ivano-Frankivsk" 
+      href="/wiki/Ivano-Frankivsk">Ivano-Frankivsk</A>, <A title="Ukraine" href="/wiki/Ukraine">Ukraine</A></TD></TR>
+  <TR>
+    <TD>IFP</TD>
+    <TD>KIFP</TD>
+    <TD><A title="Laughlin/Bullhead International Airport" href="/wiki/Laughlin/Bullhead_International_Airport">Laughlin/Bullhead 
+      International Airport</A></TD>
+    <TD><A title="Bullhead City, Arizona" 
+      href="/wiki/Bullhead_City,_Arizona">Bullhead City, Arizona</A>, <A title="United States" 
+      href="/wiki/United_States">United States</A></TD></TR>
+  <TR class="sortbottom">
+    <TH style="background: rgb(221, 221, 221); text-align: left;" 
+      colspan="4"><CITE id="IG"></CITE>-IG-</TH></TR>
+  <TR>
+    <TD>IGA</TD>
+    <TD>MYIG</TD>
+    <TD><A title="Matthew Town Airport" class="mw-redirect" href="/wiki/Matthew_Town_Airport">Matthew 
+      Town Airport</A> (<A title="Inagua Airport" 
+      href="/wiki/Inagua_Airport">Inagua Airport</A>)</TD>
+    <TD><A title="Matthew Town" href="/wiki/Matthew_Town">Matthew Town</A>, <A 
+      title="Great Inagua Island" class="mw-redirect" href="/wiki/Great_Inagua_Island">Great 
+      Inagua Island</A>, <A title="Bahamas" class="mw-redirect" href="/wiki/Bahamas">Bahamas</A></TD></TR>
+  <TR>
+    <TD>IGB</TD>
+    <TD>SAVJ</TD>
+    <TD><A title="Ingeniero Jacobacci Airport" href="/wiki/Ingeniero_Jacobacci_Airport">C. 
+      FAA H.R. Borden Airport</A> (Ingeniero Jacobacci Airport)</TD>
+    <TD><A title="Ingeniero Jacobacci" 
+      href="/wiki/Ingeniero_Jacobacci">Ingeniero Jacobacci</A>, <A title="Río Negro Province" 
+      href="/wiki/R%C3%ADo_Negro_Province">Río Negro</A>, <A title="Argentina" 
+      href="/wiki/Argentina">Argentina</A></TD></TR>
+  <TR>
+    <TD>IGE</TD>
+    <TD>FOOI</TD>
+    <TD><A title="Iguela Airport (page does not exist)" class="new" href="/w/index.php?title=Iguela_Airport&amp;action=edit&amp;redlink=1">Iguela 
+      Airport</A></TD>
+    <TD><A title="Iguela (page does not exist)" class="new" href="/w/index.php?title=Iguela&amp;action=edit&amp;redlink=1">Iguela</A>, 
+      <A title="Gabon" href="/wiki/Gabon">Gabon</A></TD></TR>
+  <TR>
+    <TD>IGG</TD>
+    <TD>PAIG</TD>
+    <TD><A title="Igiugig Airport" href="/wiki/Igiugig_Airport">Igiugig 
+      Airport</A></TD>
+    <TD><A title="Igiugig, Alaska" href="/wiki/Igiugig,_Alaska">Igiugig, 
+      Alaska</A>, <A title="United States" href="/wiki/United_States">United 
+      States</A></TD></TR>
+  <TR>
+    <TD>IGH</TD>
+    <TD>YIGM</TD>
+    <TD><A title="Ingham Airport (page does not exist)" class="new" href="/w/index.php?title=Ingham_Airport&amp;action=edit&amp;redlink=1">Ingham 
+      Airport</A></TD>
+    <TD><A title="Ingham, Queensland" href="/wiki/Ingham,_Queensland">Ingham, 
+      Queensland</A>, <A title="Australia" 
+    href="/wiki/Australia">Australia</A></TD></TR>
+  <TR>
+    <TD>IGL</TD>
+    <TD>LTBL</TD>
+    <TD><A title="Çiğli Airport" class="mw-redirect" href="/wiki/%C3%87i%C4%9Fli_Airport">Çiğli 
+      Airport</A> (Çiğli Air Base)</TD>
+    <TD><A title="Çiğli" href="/wiki/%C3%87i%C4%9Fli">Çiğli</A> / <A title="İzmir" 
+      href="/wiki/%C4%B0zmir">İzmir</A>, <A title="Turkey" 
+      href="/wiki/Turkey">Turkey</A></TD></TR>
+  <TR>
+    <TD>IGM</TD>
+    <TD>KIGM</TD>
+    <TD><A title="Kingman Airport (Arizona)" href="/wiki/Kingman_Airport_(Arizona)">Kingman 
+      Airport</A></TD>
+    <TD><A title="Kingman, Arizona" href="/wiki/Kingman,_Arizona">Kingman, 
+      Arizona</A>, <A title="United States" href="/wiki/United_States">United 
+      States</A></TD></TR>
+  <TR>
+    <TD>IGN</TD>
+    <TD>RPMI</TD>
+    <TD><A title="Maria Cristina Airport" 
+      href="/wiki/Maria_Cristina_Airport">Maria Cristina Airport</A> (Iligan 
+      Airport)</TD>
+    <TD><A title="Baloi, Lanao del Norte" class="mw-redirect" href="/wiki/Baloi,_Lanao_del_Norte">Baloi</A>, 
+      <A title="Lanao del Norte" href="/wiki/Lanao_del_Norte">Lanao del 
+      Norte</A>, <A title="Philippines" 
+    href="/wiki/Philippines">Philippines</A></TD></TR>
+  <TR>
+    <TD>IGO</TD>
+    <TD>SKIG</TD>
+    <TD><A title="Chigorodó Airport (page does not exist)" class="new" href="/w/index.php?title=Chigorod%C3%B3_Airport&amp;action=edit&amp;redlink=1">Chigorodó 
+      Airport</A></TD>
+    <TD><A title="Chigorodó" href="/wiki/Chigorod%C3%B3">Chigorodó</A>, <A 
+      title="Colombia" href="/wiki/Colombia">Colombia</A></TD></TR>
+  <TR>
+    <TD>IGR</TD>
+    <TD>SARI</TD>
+    <TD><A title="Cataratas del Iguazú International Airport" href="/wiki/Cataratas_del_Iguaz%C3%BA_International_Airport">Cataratas 
+      del Iguazú International Airport</A></TD>
+    <TD><A title="Puerto Iguazú" href="/wiki/Puerto_Iguaz%C3%BA">Puerto 
+      Iguazú</A>, <A title="Misiones" class="mw-redirect" 
+      href="/wiki/Misiones">Misiones</A>, <A title="Argentina" href="/wiki/Argentina">Argentina</A></TD></TR>
+  <TR>
+    <TD>IGS</TD>
+    <TD>ETSI</TD>
+    <TD><A title="Ingolstadt Manching Airport" href="/wiki/Ingolstadt_Manching_Airport">Ingolstadt 
+      Manching Airport</A></TD>
+    <TD><A title="Ingolstadt" href="/wiki/Ingolstadt">Ingolstadt</A>, <A 
+      title="Germany" href="/wiki/Germany">Germany</A></TD></TR>
+  <TR>
+    <TD>IGT</TD>
+    <TD></TD>
+    <TD><A title="Magas Airport" href="/wiki/Magas_Airport">Magas 
+    Airport</A></TD>
+    <TD><A title="Magas" href="/wiki/Magas">Magas</A>, <A title="Republic of Ingushetia" 
+      class="mw-redirect" href="/wiki/Republic_of_Ingushetia">Republic of 
+      Ingushetia</A>, <A title="Russia" href="/wiki/Russia">Russia</A></TD></TR>
+  <TR>
+    <TD>IGU</TD>
+    <TD>SBFI</TD>
+    <TD><A title="Foz do Iguaçu International Airport" href="/wiki/Foz_do_Igua%C3%A7u_International_Airport">Foz 
+      do Iguaçu International Airport</A></TD>
+    <TD><A title="Foz do Iguaçu" href="/wiki/Foz_do_Igua%C3%A7u">Foz do 
+      Iguaçu</A>, <A title="Paraná (state)" 
+      href="/wiki/Paran%C3%A1_(state)">Paraná</A>, <A title="Brazil" href="/wiki/Brazil">Brazil</A></TD></TR>
+  <TR class="sortbottom">
+    <TH style="background: rgb(221, 221, 221); text-align: left;" 
+      colspan="4"><CITE id="IH"></CITE>-IH-</TH></TR>
+  <TR>
+    <TD>IHA</TD>
+    <TD></TD>
+    <TD><A title="Niihama Airport (page does not exist)" class="new" href="/w/index.php?title=Niihama_Airport&amp;action=edit&amp;redlink=1">Niihama 
+      Airport</A></TD>
+    <TD><A title="Niihama" class="mw-redirect" 
+      href="/wiki/Niihama">Niihama</A>, <A title="Shikoku" 
+      href="/wiki/Shikoku">Shikoku</A>, <A title="Japan" 
+      href="/wiki/Japan">Japan</A></TD></TR>
+  <TR>
+    <TD>IHN</TD>
+    <TD>OYQN</TD>
+    <TD><A title="Qishn Airport (page does not exist)" class="new" href="/w/index.php?title=Qishn_Airport&amp;action=edit&amp;redlink=1">Qishn 
+      Airport</A></TD>
+    <TD><A title="Qishn" href="/wiki/Qishn">Qishn</A>, <A title="Yemen" href="/wiki/Yemen">Yemen</A></TD></TR>
+  <TR>
+    <TD>IHO</TD>
+    <TD>FMSI</TD>
+    <TD><A title="Ihosy Airport (page does not exist)" class="new" href="/w/index.php?title=Ihosy_Airport&amp;action=edit&amp;redlink=1">Ihosy 
+      Airport</A></TD>
+    <TD><A title="Ihosy" href="/wiki/Ihosy">Ihosy</A>, <A title="Madagascar" 
+      href="/wiki/Madagascar">Madagascar</A></TD></TR>
+  <TR>
+    <TD>IHU</TD>
+    <TD></TD>
+    <TD><A title="Ihu Airport" href="/wiki/Ihu_Airport">Ihu Airport</A></TD>
+    <TD><A title="Ihu, Papua New Guinea (page does not exist)" class="new" 
+      href="/w/index.php?title=Ihu,_Papua_New_Guinea&amp;action=edit&amp;redlink=1">Ihu</A>, 
+      <A title="Papua New Guinea" href="/wiki/Papua_New_Guinea">Papua New 
+      Guinea</A></TD></TR>
+  <TR class="sortbottom">
+    <TH style="background: rgb(221, 221, 221); text-align: left;" 
+      colspan="4"><CITE id="II"></CITE>-II-</TH></TR>
+  <TR>
+    <TD>IIA</TD>
+    <TD>EIMN</TD>
+    <TD><A title="Inishmaan Airport" class="mw-redirect" href="/wiki/Inishmaan_Airport">Inishmaan 
+      Airport</A></TD>
+    <TD><A title="Inishmaan" href="/wiki/Inishmaan">Inishmaan</A>, <A title="Republic of Ireland" 
+      href="/wiki/Republic_of_Ireland">Ireland</A></TD></TR>
+  <TR>
+    <TD>IIN</TD>
+    <TD></TD>
+    <TD><A title="Nishinoomote Airport (page does not exist)" class="new" 
+      href="/w/index.php?title=Nishinoomote_Airport&amp;action=edit&amp;redlink=1">Nishinoomote 
+      Airport</A></TD>
+    <TD><A title="Nishinoomote" class="mw-redirect" 
+      href="/wiki/Nishinoomote">Nishinoomote</A>, <A title="Osumi Islands" 
+      class="mw-redirect" href="/wiki/Osumi_Islands">Osumi Islands</A>, <A 
+      title="Japan" href="/wiki/Japan">Japan</A></TD></TR>
+  <TR>
+    <TD>IIS</TD>
+    <TD></TD>
+    <TD><A title="Nissan Island Airport" 
+      href="/wiki/Nissan_Island_Airport">Nissan Island Airport</A></TD>
+    <TD><A title="Nissan Island" href="/wiki/Nissan_Island">Nissan Island</A>, 
+      <A title="Papua New Guinea" href="/wiki/Papua_New_Guinea">Papua New 
+      Guinea</A></TD></TR>
+  <TR class="sortbottom">
+    <TH style="background: rgb(221, 221, 221); text-align: left;" 
+      colspan="4"><CITE id="IJ"></CITE>-IJ-</TH></TR>
+  <TR>
+    <TD>IJK</TD>
+    <TD>USII</TD>
+    <TD><A title="Izhevsk Airport" href="/wiki/Izhevsk_Airport">Izhevsk 
+      Airport</A></TD>
+    <TD><A title="Izhevsk" href="/wiki/Izhevsk">Izhevsk</A>, <A title="Udmurt Republic" 
+      class="mw-redirect" href="/wiki/Udmurt_Republic">Udmurt Republic</A>, <A 
+      title="Russia" href="/wiki/Russia">Russia</A></TD></TR>
+  <TR>
+    <TD>IJU</TD>
+    <TD>SSIJ</TD>
+    <TD><A title="Ijuí Airport" href="/wiki/Iju%C3%AD_Airport">Ijuí 
+      Airport</A> (J. Batista Bos Filho Airport)</TD>
+    <TD><A title="Ijuí" href="/wiki/Iju%C3%AD">Ijuí</A>, <A title="Rio Grande do Sul" 
+      href="/wiki/Rio_Grande_do_Sul">Rio Grande do Sul</A>, <A title="Brazil" 
+      href="/wiki/Brazil">Brazil</A></TD></TR>
+  <TR>
+    <TD>IJX</TD>
+    <TD>KIJX</TD>
+    <TD>Jacksonville Municipal Airport (not <A title="Imeson Field" href="/wiki/Imeson_Field">Imeson 
+      Field</A>)</TD>
+    <TD><A title="Jacksonville, Illinois" 
+      href="/wiki/Jacksonville,_Illinois">Jacksonville, Illinois</A>, <A title="United States" 
+      href="/wiki/United_States">United States</A></TD></TR>
+  <TR class="sortbottom">
+    <TH style="background: rgb(221, 221, 221); text-align: left;" 
+      colspan="4"><CITE id="IK"></CITE>-IK-</TH></TR>
+  <TR>
+    <TD>IKA</TD>
+    <TD>OIIE</TD>
+    <TD><A title="Tehran Imam Khomeini International Airport" href="/wiki/Tehran_Imam_Khomeini_International_Airport">Tehran 
+      Imam Khomeini International Airport</A></TD>
+    <TD><A title="Tehran" href="/wiki/Tehran">Tehran</A>, <A title="Iran" 
+      href="/wiki/Iran">Iran</A></TD></TR>
+  <TR>
+    <TD>IKB</TD>
+    <TD>KUKF</TD>
+    <TD><A title="Wilkes County Airport" 
+      href="/wiki/Wilkes_County_Airport">Wilkes County Airport</A> (FAA: UKF)</TD>
+    <TD><A title="North Wilkesboro, North Carolina" href="/wiki/North_Wilkesboro,_North_Carolina">North 
+      Wilkesboro, North Carolina</A>, <A title="United States" href="/wiki/United_States">United 
+      States</A></TD></TR>
+  <TR>
+    <TD>IKE</TD>
+    <TD>BGIA</TD>
+    <TD><A title="Ikerasak Heliport" href="/wiki/Ikerasak_Heliport">Ikerasak 
+      Heliport</A></TD>
+    <TD><A title="Ikerasak" href="/wiki/Ikerasak">Ikerasak</A>, <A title="Greenland" 
+      href="/wiki/Greenland">Greenland</A></TD></TR>
+  <TR>
+    <TD>IKI</TD>
+    <TD>RJDB</TD>
+    <TD><A title="Iki Airport" href="/wiki/Iki_Airport">Iki Airport</A></TD>
+    <TD><A title="Iki, Nagasaki" href="/wiki/Iki,_Nagasaki">Iki</A>, <A title="Iki Island" 
+      href="/wiki/Iki_Island">Iki Island</A>, <A title="Japan" href="/wiki/Japan">Japan</A></TD></TR>
+  <TR>
+    <TD>IKK</TD>
+    <TD>KIKK</TD>
+    <TD><A title="Greater Kankakee Airport" href="/wiki/Greater_Kankakee_Airport">Greater 
+      Kankakee Airport</A></TD>
+    <TD><A title="Kankakee, Illinois" 
+      href="/wiki/Kankakee,_Illinois">Kankakee, Illinois</A>, <A title="United States" 
+      href="/wiki/United_States">United States</A></TD></TR>
+  <TR>
+    <TD>IKL</TD>
+    <TD>FZGV</TD>
+    <TD><A title="Ikela Airport" href="/wiki/Ikela_Airport">Ikela 
+    Airport</A></TD>
+    <TD><A title="Ikela" href="/wiki/Ikela">Ikela</A>, <A title="Democratic Republic of the Congo" 
+      href="/wiki/Democratic_Republic_of_the_Congo">Democratic Republic of the 
+      Congo</A></TD></TR>
+  <TR>
+    <TD>IKO</TD>
+    <TD>PAKO</TD>
+    <TD><A title="Nikolski Air Station" 
+      href="/wiki/Nikolski_Air_Station">Nikolski Air Station</A></TD>
+    <TD><A title="Nikolski, Alaska" href="/wiki/Nikolski,_Alaska">Nikolski, 
+      Alaska</A>, <A title="United States" href="/wiki/United_States">United 
+      States</A></TD></TR>
+  <TR>
+    <TD>IKP</TD>
+    <TD>YIKM</TD>
+    <TD><A title="Inkerman Airport (page does not exist)" class="new" href="/w/index.php?title=Inkerman_Airport&amp;action=edit&amp;redlink=1">Inkerman 
+      Airport</A></TD>
+    <TD><A title="Inkerman, Queensland" 
+      href="/wiki/Inkerman,_Queensland">Inkerman, Queensland</A>, <A title="Australia" 
+      href="/wiki/Australia">Australia</A></TD></TR>
+  <TR>
+    <TD>IKS</TD>
+    <TD>UEST</TD>
+    <TD><A title="Tiksi Airport" href="/wiki/Tiksi_Airport">Tiksi 
+    Airport</A></TD>
+    <TD><A title="Tiksi" href="/wiki/Tiksi">Tiksi</A>, <A title="Russia" href="/wiki/Russia">Russia</A></TD></TR>
+  <TR>
+    <TD>IKT</TD>
+    <TD>UIII</TD>
+    <TD><A title="Irkutsk International Airport" class="mw-redirect" href="/wiki/Irkutsk_International_Airport">Irkutsk 
+      International Airport</A></TD>
+    <TD><A title="Irkutsk" href="/wiki/Irkutsk">Irkutsk</A>, <A title="Russia" 
+      href="/wiki/Russia">Russia</A></TD></TR>
+  <TR>
+    <TD>IKV</TD>
+    <TD>KIKV</TD>
+    <TD><A title="Ankeny Regional Airport" href="/wiki/Ankeny_Regional_Airport">Ankeny 
+      Regional Airport</A></TD>
+    <TD><A title="Ankeny, Iowa" href="/wiki/Ankeny,_Iowa">Ankeny, Iowa</A>, <A 
+      title="United States" href="/wiki/United_States">United States</A></TD></TR>
+  <TR class="sortbottom">
+    <TH style="background: rgb(221, 221, 221); text-align: left;" 
+      colspan="4"><CITE id="IL"></CITE>-IL-</TH></TR>
+  <TR>
+    <TD>ILA</TD>
+    <TD>WABL</TD>
+    <TD><A title="Illaga Airport (page does not exist)" class="new" href="/w/index.php?title=Illaga_Airport&amp;action=edit&amp;redlink=1">Illaga 
+      Airport</A></TD>
+    <TD><A title="Illaga (page does not exist)" class="new" href="/w/index.php?title=Illaga&amp;action=edit&amp;redlink=1">Illaga</A>, 
+      <A title="Indonesia" href="/wiki/Indonesia">Indonesia</A></TD></TR>
+  <TR>
+    <TD>ILB</TD>
+    <TD></TD>
+    <TD><A title="Ilha Solteira Airport (page does not exist)" class="new" 
+      href="/w/index.php?title=Ilha_Solteira_Airport&amp;action=edit&amp;redlink=1">Ilha 
+      Solteira Airport</A></TD>
+    <TD><A title="Ilha Solteira" href="/wiki/Ilha_Solteira">Ilha Solteira</A>, 
+      <A title="São Paulo" href="/wiki/S%C3%A3o_Paulo">São Paulo</A>, <A title="Brazil" 
+      href="/wiki/Brazil">Brazil</A></TD></TR>
+  <TR>
+    <TD>ILD</TD>
+    <TD>LEDA</TD>
+    <TD><A title="Lleida-Alguaire Airport" class="mw-redirect" href="/wiki/Lleida-Alguaire_Airport">Lleida-Alguaire 
+      Airport</A></TD>
+    <TD><A title="Lleida" href="/wiki/Lleida">Lleida</A>, <A title="Spain" 
+      href="/wiki/Spain">Spain</A></TD></TR>
+  <TR>
+    <TD>ILE</TD>
+    <TD>KILE</TD>
+    <TD><A title="Skylark Field" href="/wiki/Skylark_Field">Skylark 
+    Field</A></TD>
+    <TD><A title="Killeen, Texas" href="/wiki/Killeen,_Texas">Killeen, 
+      Texas</A>, <A title="United States" href="/wiki/United_States">United 
+      States</A></TD></TR>
+  <TR>
+    <TD>ILF</TD>
+    <TD>CZBD</TD>
+    <TD><A title="Ilford Airport" href="/wiki/Ilford_Airport">Ilford 
+      Airport</A></TD>
+    <TD><A title="Ilford, Manitoba" href="/wiki/Ilford,_Manitoba">Ilford, 
+      Manitoba</A>, <A title="Canada" href="/wiki/Canada">Canada</A></TD></TR>
+  <TR>
+    <TD>ILG</TD>
+    <TD>KILG</TD>
+    <TD><A title="New Castle Airport" href="/wiki/New_Castle_Airport">New 
+      Castle Airport</A></TD>
+    <TD><A title="Wilmington, Delaware" 
+      href="/wiki/Wilmington,_Delaware">Wilmington, Delaware</A>, <A title="United States" 
+      href="/wiki/United_States">United States</A></TD></TR>
+  <TR>
+    <TD>ILH</TD>
+    <TD>ETIK</TD>
+    <TD><A title="Illisheim Army Airfield (page does not exist)" class="new" 
+      href="/w/index.php?title=Illisheim_Army_Airfield&amp;action=edit&amp;redlink=1">Illisheim 
+      Army Airfield</A></TD>
+    <TD><A title="Illisheim (page does not exist)" class="new" href="/w/index.php?title=Illisheim&amp;action=edit&amp;redlink=1">Illisheim</A>, 
+      <A title="Bavaria" href="/wiki/Bavaria">Bavaria</A>, <A title="Germany" 
+      href="/wiki/Germany">Germany</A></TD></TR>
+  <TR>
+    <TD>ILI</TD>
+    <TD>PAIL</TD>
+    <TD><A title="Iliamna Airport" href="/wiki/Iliamna_Airport">Iliamna 
+      Airport</A></TD>
+    <TD><A title="Iliamna, Alaska" href="/wiki/Iliamna,_Alaska">Iliamna, 
+      Alaska</A>, <A title="United States" href="/wiki/United_States">United 
+      States</A></TD></TR>
+  <TR>
+    <TD>ILK</TD>
+    <TD>FMMQ</TD>
+    <TD><A title="Atsinanana Airport (page does not exist)" class="new" href="/w/index.php?title=Atsinanana_Airport&amp;action=edit&amp;redlink=1">Atsinanana 
+      Airport</A> (Ilaka Airport)</TD>
+    <TD><A title="Ilaka" class="mw-redirect" href="/wiki/Ilaka">Ilaka</A>, <A 
+      title="Madagascar" href="/wiki/Madagascar">Madagascar</A></TD></TR>
+  <TR>
+    <TD><S>ILL</S></TD>
+    <TD><S>KILL</S></TD>
+    <TD><S><A title="Willmar Municipal Airport" href="/wiki/Willmar_Municipal_Airport">Willmar 
+      Municipal Airport</A> (John L. Rice Field)</S> <SMALL>(closed 
+    2006)</SMALL></TD>
+    <TD><S><A title="Willmar, Minnesota" 
+      href="/wiki/Willmar,_Minnesota">Willmar, Minnesota</A>, <A title="United States" 
+      href="/wiki/United_States">United States</A></S></TD></TR>
+  <TR>
+    <TD>ILM</TD>
+    <TD>KILM</TD>
+    <TD><A title="Wilmington International Airport" href="/wiki/Wilmington_International_Airport">Wilmington 
+      International Airport</A></TD>
+    <TD><A title="Wilmington, North Carolina" href="/wiki/Wilmington,_North_Carolina">Wilmington, 
+      North Carolina</A>, <A title="United States" 
+      href="/wiki/United_States">United States</A></TD></TR>
+  <TR>
+    <TD>ILN</TD>
+    <TD>KILN</TD>
+    <TD><A title="Airborne Airpark" href="/wiki/Airborne_Airpark">Airborne 
+      Airpark</A></TD>
+    <TD><A title="Wilmington, Ohio" href="/wiki/Wilmington,_Ohio">Wilmington, 
+      Ohio</A>, <A title="United States" href="/wiki/United_States">United 
+      States</A></TD></TR>
+  <TR>
+    <TD>ILO</TD>
+    <TD>RPVI</TD>
+    <TD><A title="Iloilo International Airport" href="/wiki/Iloilo_International_Airport">Iloilo 
+      International Airport</A></TD>
+    <TD><A title="Cabatuan, Iloilo" href="/wiki/Cabatuan,_Iloilo">Cabatuan</A> 
+      / <A title="Santa Barbara, Iloilo" 
+      href="/wiki/Santa_Barbara,_Iloilo">Santa Barbara</A>, <A title="Iloilo" 
+      href="/wiki/Iloilo">Iloilo</A>, <A title="Philippines" href="/wiki/Philippines">Philippines</A></TD></TR>
+  <TR>
+    <TD>ILP</TD>
+    <TD>NWWE</TD>
+    <TD><A title="Moué Airport (page does not exist)" class="new" href="/w/index.php?title=Mou%C3%A9_Airport&amp;action=edit&amp;redlink=1">Moué 
+      Airport</A> (Île des Pins Airport)</TD>
+    <TD><A title="Île des Pins" class="mw-redirect" href="/wiki/%C3%8Ele_des_Pins">Île 
+      des Pins</A>, <A title="New Caledonia" href="/wiki/New_Caledonia">New 
+      Caledonia</A></TD></TR>
+  <TR>
+    <TD>ILQ</TD>
+    <TD>SPLO</TD>
+    <TD><A title="Ilo Airport" href="/wiki/Ilo_Airport">Ilo Airport</A></TD>
+    <TD><A title="Ilo" href="/wiki/Ilo">Ilo</A>, <A title="Moquegua Region" 
+      href="/wiki/Moquegua_Region">Moquegua Region</A>, <A title="Peru" href="/wiki/Peru">Peru</A></TD></TR>
+  <TR>
+    <TD>ILR</TD>
+    <TD>DNIL</TD>
+    <TD><A title="Ilorin Airport" class="mw-redirect" href="/wiki/Ilorin_Airport">Ilorin 
+      Airport</A></TD>
+    <TD><A title="Ilorin" href="/wiki/Ilorin">Ilorin</A>, <A title="Nigeria" 
+      href="/wiki/Nigeria">Nigeria</A></TD></TR>
+  <TR>
+    <TD>ILU</TD>
+    <TD>HKKL</TD>
+    <TD><A title="Kilaguni Airport" href="/wiki/Kilaguni_Airport">Kilaguni 
+      Airport</A></TD>
+    <TD><A title="Kilaguni" href="/wiki/Kilaguni">Kilaguni</A>, <A title="Kenya" 
+      href="/wiki/Kenya">Kenya</A></TD></TR>
+  <TR>
+    <TD>ILX</TD>
+    <TD></TD>
+    <TD><A title="Ileg Airport (page does not exist)" class="new" href="/w/index.php?title=Ileg_Airport&amp;action=edit&amp;redlink=1">Ileg 
+      Airport</A></TD>
+    <TD><A title="Ileg (page does not exist)" class="new" href="/w/index.php?title=Ileg&amp;action=edit&amp;redlink=1">Ileg</A>, 
+      <A title="Papua New Guinea" href="/wiki/Papua_New_Guinea">Papua New 
+      Guinea</A></TD></TR>
+  <TR>
+    <TD>ILY</TD>
+    <TD>EGPI</TD>
+    <TD><A title="Port Ellen Airport" class="mw-redirect" href="/wiki/Port_Ellen_Airport">Port 
+      Ellen Airport</A> (Glenegedale Airport)</TD>
+    <TD><A title="Islay" href="/wiki/Islay">Islay</A>, <A title="Scotland" 
+      href="/wiki/Scotland">Scotland</A>, <A title="United Kingdom" href="/wiki/United_Kingdom">United 
+      Kingdom</A></TD></TR>
+  <TR>
+    <TD>ILZ</TD>
+    <TD>LZZI</TD>
+    <TD><A title="Žilina Airport" href="/wiki/%C5%BDilina_Airport">Žilina 
+      Airport</A></TD>
+    <TD><A title="Žilina" href="/wiki/%C5%BDilina">Žilina</A>, <A title="Slovakia" 
+      href="/wiki/Slovakia">Slovakia</A></TD></TR>
+  <TR class="sortbottom">
+    <TH style="background: rgb(221, 221, 221); text-align: left;" 
+      colspan="4"><CITE id="IM"></CITE>-IM-</TH></TR>
+  <TR>
+    <TD>IMA</TD>
+    <TD></TD>
+    <TD><A title="Iamalele Airport (page does not exist)" class="new" href="/w/index.php?title=Iamalele_Airport&amp;action=edit&amp;redlink=1">Iamalele 
+      Airport</A></TD>
+    <TD><A title="Iamalele (page does not exist)" class="new" href="/w/index.php?title=Iamalele&amp;action=edit&amp;redlink=1">Iamalele</A>, 
+      <A title="Papua New Guinea" href="/wiki/Papua_New_Guinea">Papua New 
+      Guinea</A></TD></TR>
+  <TR>
+    <TD>IMB</TD>
+    <TD>SYIB</TD>
+    <TD><A title="Imbaimadai Airport (page does not exist)" class="new" href="/w/index.php?title=Imbaimadai_Airport&amp;action=edit&amp;redlink=1">Imbaimadai 
+      Airport</A></TD>
+    <TD><A title="Imbaimadai" href="/wiki/Imbaimadai">Imbaimadai</A>, <A 
+      title="Guyana" href="/wiki/Guyana">Guyana</A></TD></TR>
+  <TR>
+    <TD>IMD</TD>
+    <TD></TD>
+    <TD><A title="Imonda Airport (page does not exist)" class="new" href="/w/index.php?title=Imonda_Airport&amp;action=edit&amp;redlink=1">Imonda 
+      Airport</A></TD>
+    <TD><A title="Imonda (page does not exist)" class="new" href="/w/index.php?title=Imonda&amp;action=edit&amp;redlink=1">Imonda</A>, 
+      <A title="Papua New Guinea" href="/wiki/Papua_New_Guinea">Papua New 
+      Guinea</A></TD></TR>
+  <TR>
+    <TD>IMF</TD>
+    <TD>VEIM</TD>
+    <TD><A title="Tulihal Airport" class="mw-redirect" href="/wiki/Tulihal_Airport">Tulihal 
+      Airport</A></TD>
+    <TD><A title="Imphal" href="/wiki/Imphal">Imphal</A>, <A title="India" 
+      href="/wiki/India">India</A></TD></TR>
+  <TR>
+    <TD>IMG</TD>
+    <TD></TD>
+    <TD><A title="Inhaminga Airport (page does not exist)" class="new" href="/w/index.php?title=Inhaminga_Airport&amp;action=edit&amp;redlink=1">Inhaminga 
+      Airport</A></TD>
+    <TD><A title="Inhaminga" href="/wiki/Inhaminga">Inhaminga</A>, <A title="Mozambique" 
+      href="/wiki/Mozambique">Mozambique</A></TD></TR>
+  <TR>
+    <TD>IMI</TD>
+    <TD></TD>
+    <TD><A title="Ine Airport" href="/wiki/Ine_Airport">Ine Airport</A> (FAA: 
+      N20)</TD>
+    <TD>Ine, <A title="Arno Atoll" href="/wiki/Arno_Atoll">Arno Atoll</A>, <A 
+      title="Marshall Islands" href="/wiki/Marshall_Islands">Marshall 
+    Islands</A></TD></TR>
+  <TR>
+    <TD>IMK</TD>
+    <TD>VNST</TD>
+    <TD><A title="Simikot Airport" href="/wiki/Simikot_Airport">Simikot 
+      Airport</A></TD>
+    <TD><A title="Simikot" href="/wiki/Simikot">Simikot</A>, <A title="Nepal" 
+      href="/wiki/Nepal">Nepal</A></TD></TR>
+  <TR>
+    <TD>IML</TD>
+    <TD>KIML</TD>
+    <TD><A title="Imperial Municipal Airport (page does not exist)" class="new" 
+      href="/w/index.php?title=Imperial_Municipal_Airport&amp;action=edit&amp;redlink=1">Imperial 
+      Municipal Airport</A></TD>
+    <TD><A title="Imperial, Nebraska" 
+      href="/wiki/Imperial,_Nebraska">Imperial, Nebraska</A>, <A title="United States" 
+      href="/wiki/United_States">United States</A></TD></TR>
+  <TR>
+    <TD>IMM</TD>
+    <TD>KIMM</TD>
+    <TD><A title="Immokalee Airport" class="mw-redirect" href="/wiki/Immokalee_Airport">Immokalee 
+      Airport</A></TD>
+    <TD><A title="Immokalee, Florida" 
+      href="/wiki/Immokalee,_Florida">Immokalee, Florida</A>, <A title="United States" 
+      href="/wiki/United_States">United States</A></TD></TR>
+  <TR>
+    <TD>IMN</TD>
+    <TD>AYII</TD>
+    <TD><A title="Imane Airport (page does not exist)" class="new" href="/w/index.php?title=Imane_Airport&amp;action=edit&amp;redlink=1">Imane 
+      Airport</A></TD>
+    <TD><A title="Imane (page does not exist)" class="new" href="/w/index.php?title=Imane&amp;action=edit&amp;redlink=1">Imane</A>, 
+      <A title="Papua New Guinea" href="/wiki/Papua_New_Guinea">Papua New 
+      Guinea</A></TD></TR>
+  <TR>
+    <TD>IMO</TD>
+    <TD>FEFZ</TD>
+    <TD><A title="Zemio Airport" href="/wiki/Zemio_Airport">Zemio 
+    Airport</A></TD>
+    <TD><A title="Zemio" href="/wiki/Zemio">Zemio</A>, <A title="Central African Republic" 
+      href="/wiki/Central_African_Republic">Central African Republic</A></TD></TR>
+  <TR>
+    <TD>IMP</TD>
+    <TD>SBIZ</TD>
+    <TD><A title="Imperatriz Airport" 
+      href="/wiki/Imperatriz_Airport">Imperatriz Airport</A></TD>
+    <TD><A title="Imperatriz" href="/wiki/Imperatriz">Imperatriz</A>, <A 
+      title="Maranhão" href="/wiki/Maranh%C3%A3o">Maranhão</A>, <A title="Brazil" 
+      href="/wiki/Brazil">Brazil</A></TD></TR>
+  <TR>
+    <TD>IMT</TD>
+    <TD>KIMT</TD>
+    <TD><A title="Ford Airport (Iron Mountain)" href="/wiki/Ford_Airport_(Iron_Mountain)">Ford 
+      Airport</A></TD>
+    <TD><A title="Iron Mountain, Michigan" href="/wiki/Iron_Mountain,_Michigan">Iron 
+      Mountain</A> / <A title="Kingsford, Michigan" href="/wiki/Kingsford,_Michigan">Kingsford, 
+      Michigan</A>, <A title="United States" href="/wiki/United_States">United 
+      States</A></TD></TR>
+  <TR>
+    <TD>IMZ</TD>
+    <TD></TD>
+    <TD><A title="Nimroz Airport (page does not exist)" class="new" href="/w/index.php?title=Nimroz_Airport&amp;action=edit&amp;redlink=1">Nimroz 
+      Airport</A></TD>
+    <TD><A title="Nimroz" class="mw-redirect" href="/wiki/Nimroz">Nimroz</A>, 
+      <A title="Afghanistan" href="/wiki/Afghanistan">Afghanistan</A></TD></TR>
+  <TR class="sortbottom">
+    <TH style="background: rgb(221, 221, 221); text-align: left;" 
+      colspan="4"><CITE id="IN"></CITE>-IN-</TH></TR>
+  <TR>
+    <TD>INA</TD>
+    <TD>UUYI</TD>
+    <TD><A title="Inta Airport" href="/wiki/Inta_Airport">Inta Airport</A></TD>
+    <TD><A title="Inta" href="/wiki/Inta">Inta</A>, <A title="Russia" href="/wiki/Russia">Russia</A></TD></TR>
+  <TR>
+    <TD>INB</TD>
+    <TD></TD>
+    <TD><A title="Independence Airport (Belize)" href="/wiki/Independence_Airport_(Belize)">Independence 
+      Airport</A></TD>
+    <TD><A title="Independence and Mango Creek" href="/wiki/Independence_and_Mango_Creek">Independence</A>, 
+      <A title="Belize" href="/wiki/Belize">Belize</A></TD></TR>
+  <TR>
+    <TD>INC</TD>
+    <TD>ZLIC</TD>
+    <TD><A title="Yinchuan Airport" class="mw-redirect" href="/wiki/Yinchuan_Airport">Yinchuan 
+      Airport</A> (Hedong Airport)</TD>
+    <TD><A title="Yinchuan" href="/wiki/Yinchuan">Yinchuan</A>, <A title="Ningxia" 
+      href="/wiki/Ningxia">Ningxia</A>, <A title="China" 
+      href="/wiki/China">China</A></TD></TR>
+  <TR>
+    <TD>IND</TD>
+    <TD>KIND</TD>
+    <TD><A title="Indianapolis International Airport" href="/wiki/Indianapolis_International_Airport">Indianapolis 
+      International Airport</A></TD>
+    <TD><A title="Indianapolis, Indiana" class="mw-redirect" href="/wiki/Indianapolis,_Indiana">Indianapolis, 
+      Indiana</A>, <A title="United States" href="/wiki/United_States">United 
+      States</A></TD></TR>
+  <TR>
+    <TD>INE</TD>
+    <TD></TD>
+    <TD><A title="Chinde Airport (page does not exist)" class="new" href="/w/index.php?title=Chinde_Airport&amp;action=edit&amp;redlink=1">Chinde 
+      Airport</A></TD>
+    <TD><A title="Chinde" href="/wiki/Chinde">Chinde</A>, <A title="Mozambique" 
+      href="/wiki/Mozambique">Mozambique</A></TD></TR>
+  <TR>
+    <TD>INF</TD>
+    <TD>DATG</TD>
+    <TD><A title="In Guezzam Airport" href="/wiki/In_Guezzam_Airport">In 
+      Guezzam Airport</A></TD>
+    <TD><A title="In Guezzam" href="/wiki/In_Guezzam">In Guezzam</A>, <A 
+      title="Algeria" href="/wiki/Algeria">Algeria</A></TD></TR>
+  <TR>
+    <TD><S>ING</S></TD>
+    <TD><S>SAWA</S></TD>
+    <TD><S><A title="Lago Argentino Airport" href="/wiki/Lago_Argentino_Airport">Lago 
+      Argentino Airport</A></S> <SMALL>(closed 2006)</SMALL></TD>
+    <TD><S><A title="El Calafate" href="/wiki/El_Calafate">El Calafate</A>, <A 
+      title="Santa Cruz Province (Argentina)" class="mw-redirect" href="/wiki/Santa_Cruz_Province_(Argentina)">Santa 
+      Cruz</A>, <A title="Argentina" 
+  href="/wiki/Argentina">Argentina</A></S></TD></TR>
+  <TR>
+    <TD>INH</TD>
+    <TD>FQIN</TD>
+    <TD><A title="Inhambane Airport" href="/wiki/Inhambane_Airport">Inhambane 
+      Airport</A></TD>
+    <TD><A title="Inhambane" href="/wiki/Inhambane">Inhambane</A>, <A title="Mozambique" 
+      href="/wiki/Mozambique">Mozambique</A></TD></TR>
+  <TR>
+    <TD>INI</TD>
+    <TD>LYNI</TD>
+    <TD><A title="Niš Constantine the Great Airport" href="/wiki/Ni%C5%A1_Constantine_the_Great_Airport">Niš 
+      Constantine the Great Airport</A></TD>
+    <TD><A title="Niš" href="/wiki/Ni%C5%A1">Niš</A>, <A title="Serbia" href="/wiki/Serbia">Serbia</A></TD></TR>
+  <TR>
+    <TD>INJ</TD>
+    <TD>YINJ</TD>
+    <TD><A title="Injune Airport (page does not exist)" class="new" href="/w/index.php?title=Injune_Airport&amp;action=edit&amp;redlink=1">Injune 
+      Airport</A></TD>
+    <TD><A title="Injune, Queensland" class="mw-redirect" href="/wiki/Injune,_Queensland">Injune, 
+      Queensland</A>, <A title="Australia" 
+    href="/wiki/Australia">Australia</A></TD></TR>
+  <TR>
+    <TD>INK</TD>
+    <TD>KINK</TD>
+    <TD><A title="Winkler County Airport" 
+      href="/wiki/Winkler_County_Airport">Winkler County Airport</A></TD>
+    <TD><A title="Wink, Texas" href="/wiki/Wink,_Texas">Wink, Texas</A>, <A 
+      title="United States" href="/wiki/United_States">United States</A></TD></TR>
+  <TR>
+    <TD>INL</TD>
+    <TD>KINL</TD>
+    <TD><A title="Falls International Airport" href="/wiki/Falls_International_Airport">Falls 
+      International Airport</A></TD>
+    <TD><A title="International Falls, Minnesota" href="/wiki/International_Falls,_Minnesota">International 
+      Falls, Minnesota</A>, <A title="United States" 
+      href="/wiki/United_States">United States</A></TD></TR>
+  <TR>
+    <TD>INM</TD>
+    <TD>YINN</TD>
+    <TD><A title="Innamincka Airport (page does not exist)" class="new" href="/w/index.php?title=Innamincka_Airport&amp;action=edit&amp;redlink=1">Innamincka 
+      Airport</A></TD>
+    <TD><A title="Innamincka, South Australia" href="/wiki/Innamincka,_South_Australia">Innamincka, 
+      South Australia</A>, <A title="Australia" 
+      href="/wiki/Australia">Australia</A></TD></TR>
+  <TR>
+    <TD>INN</TD>
+    <TD>LOWI</TD>
+    <TD><A title="Innsbruck Airport" href="/wiki/Innsbruck_Airport">Innsbruck 
+      Airport</A> (Kranebitten Airport)</TD>
+    <TD><A title="Innsbruck" href="/wiki/Innsbruck">Innsbruck</A>, <A title="Austria" 
+      href="/wiki/Austria">Austria</A></TD></TR>
+  <TR>
+    <TD>INO</TD>
+    <TD>FZBA</TD>
+    <TD><A title="Inongo Airport" href="/wiki/Inongo_Airport">Inongo 
+      Airport</A></TD>
+    <TD><A title="Inongo" href="/wiki/Inongo">Inongo</A>, <A title="Democratic Republic of the Congo" 
+      href="/wiki/Democratic_Republic_of_the_Congo">Democratic Republic of the 
+      Congo</A></TD></TR>
+  <TR>
+    <TD>INQ</TD>
+    <TD>EIIR</TD>
+    <TD><A title="Inisheer Airport" class="mw-redirect" href="/wiki/Inisheer_Airport">Inisheer 
+      Airport</A></TD>
+    <TD><A title="Inisheer" href="/wiki/Inisheer">Inisheer</A>, <A title="Republic of Ireland" 
+      href="/wiki/Republic_of_Ireland">Ireland</A></TD></TR>
+  <TR>
+    <TD><S>INR</S></TD>
+    <TD></TD>
+    <TD><S><A title="Kincheloe Air Force Base" href="/wiki/Kincheloe_Air_Force_Base">Kincheloe 
+      Air Force Base</A></S> <SMALL>(closed 1977)</SMALL></TD>
+    <TD><S><A title="Sault Ste. Marie, Michigan" href="/wiki/Sault_Ste._Marie,_Michigan">Sault 
+      Ste. Marie, Michigan</A>, <A title="United States" href="/wiki/United_States">United 
+      States</A></S></TD></TR>
+  <TR>
+    <TD>INS</TD>
+    <TD>KINS</TD>
+    <TD><A title="Creech Air Force Base" 
+      href="/wiki/Creech_Air_Force_Base">Creech Air Force Base</A></TD>
+    <TD><A title="Indian Springs, Nevada" 
+      href="/wiki/Indian_Springs,_Nevada">Indian Springs, Nevada</A>, <A title="United States" 
+      href="/wiki/United_States">United States</A></TD></TR>
+  <TR>
+    <TD>INT</TD>
+    <TD>KINT</TD>
+    <TD><A title="Smith Reynolds Airport" 
+      href="/wiki/Smith_Reynolds_Airport">Smith Reynolds Airport</A></TD>
+    <TD><A title="Winston-Salem, North Carolina" href="/wiki/Winston-Salem,_North_Carolina">Winston-Salem, 
+      North Carolina</A>, <A title="United States" 
+      href="/wiki/United_States">United States</A></TD></TR>
+  <TR>
+    <TD>INU</TD>
+    <TD>ANYN</TD>
+    <TD><A title="Nauru International Airport" href="/wiki/Nauru_International_Airport">Nauru 
+      International Airport</A></TD>
+    <TD><A title="Yaren District" href="/wiki/Yaren_District">Yaren</A>, <A 
+      title="Nauru" href="/wiki/Nauru">Nauru</A></TD></TR>
+  <TR>
+    <TD>INV</TD>
+    <TD>EGPE</TD>
+    <TD><A title="Inverness Airport" href="/wiki/Inverness_Airport">Inverness 
+      Airport</A></TD>
+    <TD><A title="Inverness" href="/wiki/Inverness">Inverness</A>, <A title="Scotland" 
+      href="/wiki/Scotland">Scotland</A>, <A title="United Kingdom" href="/wiki/United_Kingdom">United 
+      Kingdom</A></TD></TR>
+  <TR>
+    <TD>INW</TD>
+    <TD>KINW</TD>
+    <TD><A title="Winslow-Lindbergh Regional Airport" class="mw-redirect" 
+      href="/wiki/Winslow-Lindbergh_Regional_Airport">Winslow-Lindbergh Regional 
+      Airport</A></TD>
+    <TD><A title="Winslow, Arizona" href="/wiki/Winslow,_Arizona">Winslow, 
+      Arizona</A>, <A title="United States" href="/wiki/United_States">United 
+      States</A></TD></TR>
+  <TR>
+    <TD>INX</TD>
+    <TD>WASI</TD>
+    <TD><A title="Inanwatan Airport (page does not exist)" class="new" href="/w/index.php?title=Inanwatan_Airport&amp;action=edit&amp;redlink=1">Inanwatan 
+      Airport</A></TD>
+    <TD><A title="Inanwatan" href="/wiki/Inanwatan">Inanwatan</A>, <A title="Indonesia" 
+      href="/wiki/Indonesia">Indonesia</A></TD></TR>
+  <TR>
+    <TD>INY</TD>
+    <TD></TD>
+    <TD><A title="Inyati Airport (page does not exist)" class="new" href="/w/index.php?title=Inyati_Airport&amp;action=edit&amp;redlink=1">Inyati 
+      Airport</A></TD>
+    <TD><A title="Inyati" href="/wiki/Inyati">Inyati</A>, <A title="South Africa" 
+      href="/wiki/South_Africa">South Africa</A></TD></TR>
+  <TR>
+    <TD>INZ</TD>
+    <TD>DAUI</TD>
+    <TD><A title="In Salah Airport" href="/wiki/In_Salah_Airport">In Salah 
+      Airport</A></TD>
+    <TD><A title="In Salah" href="/wiki/In_Salah">In Salah</A>, <A title="Algeria" 
+      href="/wiki/Algeria">Algeria</A></TD></TR>
+  <TR class="sortbottom">
+    <TH style="background: rgb(221, 221, 221); text-align: left;" 
+      colspan="4"><CITE id="IO"></CITE>-IO-</TH></TR>
+  <TR>
+    <TD>IOA</TD>
+    <TD>LGIO</TD>
+    <TD><A title="Ioannina National Airport" href="/wiki/Ioannina_National_Airport">Ioannina 
+      National Airport</A></TD>
+    <TD><A title="Ioannina" href="/wiki/Ioannina">Ioannina</A>, <A title="Greece" 
+      href="/wiki/Greece">Greece</A></TD></TR>
+  <TR>
+    <TD>IOK</TD>
+    <TD></TD>
+    <TD><A title="Iokea Airport (page does not exist)" class="new" href="/w/index.php?title=Iokea_Airport&amp;action=edit&amp;redlink=1">Iokea 
+      Airport</A></TD>
+    <TD><A title="Iokea (page does not exist)" class="new" href="/w/index.php?title=Iokea&amp;action=edit&amp;redlink=1">Iokea</A>, 
+      <A title="Papua New Guinea" href="/wiki/Papua_New_Guinea">Papua New 
+      Guinea</A></TD></TR>
+  <TR>
+    <TD>IOM</TD>
+    <TD>EGNS</TD>
+    <TD><A title="Isle of Man Airport" href="/wiki/Isle_of_Man_Airport">Isle 
+      of Man Airport</A></TD>
+    <TD><A title="Ronaldsway" href="/wiki/Ronaldsway">Ronaldsway</A>, <A 
+      title="Isle of Man" href="/wiki/Isle_of_Man">Isle of Man</A>, <A title="United Kingdom" 
+      href="/wiki/United_Kingdom">United Kingdom</A></TD></TR>
+  <TR>
+    <TD>ION</TD>
+    <TD>FCOI</TD>
+    <TD><A title="Impfondo Airport" href="/wiki/Impfondo_Airport">Impfondo 
+      Airport</A></TD>
+    <TD><A title="Impfondo" href="/wiki/Impfondo">Impfondo</A>, <A title="Republic of the Congo" 
+      href="/wiki/Republic_of_the_Congo">Republic of the Congo</A></TD></TR>
+  <TR>
+    <TD>IOP</TD>
+    <TD></TD>
+    <TD><A title="Ioma Airport (page does not exist)" class="new" href="/w/index.php?title=Ioma_Airport&amp;action=edit&amp;redlink=1">Ioma 
+      Airport</A></TD>
+    <TD><A title="Ioma (page does not exist)" class="new" href="/w/index.php?title=Ioma&amp;action=edit&amp;redlink=1">Ioma</A>, 
+      <A title="Papua New Guinea" href="/wiki/Papua_New_Guinea">Papua New 
+      Guinea</A></TD></TR>
+  <TR>
+    <TD>IOQ</TD>
+    <TD>BGIS</TD>
+    <TD><A title="Isortoq Heliport" href="/wiki/Isortoq_Heliport">Isortoq 
+      Heliport</A></TD>
+    <TD><A title="Isortoq" href="/wiki/Isortoq">Isortoq</A>, <A title="Greenland" 
+      href="/wiki/Greenland">Greenland</A></TD></TR>
+  <TR>
+    <TD>IOR</TD>
+    <TD>EIIM</TD>
+    <TD><A title="Inishmore Aerodrome" 
+      href="/wiki/Inishmore_Aerodrome">Inishmore Aerodrome</A> (Kilronan 
+    Airport)</TD>
+    <TD><A title="Kilronan" href="/wiki/Kilronan">Kilronan</A>, <A title="Inishmore" 
+      href="/wiki/Inishmore">Inishmore</A>, <A title="Republic of Ireland" href="/wiki/Republic_of_Ireland">Ireland</A></TD></TR>
+  <TR>
+    <TD>IOS</TD>
+    <TD>SBIL</TD>
+    <TD><A title="Ilhéus Jorge Amado Airport" href="/wiki/Ilh%C3%A9us_Jorge_Amado_Airport">Ilhéus 
+      Jorge Amado Airport</A></TD>
+    <TD><A title="Ilhéus" href="/wiki/Ilh%C3%A9us">Ilhéus</A>, <A title="Bahia" 
+      href="/wiki/Bahia">Bahia</A>, <A title="Brazil" 
+      href="/wiki/Brazil">Brazil</A></TD></TR>
+  <TR>
+    <TD>IOW</TD>
+    <TD>KIOW</TD>
+    <TD><A title="Iowa City Municipal Airport" href="/wiki/Iowa_City_Municipal_Airport">Iowa 
+      City Municipal Airport</A></TD>
+    <TD><A title="Iowa City, Iowa" href="/wiki/Iowa_City,_Iowa">Iowa City, 
+      Iowa</A>, <A title="United States" href="/wiki/United_States">United 
+      States</A></TD></TR>
+  <TR class="sortbottom">
+    <TH style="background: rgb(221, 221, 221); text-align: left;" 
+      colspan="4"><CITE id="IP"></CITE>-IP-</TH></TR>
+  <TR>
+    <TD>IPA</TD>
+    <TD>NVVI</TD>
+    <TD><A title="Ipota Airport" href="/wiki/Ipota_Airport">Ipota 
+    Airport</A></TD>
+    <TD><A title="Ipota" href="/wiki/Ipota">Ipota</A>, <A title="Erromango" 
+      href="/wiki/Erromango">Erromango</A>, <A title="Vanuatu" href="/wiki/Vanuatu">Vanuatu</A></TD></TR>
+  <TR>
+    <TD>IPC</TD>
+    <TD>SCIP</TD>
+    <TD><A title="Mataveri International Airport" href="/wiki/Mataveri_International_Airport">Mataveri 
+      International Airport</A></TD>
+    <TD><A title="Easter Island" href="/wiki/Easter_Island">Easter Island</A>, 
+      <A title="Chile" href="/wiki/Chile">Chile</A></TD></TR>
+  <TR>
+    <TD>IPE</TD>
+    <TD>RPMV</TD>
+    <TD><A title="Ipil Airport" href="/wiki/Ipil_Airport">Ipil Airport</A></TD>
+    <TD><A title="Ipil, Zamboanga Sibugay" href="/wiki/Ipil,_Zamboanga_Sibugay">Ipil</A>, 
+      <A title="Zamboanga Sibugay" href="/wiki/Zamboanga_Sibugay">Zamboanga 
+      Sibugay</A>, <A title="Philippines" 
+      href="/wiki/Philippines">Philippines</A></TD></TR>
+  <TR>
+    <TD>IPG</TD>
+    <TD>SWII</TD>
+    <TD><A title="Ipiranga Airport" href="/wiki/Ipiranga_Airport">Ipiranga 
+      Airport</A></TD>
+    <TD><A title="Santo Antônio do Içá" href="/wiki/Santo_Ant%C3%B4nio_do_I%C3%A7%C3%A1">Santo 
+      Antônio do Içá</A>, <A title="Amazonas (Brazilian state)" href="/wiki/Amazonas_(Brazilian_state)">Amazonas</A>, 
+      <A title="Brazil" href="/wiki/Brazil">Brazil</A></TD></TR>
+  <TR>
+    <TD>IPH</TD>
+    <TD>WMKI</TD>
+    <TD><A title="Sultan Azlan Shah Airport" href="/wiki/Sultan_Azlan_Shah_Airport">Sultan 
+      Azlan Shah Airport</A></TD>
+    <TD><A title="Ipoh, Perak" class="mw-redirect" 
+      href="/wiki/Ipoh,_Perak">Ipoh, Perak</A>, <A title="Malaysia" href="/wiki/Malaysia">Malaysia</A></TD></TR>
+  <TR>
+    <TD>IPI</TD>
+    <TD>SKIP</TD>
+    <TD><A title="San Luis Airport (Colombia)" href="/wiki/San_Luis_Airport_(Colombia)">San 
+      Luis Airport</A></TD>
+    <TD><A title="Ipiales" href="/wiki/Ipiales">Ipiales</A>, <A title="Colombia" 
+      href="/wiki/Colombia">Colombia</A></TD></TR>
+  <TR>
+    <TD>IPL</TD>
+    <TD>KIPL</TD>
+    <TD><A title="Imperial County Airport" href="/wiki/Imperial_County_Airport">Imperial 
+      County Airport</A></TD>
+    <TD><A title="Imperial, California" 
+      href="/wiki/Imperial,_California">Imperial, California</A>, <A title="United States" 
+      href="/wiki/United_States">United States</A></TD></TR>
+  <TR>
+    <TD>IPN</TD>
+    <TD>SBIP</TD>
+    <TD><A title="Usiminas Airport" href="/wiki/Usiminas_Airport">Usiminas 
+      Airport</A></TD>
+    <TD><A title="Ipatinga" href="/wiki/Ipatinga">Ipatinga</A> / <A title="Santana do Paraiso" 
+      class="mw-redirect" href="/wiki/Santana_do_Paraiso">Santana do 
+      Paraiso</A>, <A title="Minas Gerais" href="/wiki/Minas_Gerais">Minas 
+      Gerais</A>, <A title="Brazil" href="/wiki/Brazil">Brazil</A></TD></TR>
+  <TR>
+    <TD>IPT</TD>
+    <TD>KIPT</TD>
+    <TD><A title="Williamsport Regional Airport" href="/wiki/Williamsport_Regional_Airport">Williamsport 
+      Regional Airport</A></TD>
+    <TD><A title="Williamsport, Pennsylvania" href="/wiki/Williamsport,_Pennsylvania">Williamsport, 
+      Pennsylvania</A>, <A title="United States" 
+      href="/wiki/United_States">United States</A></TD></TR>
+  <TR>
+    <TD>IPU</TD>
+    <TD>SNIU</TD>
+    <TD><A title="Ipiaú Airport (page does not exist)" class="new" href="/w/index.php?title=Ipia%C3%BA_Airport&amp;action=edit&amp;redlink=1">Ipiaú 
+      Airport</A></TD>
+    <TD><A title="Ipiaú" href="/wiki/Ipia%C3%BA">Ipiaú</A>, <A title="Bahia" 
+      href="/wiki/Bahia">Bahia</A>, <A title="Brazil" 
+      href="/wiki/Brazil">Brazil</A></TD></TR>
+  <TR>
+    <TD><S>IPW</S></TD>
+    <TD><S>EGSE</S></TD>
+    <TD><S><A title="Ipswich Airport" href="/wiki/Ipswich_Airport">Ipswich 
+      Airport</A></S> <SMALL>(closed 1996)</SMALL></TD>
+    <TD><S><A title="Ipswich" href="/wiki/Ipswich">Ipswich</A>, <A title="England" 
+      href="/wiki/England">England</A></S></TD></TR>
+  <TR class="sortbottom">
+    <TH style="background: rgb(221, 221, 221); text-align: left;" 
+      colspan="4"><CITE id="IQ"></CITE>-IQ-</TH></TR>
+  <TR>
+    <TD>IQM</TD>
+    <TD>ZWCM</TD>
+    <TD><A title="Qiemo Airport" href="/wiki/Qiemo_Airport">Qiemo 
+    Airport</A></TD>
+    <TD><A title="Qiemo" class="mw-redirect" href="/wiki/Qiemo">Qiemo</A>, <A 
+      title="Xinjiang" href="/wiki/Xinjiang">Xinjiang</A>, <A title="China" 
+      href="/wiki/China">China</A></TD></TR>
+  <TR>
+    <TD>IQN</TD>
+    <TD>ZLQY</TD>
+    <TD><A title="Qingyang Airport" href="/wiki/Qingyang_Airport">Qingyang 
+      Airport</A></TD>
+    <TD><A title="Qingyang" href="/wiki/Qingyang">Qingyang</A>, <A title="Gansu" 
+      href="/wiki/Gansu">Gansu</A>, <A title="China" 
+    href="/wiki/China">China</A></TD></TR>
+  <TR>
+    <TD>IQQ</TD>
+    <TD>SCDA</TD>
+    <TD><A title="Diego Aracena International Airport" href="/wiki/Diego_Aracena_International_Airport">Diego 
+      Aracena International Airport</A></TD>
+    <TD><A title="Iquique" href="/wiki/Iquique">Iquique</A>, <A title="Chile" 
+      href="/wiki/Chile">Chile</A></TD></TR>
+  <TR>
+    <TD>IQT</TD>
+    <TD>SPQT</TD>
+    <TD><A title="Crnl. FAP Francisco Secada Vignetta International Airport" 
+      class="mw-redirect" href="/wiki/Crnl._FAP_Francisco_Secada_Vignetta_International_Airport">Crnl. 
+      FAP Francisco Secada Vignetta International Airport</A></TD>
+    <TD><A title="Iquitos" href="/wiki/Iquitos">Iquitos</A>, <A title="Loreto Region" 
+      href="/wiki/Loreto_Region">Loreto</A>, <A title="Peru" 
+      href="/wiki/Peru">Peru</A></TD></TR>
+  <TR class="sortbottom">
+    <TH style="background: rgb(221, 221, 221); text-align: left;" 
+      colspan="4"><CITE id="IR"></CITE>-IR-</TH></TR>
+  <TR>
+    <TD>IRA</TD>
+    <TD>AGGK</TD>
+    <TD><A title="Ngorangora Airport" class="mw-redirect" href="/wiki/Ngorangora_Airport">Ngorangora 
+      Airport</A> (Kirakira Airport)</TD>
+    <TD><A title="Kirakira" href="/wiki/Kirakira">Kirakira</A>, <A title="Makira Island" 
+      class="mw-redirect" href="/wiki/Makira_Island">Makira Island</A>, <A 
+      title="Solomon Islands" href="/wiki/Solomon_Islands">Solomon 
+  Islands</A></TD></TR>
+  <TR>
+    <TD>IRB</TD>
+    <TD></TD>
+    <TD><A title="Iraan Municipal Airport (page does not exist)" class="new" 
+      href="/w/index.php?title=Iraan_Municipal_Airport&amp;action=edit&amp;redlink=1">Iraan 
+      Municipal Airport</A> (FAA: 2F0)</TD>
+    <TD><A title="Iraan, Texas" href="/wiki/Iraan,_Texas">Iraan, Texas</A>, <A 
+      title="United States" href="/wiki/United_States">United States</A></TD></TR>
+  <TR>
+    <TD>IRC</TD>
+    <TD>PACR</TD>
+    <TD><A title="Circle City (New) Airport" class="mw-redirect" href="/wiki/Circle_City_(New)_Airport">Circle 
+      City (New) Airport</A> (FAA: CRC)</TD>
+    <TD><A title="Circle, Alaska" href="/wiki/Circle,_Alaska">Circle, 
+      Alaska</A>, <A title="United States" href="/wiki/United_States">United 
+      States</A></TD></TR>
+  <TR>
+    <TD>IRD</TD>
+    <TD>VGIS</TD>
+    <TD><A title="Ishhurdi Airport (page does not exist)" class="new" href="/w/index.php?title=Ishhurdi_Airport&amp;action=edit&amp;redlink=1">Ishhurdi 
+      Airport</A></TD>
+    <TD><A title="Ishhurdi (page does not exist)" class="new" href="/w/index.php?title=Ishhurdi&amp;action=edit&amp;redlink=1">Ishhurdi</A>, 
+      <A title="Bangladesh" href="/wiki/Bangladesh">Bangladesh</A></TD></TR>
+  <TR>
+    <TD>IRE</TD>
+    <TD>SNIC</TD>
+    <TD><A title="Irecê Airport (page does not exist)" class="new" href="/w/index.php?title=Irec%C3%AA_Airport&amp;action=edit&amp;redlink=1">Irecê 
+      Airport</A></TD>
+    <TD><A title="Irecê" href="/wiki/Irec%C3%AA">Irecê</A>, <A title="Bahia" 
+      href="/wiki/Bahia">Bahia</A>, <A title="Brazil" 
+      href="/wiki/Brazil">Brazil</A></TD></TR>
+  <TR>
+    <TD>IRG</TD>
+    <TD>YLHR</TD>
+    <TD><A title="Lockhart River Airport" 
+      href="/wiki/Lockhart_River_Airport">Lockhart River Airport</A></TD>
+    <TD><A title="Lockhart River, Queensland" href="/wiki/Lockhart_River,_Queensland">Lockhart 
+      River, Queensland</A>, <A title="Australia" 
+      href="/wiki/Australia">Australia</A></TD></TR>
+  <TR>
+    <TD>IRI</TD>
+    <TD>HTIR</TD>
+    <TD><A title="Iringa Airport" href="/wiki/Iringa_Airport">Iringa 
+      Airport</A> (Nduli Airport)</TD>
+    <TD><A title="Iringa" href="/wiki/Iringa">Iringa</A>, <A title="Tanzania" 
+      href="/wiki/Tanzania">Tanzania</A></TD></TR>
+  <TR>
+    <TD>IRJ</TD>
+    <TD>SANL</TD>
+    <TD><A title="Capitán Vicente Almandos Almonacid Airport" href="/wiki/Capit%C3%A1n_Vicente_Almandos_Almonacid_Airport">Capitán 
+      Vicente Almandos Almonacid Airport</A></TD>
+    <TD><A title="La Rioja, Argentina" href="/wiki/La_Rioja,_Argentina">La 
+      Rioja</A>, <A title="Argentina" href="/wiki/Argentina">Argentina</A></TD></TR>
+  <TR>
+    <TD>IRK</TD>
+    <TD>KIRK</TD>
+    <TD><A title="Kirksville Regional Airport" href="/wiki/Kirksville_Regional_Airport">Kirksville 
+      Regional Airport</A></TD>
+    <TD><A title="Kirksville, Missouri" 
+      href="/wiki/Kirksville,_Missouri">Kirksville, Missouri</A>, <A title="United States" 
+      href="/wiki/United_States">United States</A></TD></TR>
+  <TR>
+    <TD>IRN</TD>
+    <TD></TD>
+    <TD><A title="Iriona Airport (page does not exist)" class="new" href="/w/index.php?title=Iriona_Airport&amp;action=edit&amp;redlink=1">Iriona 
+      Airport</A></TD>
+    <TD><A title="Iriona" href="/wiki/Iriona">Iriona</A>, <A title="Honduras" 
+      href="/wiki/Honduras">Honduras</A></TD></TR>
+  <TR>
+    <TD>IRO</TD>
+    <TD>FEFI</TD>
+    <TD><A title="Birao Airport" href="/wiki/Birao_Airport">Birao 
+    Airport</A></TD>
+    <TD><A title="Birao" href="/wiki/Birao">Birao</A>, <A title="Central African Republic" 
+      href="/wiki/Central_African_Republic">Central African Republic</A></TD></TR>
+  <TR>
+    <TD>IRP</TD>
+    <TD>FZJH</TD>
+    <TD><A title="Matari Airport" href="/wiki/Matari_Airport">Matari 
+      Airport</A></TD>
+    <TD><A title="Isiro" href="/wiki/Isiro">Isiro</A>, <A title="Democratic Republic of the Congo" 
+      href="/wiki/Democratic_Republic_of_the_Congo">Democratic Republic of the 
+      Congo</A></TD></TR>
+  <TR>
+    <TD>IRS</TD>
+    <TD>KIRS</TD>
+    <TD><A title="Kirsch Municipal Airport (page does not exist)" class="new" 
+      href="/w/index.php?title=Kirsch_Municipal_Airport&amp;action=edit&amp;redlink=1">Kirsch 
+      Municipal Airport</A></TD>
+    <TD><A title="Sturgis, Michigan" href="/wiki/Sturgis,_Michigan">Sturgis, 
+      Michigan</A>, <A title="United States" href="/wiki/United_States">United 
+      States</A></TD></TR>
+  <TR>
+    <TD>IRU</TD>
+    <TD></TD>
+    <TD><A title="Iranamadu Waterdrome (page does not exist)" class="new" 
+      href="/w/index.php?title=Iranamadu_Waterdrome&amp;action=edit&amp;redlink=1">Iranamadu 
+      Waterdrome</A></TD>
+    <TD><A title="Kilinochchi" href="/wiki/Kilinochchi">Kilinochchi</A>, <A 
+      title="Sri Lanka" href="/wiki/Sri_Lanka">Sri Lanka</A></TD></TR>
+  <TR class="sortbottom">
+    <TH style="background: rgb(221, 221, 221); text-align: left;" 
+      colspan="4"><CITE id="IS"></CITE>-IS-</TH></TR>
+  <TR>
+    <TD>ISA</TD>
+    <TD>YBMA</TD>
+    <TD><A title="Mount Isa Airport" href="/wiki/Mount_Isa_Airport">Mount Isa 
+      Airport</A></TD>
+    <TD><A title="Mount Isa, Queensland" class="mw-redirect" href="/wiki/Mount_Isa,_Queensland">Mount 
+      Isa, Queensland</A>, <A title="Australia" 
+      href="/wiki/Australia">Australia</A></TD></TR>
+  <TR>
+    <TD>ISB</TD>
+    <TD>OPRN</TD>
+    <TD><A title="Benazir Bhutto International Airport" href="/wiki/Benazir_Bhutto_International_Airport">Benazir 
+      Bhutto International Airport</A> (Islamabad International)</TD>
+    <TD><A title="Islamabad" href="/wiki/Islamabad">Islamabad</A> / <A title="Rawalpindi" 
+      href="/wiki/Rawalpindi">Rawalpindi</A>, <A title="Pakistan" href="/wiki/Pakistan">Pakistan</A></TD></TR>
+  <TR>
+    <TD>ISC</TD>
+    <TD>EGHE</TD>
+    <TD><A title="St Mary's Airport (Isles of Scilly)" href="/wiki/St_Mary%27s_Airport_(Isles_of_Scilly)">St 
+      Mary's Airport</A></TD>
+    <TD><A title="St Mary's, Isles of Scilly" href="/wiki/St_Mary%27s,_Isles_of_Scilly">St 
+      Mary's, Isles of Scilly</A>, <A title="United Kingdom" href="/wiki/United_Kingdom">United 
+      Kingdom</A></TD></TR>
+  <TR>
+    <TD>ISD</TD>
+    <TD></TD>
+    <TD><A title="Iscuande Airport (page does not exist)" class="new" href="/w/index.php?title=Iscuande_Airport&amp;action=edit&amp;redlink=1">Iscuande 
+      Airport</A></TD>
+    <TD><A title="Iscuande (page does not exist)" class="new" href="/w/index.php?title=Iscuande&amp;action=edit&amp;redlink=1">Iscuande</A>, 
+      <A title="Colombia" href="/wiki/Colombia">Colombia</A></TD></TR>
+  <TR>
+    <TD>ISE</TD>
+    <TD>LTFC</TD>
+    <TD><A title="Isparta Süleyman Demirel Airport" href="/wiki/Isparta_S%C3%BCleyman_Demirel_Airport">Suleyman 
+      Demirel Airport</A></TD>
+    <TD><A title="Isparta" href="/wiki/Isparta">Isparta</A>, <A title="Turkey" 
+      href="/wiki/Turkey">Turkey</A></TD></TR>
+  <TR>
+    <TD>ISG</TD>
+    <TD>ROIG</TD>
+    <TD><A title="Ishigaki Airport" href="/wiki/Ishigaki_Airport">Ishigaki 
+      Airport</A></TD>
+    <TD><A title="Ishigaki, Okinawa" 
+      href="/wiki/Ishigaki,_Okinawa">Ishigaki</A>, <A title="Okinawa Prefecture" 
+      href="/wiki/Okinawa_Prefecture">Okinawa Prefecture</A>, <A title="Japan" 
+      href="/wiki/Japan">Japan</A></TD></TR>
+  <TR>
+    <TD>ISH</TD>
+    <TD></TD>
+    <TD><A title="Ischia Airport (page does not exist)" class="new" href="/w/index.php?title=Ischia_Airport&amp;action=edit&amp;redlink=1">Ischia 
+      Airport</A></TD>
+    <TD><A title="Ischia" href="/wiki/Ischia">Ischia</A>, <A title="Italy" 
+      href="/wiki/Italy">Italy</A></TD></TR>
+  <TR>
+    <TD>ISI</TD>
+    <TD>YISF</TD>
+    <TD><A title="Isisford Airport (page does not exist)" class="new" href="/w/index.php?title=Isisford_Airport&amp;action=edit&amp;redlink=1">Isisford 
+      Airport</A></TD>
+    <TD><A title="Isisford, Queensland" 
+      href="/wiki/Isisford,_Queensland">Isisford, Queensland</A>, <A title="Australia" 
+      href="/wiki/Australia">Australia</A></TD></TR>
+  <TR>
+    <TD>ISJ</TD>
+    <TD>MMIM</TD>
+    <TD><A title="Isla Mujeres Airport (page does not exist)" class="new" 
+      href="/w/index.php?title=Isla_Mujeres_Airport&amp;action=edit&amp;redlink=1">Isla 
+      Mujeres Airport</A></TD>
+    <TD><A title="Isla Mujeres" href="/wiki/Isla_Mujeres">Isla Mujeres</A>, <A 
+      title="Quintana Roo" href="/wiki/Quintana_Roo">Quintana Roo</A>, <A title="Mexico" 
+      href="/wiki/Mexico">Mexico</A></TD></TR>
+  <TR>
+    <TD>ISK</TD>
+    <TD>VAOZ</TD>
+    <TD><A title="Ozar Airport" href="/wiki/Ozar_Airport">Ozar Airport</A></TD>
+    <TD><A title="Nashik" href="/wiki/Nashik">Nashik</A>, <A title="India" 
+      href="/wiki/India">India</A></TD></TR>
+  <TR>
+    <TD>ISM</TD>
+    <TD>KISM</TD>
+    <TD><A title="Kissimmee Gateway Airport" href="/wiki/Kissimmee_Gateway_Airport">Kissimmee 
+      Gateway Airport</A></TD>
+    <TD><A title="Orlando, Florida" href="/wiki/Orlando,_Florida">Orlando, 
+      Florida</A>, <A title="United States" href="/wiki/United_States">United 
+      States</A></TD></TR>
+  <TR>
+    <TD>ISN</TD>
+    <TD>KISN</TD>
+    <TD><A title="Sloulin Field International Airport" href="/wiki/Sloulin_Field_International_Airport">Sloulin 
+      Field International Airport</A></TD>
+    <TD><A title="Williston, North Dakota" href="/wiki/Williston,_North_Dakota">Williston, 
+      North Dakota</A>, <A title="United States" 
+      href="/wiki/United_States">United States</A></TD></TR>
+  <TR>
+    <TD>ISO</TD>
+    <TD>KISO</TD>
+    <TD><A title="Kinston Regional Jetport" href="/wiki/Kinston_Regional_Jetport">Kinston 
+      Regional Jetport</A> at Stallings Field</TD>
+    <TD><A title="Kinston, North Carolina" href="/wiki/Kinston,_North_Carolina">Kinston, 
+      North Carolina</A>, <A title="United States" 
+      href="/wiki/United_States">United States</A></TD></TR>
+  <TR>
+    <TD>ISP</TD>
+    <TD>KISP</TD>
+    <TD><A title="Long Island MacArthur Airport" href="/wiki/Long_Island_MacArthur_Airport">Long 
+      Island MacArthur Airport</A></TD>
+    <TD><A title="Islip (town), New York" class="mw-redirect" href="/wiki/Islip_(town),_New_York">Islip, 
+      New York</A>, <A title="United States" href="/wiki/United_States">United 
+      States</A></TD></TR>
+  <TR>
+    <TD>ISQ</TD>
+    <TD>KISQ</TD>
+    <TD><A title="Schoolcraft County Airport (page does not exist)" class="new" 
+      href="/w/index.php?title=Schoolcraft_County_Airport&amp;action=edit&amp;redlink=1">Schoolcraft 
+      County Airport</A></TD>
+    <TD><A title="Manistique, Michigan" 
+      href="/wiki/Manistique,_Michigan">Manistique, Michigan</A>, <A title="United States" 
+      href="/wiki/United_States">United States</A></TD></TR>
+  <TR>
+    <TD>ISS</TD>
+    <TD>KIWI</TD>
+    <TD><A title="Wiscasset Airport" href="/wiki/Wiscasset_Airport">Wiscasset 
+      Airport</A> (FAA: IWI)</TD>
+    <TD><A title="Wiscasset, Maine" href="/wiki/Wiscasset,_Maine">Wiscasset, 
+      Maine</A>, <A title="United States" href="/wiki/United_States">United 
+      States</A></TD></TR>
+  <TR>
+    <TD>IST</TD>
+    <TD>LTBA</TD>
+    <TD><A title="Istanbul Atatürk Airport" href="/wiki/Istanbul_Atat%C3%BCrk_Airport">Istanbul 
+      Atatürk Airport</A> (Yesilköy International)</TD>
+    <TD><A title="Istanbul" href="/wiki/Istanbul">Istanbul</A>, <A title="Turkey" 
+      href="/wiki/Turkey">Turkey</A></TD></TR>
+  <TR>
+    <TD>ISU</TD>
+    <TD>ORSU</TD>
+    <TD><A title="Sulaimaniyah International Airport" href="/wiki/Sulaimaniyah_International_Airport">Sulaimaniyah 
+      International Airport</A></TD>
+    <TD><A title="Sulaimaniyah" class="mw-redirect" 
+      href="/wiki/Sulaimaniyah">Sulaimaniyah</A>, <A title="Kurdistan" href="/wiki/Kurdistan">Kurdistan</A>, 
+      <A title="Iraq" href="/wiki/Iraq">Iraq</A></TD></TR>
+  <TR>
+    <TD>ISW</TD>
+    <TD>KISW</TD>
+    <TD><A title="South Wood County Airport" href="/wiki/South_Wood_County_Airport">South 
+      Wood County Airport</A> (Alexander Field)</TD>
+    <TD><A title="Wisconsin Rapids, Wisconsin" href="/wiki/Wisconsin_Rapids,_Wisconsin">Wisconsin 
+      Rapids, Wisconsin</A>, <A title="United States" 
+      href="/wiki/United_States">United States</A></TD></TR>
+  <TR class="sortbottom">
+    <TH style="background: rgb(221, 221, 221); text-align: left;" 
+      colspan="4"><CITE id="IT"></CITE>-IT-</TH></TR>
+  <TR>
+    <TD>ITA</TD>
+    <TD>SBIC</TD>
+    <TD><A title="Itacoiatiara Airport (page does not exist)" class="new" 
+      href="/w/index.php?title=Itacoiatiara_Airport&amp;action=edit&amp;redlink=1">Itacoiatiara 
+      Airport</A></TD>
+    <TD><A title="Itacoiatiara (page does not exist)" class="new" href="/w/index.php?title=Itacoiatiara&amp;action=edit&amp;redlink=1">Itacoiatiara</A>, 
+      <A title="Amazonas (Brazilian state)" href="/wiki/Amazonas_(Brazilian_state)">Amazonas</A>, 
+      <A title="Brazil" href="/wiki/Brazil">Brazil</A></TD></TR>
+  <TR>
+    <TD>ITB</TD>
+    <TD>SBIH</TD>
+    <TD><A title="Itaituba Airport" href="/wiki/Itaituba_Airport">Itaituba 
+      Airport</A></TD>
+    <TD><A title="Itaituba" href="/wiki/Itaituba">Itaituba</A>, <A title="Pará" 
+      href="/wiki/Par%C3%A1">Pará</A>, <A title="Brazil" 
+      href="/wiki/Brazil">Brazil</A></TD></TR>
+  <TR>
+    <TD>ITE</TD>
+    <TD>SNZW</TD>
+    <TD><A title="Ituberá Airport (page does not exist)" class="new" href="/w/index.php?title=Ituber%C3%A1_Airport&amp;action=edit&amp;redlink=1">Ituberá 
+      Airport</A></TD>
+    <TD><A title="Ituberá" href="/wiki/Ituber%C3%A1">Ituberá</A>, <A title="Bahia" 
+      href="/wiki/Bahia">Bahia</A>, <A title="Brazil" 
+      href="/wiki/Brazil">Brazil</A></TD></TR>
+  <TR>
+    <TD>ITH</TD>
+    <TD>KITH</TD>
+    <TD><A title="Ithaca Tompkins Regional Airport" href="/wiki/Ithaca_Tompkins_Regional_Airport">Ithaca 
+      Tompkins Regional Airport</A></TD>
+    <TD><A title="Ithaca, New York" href="/wiki/Ithaca,_New_York">Ithaca, New 
+      York</A>, <A title="United States" href="/wiki/United_States">United 
+      States</A></TD></TR>
+  <TR>
+    <TD>ITI</TD>
+    <TD>SNYH</TD>
+    <TD><A title="Itambacuri Airport (page does not exist)" class="new" href="/w/index.php?title=Itambacuri_Airport&amp;action=edit&amp;redlink=1">Itambacuri 
+      Airport</A></TD>
+    <TD><A title="Itambacuri" href="/wiki/Itambacuri">Itambacuri</A>, <A 
+      title="Minas Gerais" href="/wiki/Minas_Gerais">Minas Gerais</A>, <A title="Brazil" 
+      href="/wiki/Brazil">Brazil</A></TD></TR>
+  <TR>
+    <TD>ITJ</TD>
+    <TD></TD>
+    <TD><A title="Itajaí Airport (page does not exist)" class="new" href="/w/index.php?title=Itaja%C3%AD_Airport&amp;action=edit&amp;redlink=1">Itajaí 
+      Airport</A></TD>
+    <TD><A title="Itajaí" href="/wiki/Itaja%C3%AD">Itajaí</A>, <A title="Santa Catarina (state)" 
+      href="/wiki/Santa_Catarina_(state)">Santa Catarina</A>, <A title="Brazil" 
+      href="/wiki/Brazil">Brazil</A></TD></TR>
+  <TR>
+    <TD>ITK</TD>
+    <TD></TD>
+    <TD><A title="Itokama Airport (page does not exist)" class="new" href="/w/index.php?title=Itokama_Airport&amp;action=edit&amp;redlink=1">Itokama 
+      Airport</A></TD>
+    <TD><A title="Itokama (page does not exist)" class="new" href="/w/index.php?title=Itokama&amp;action=edit&amp;redlink=1">Itokama</A>, 
+      <A title="Papua New Guinea" href="/wiki/Papua_New_Guinea">Papua New 
+      Guinea</A></TD></TR>
+  <TR>
+    <TD>ITM</TD>
+    <TD>RJOO</TD>
+    <TD><A title="Osaka International Airport" href="/wiki/Osaka_International_Airport">Osaka 
+      International Airport</A> (Itami Airport)</TD>
+    <TD><A title="Itami" class="mw-redirect" href="/wiki/Itami">Itami</A> 
+      (near <A title="Osaka" href="/wiki/Osaka">Osaka</A>), <A title="Japan" 
+      href="/wiki/Japan">Japan</A></TD></TR>
+  <TR>
+    <TD>ITN</TD>
+    <TD>SNHA</TD>
+    <TD><A title="Itabuna Airport (page does not exist)" class="new" href="/w/index.php?title=Itabuna_Airport&amp;action=edit&amp;redlink=1">Itabuna 
+      Airport</A></TD>
+    <TD><A title="Itabuna" href="/wiki/Itabuna">Itabuna</A>, <A title="Bahia" 
+      href="/wiki/Bahia">Bahia</A>, <A title="Brazil" 
+      href="/wiki/Brazil">Brazil</A></TD></TR>
+  <TR>
+    <TD>ITO</TD>
+    <TD>PHTO</TD>
+    <TD><A title="Hilo International Airport" href="/wiki/Hilo_International_Airport">Hilo 
+      International Airport</A></TD>
+    <TD><A title="Hilo, Hawaii" href="/wiki/Hilo,_Hawaii">Hilo, Hawaii</A>, <A 
+      title="United States" href="/wiki/United_States">United States</A></TD></TR>
+  <TR>
+    <TD>ITP</TD>
+    <TD>SDUN</TD>
+    <TD><A title="Itaperuna Airport (page does not exist)" class="new" href="/w/index.php?title=Itaperuna_Airport&amp;action=edit&amp;redlink=1">Itaperuna 
+      Airport</A></TD>
+    <TD><A title="Itaperuna" href="/wiki/Itaperuna">Itaperuna</A>, <A title="Rio de Janeiro (state)" 
+      href="/wiki/Rio_de_Janeiro_(state)">Rio de Janeiro</A>, <A title="Brazil" 
+      href="/wiki/Brazil">Brazil</A></TD></TR>
+  <TR>
+    <TD>ITQ</TD>
+    <TD>SSIQ</TD>
+    <TD><A title="Itaqui Airport (page does not exist)" class="new" href="/w/index.php?title=Itaqui_Airport&amp;action=edit&amp;redlink=1">Itaqui 
+      Airport</A></TD>
+    <TD><A title="Itaqui" href="/wiki/Itaqui">Itaqui</A>, <A title="Rio Grande do Sul" 
+      href="/wiki/Rio_Grande_do_Sul">Rio Grande do Sul</A>, <A title="Brazil" 
+      href="/wiki/Brazil">Brazil</A></TD></TR>
+  <TR>
+    <TD>ITR</TD>
+    <TD>SBIT</TD>
+    <TD><A title="Itumbiara Airport" href="/wiki/Itumbiara_Airport">Itumbiara 
+      Airport</A></TD>
+    <TD><A title="Itumbiara" href="/wiki/Itumbiara">Itumbiara</A>, <A title="Goiás" 
+      href="/wiki/Goi%C3%A1s">Goiás</A>, <A title="Brazil" 
+      href="/wiki/Brazil">Brazil</A></TD></TR>
+  <TR class="sortbottom">
+    <TH style="background: rgb(221, 221, 221); text-align: left;" 
+      colspan="4"><CITE id="IU"></CITE>-IU-</TH></TR>
+  <TR>
+    <TD>IUD</TD>
+    <TD>OTBH</TD>
+    <TD><A title="Al Udeid Air Base" href="/wiki/Al_Udeid_Air_Base">Al Udeid 
+      Air Base</A></TD>
+    <TD><A title="Doha" href="/wiki/Doha">Doha</A>, <A title="Qatar" href="/wiki/Qatar">Qatar</A></TD></TR>
+  <TR>
+    <TD>IUE</TD>
+    <TD>NIUE</TD>
+    <TD><A title="Hanan International Airport" class="mw-redirect" href="/wiki/Hanan_International_Airport">Hanan 
+      International Airport</A></TD>
+    <TD><A title="Alofi" class="mw-redirect" href="/wiki/Alofi">Alofi</A>, <A 
+      title="Niue" href="/wiki/Niue">Niue</A></TD></TR>
+  <TR>
+    <TD>IUI</TD>
+    <TD>BGIN</TD>
+    <TD><A title="Innaarsuit Heliport" 
+      href="/wiki/Innaarsuit_Heliport">Innaarsuit Heliport</A></TD>
+    <TD><A title="Innaarsuit" href="/wiki/Innaarsuit">Innaarsuit</A>, <A 
+      title="Greenland" href="/wiki/Greenland">Greenland</A></TD></TR>
+  <TR>
+    <TD>IUL</TD>
+    <TD></TD>
+    <TD><A title="Ilu Airport (page does not exist)" class="new" href="/w/index.php?title=Ilu_Airport&amp;action=edit&amp;redlink=1">Ilu 
+      Airport</A></TD>
+    <TD><A title="Ilu, Indonesia (page does not exist)" class="new" href="/w/index.php?title=Ilu,_Indonesia&amp;action=edit&amp;redlink=1">Ilu</A>, 
+      <A title="Indonesia" href="/wiki/Indonesia">Indonesia</A></TD></TR>
+  <TR>
+    <TD>IUM</TD>
+    <TD></TD>
+    <TD><A title="Summit Lake Airport (page does not exist)" class="new" href="/w/index.php?title=Summit_Lake_Airport&amp;action=edit&amp;redlink=1">Summit 
+      Lake Airport</A></TD>
+    <TD><A title="Summit Lake, British Columbia" href="/wiki/Summit_Lake,_British_Columbia">Summit 
+      Lake, British Columbia</A>, <A title="Canada" 
+      href="/wiki/Canada">Canada</A></TD></TR>
+  <TR>
+    <TD>IUS</TD>
+    <TD></TD>
+    <TD><A title="Inus Airport (page does not exist)" class="new" href="/w/index.php?title=Inus_Airport&amp;action=edit&amp;redlink=1">Inus 
+      Airport</A></TD>
+    <TD><A title="Inus (page does not exist)" class="new" href="/w/index.php?title=Inus&amp;action=edit&amp;redlink=1">Inus</A>, 
+      <A title="Papua New Guinea" href="/wiki/Papua_New_Guinea">Papua New 
+      Guinea</A></TD></TR>
+  <TR class="sortbottom">
+    <TH style="background: rgb(221, 221, 221); text-align: left;" 
+      colspan="4"><CITE id="IV"></CITE>-IV-</TH></TR>
+  <TR>
+    <TD>IVA</TD>
+    <TD>FMNJ</TD>
+    <TD><A title="Ambanja Airport" href="/wiki/Ambanja_Airport">Ambanja 
+      Airport</A></TD>
+    <TD><A title="Ambanja" href="/wiki/Ambanja">Ambanja</A>, <A title="Madagascar" 
+      href="/wiki/Madagascar">Madagascar</A></TD></TR>
+  <TR>
+    <TD>IVC</TD>
+    <TD>NZNV</TD>
+    <TD><A title="Invercargill Airport" 
+      href="/wiki/Invercargill_Airport">Invercargill Airport</A></TD>
+    <TD><A title="Invercargill" href="/wiki/Invercargill">Invercargill</A>, <A 
+      title="New Zealand" href="/wiki/New_Zealand">New Zealand</A></TD></TR>
+  <TR>
+    <TD>IVG</TD>
+    <TD>LYBR</TD>
+    <TD><A title="Berane Airport" class="mw-redirect" href="/wiki/Berane_Airport">Berane 
+      Airport</A> (Dolac Airport, Ivangrad)</TD>
+    <TD><A title="Berane" href="/wiki/Berane">Berane</A>, <A title="Montenegro" 
+      href="/wiki/Montenegro">Montenegro</A></TD></TR>
+  <TR>
+    <TD>IVL</TD>
+    <TD>EFIV</TD>
+    <TD><A title="Ivalo Airport" href="/wiki/Ivalo_Airport">Ivalo 
+    Airport</A></TD>
+    <TD><A title="Ivalo" href="/wiki/Ivalo">Ivalo</A>, <A title="Finland" 
+      href="/wiki/Finland">Finland</A></TD></TR>
+  <TR>
+    <TD>IVO</TD>
+    <TD></TD>
+    <TD><A title="Chivolo Airport (page does not exist)" class="new" href="/w/index.php?title=Chivolo_Airport&amp;action=edit&amp;redlink=1">Chivolo 
+      Airport</A></TD>
+    <TD><A title="Chivolo (page does not exist)" class="new" href="/w/index.php?title=Chivolo&amp;action=edit&amp;redlink=1">Chivolo</A>, 
+      <A title="Colombia" href="/wiki/Colombia">Colombia</A></TD></TR>
+  <TR>
+    <TD>IVR</TD>
+    <TD>YIVL</TD>
+    <TD><A title="Inverell Airport" href="/wiki/Inverell_Airport">Inverell 
+      Airport</A></TD>
+    <TD><A title="Inverell, New South Wales" class="mw-redirect" href="/wiki/Inverell,_New_South_Wales">Inverell, 
+      New South Wales</A>, <A title="Australia" 
+      href="/wiki/Australia">Australia</A></TD></TR>
+  <TR>
+    <TD>IVW</TD>
+    <TD>YINW</TD>
+    <TD><A title="Inverway Airport (page does not exist)" class="new" href="/w/index.php?title=Inverway_Airport&amp;action=edit&amp;redlink=1">Inverway 
+      Airport</A></TD>
+    <TD><A title="Inverway (page does not exist)" class="new" href="/w/index.php?title=Inverway&amp;action=edit&amp;redlink=1">Inverway</A>, 
+      <A title="Northern Territory" href="/wiki/Northern_Territory">Northern 
+      Territory</A>, <A title="Australia" 
+  href="/wiki/Australia">Australia</A></TD></TR>
+  <TR class="sortbottom">
+    <TH style="background: rgb(221, 221, 221); text-align: left;" 
+      colspan="4"><CITE id="IW"></CITE>-IW-</TH></TR>
+  <TR>
+    <TD>IWA</TD>
+    <TD>UUBI</TD>
+    <TD><A title="Ivanovo Yuzhny Airport" 
+      href="/wiki/Ivanovo_Yuzhny_Airport">Yuzhny Airport</A></TD>
+    <TD><A title="Ivanovo" href="/wiki/Ivanovo">Ivanovo</A>, <A title="Russia" 
+      href="/wiki/Russia">Russia</A></TD></TR>
+  <TR>
+    <TD>IWD</TD>
+    <TD>KIWD</TD>
+    <TD><A title="Gogebic-Iron County Airport" class="mw-redirect" href="/wiki/Gogebic-Iron_County_Airport">Gogebic-Iron 
+      County Airport</A></TD>
+    <TD><A title="Ironwood, Michigan" 
+      href="/wiki/Ironwood,_Michigan">Ironwood, Michigan</A>, <A title="United States" 
+      href="/wiki/United_States">United States</A></TD></TR>
+  <TR>
+    <TD>IWJ</TD>
+    <TD>RJOW</TD>
+    <TD><A title="Iwami Airport" href="/wiki/Iwami_Airport">Iwami Airport</A> 
+      (Hagi-Iwami Airport)</TD>
+    <TD><A title="Masuda, Shimane" href="/wiki/Masuda,_Shimane">Masuda, 
+      Shimane</A>, <A title="Japan" href="/wiki/Japan">Japan</A>, <A title="Japan" 
+      href="/wiki/Japan">Japan</A></TD></TR>
+  <TR>
+    <TD>IWO</TD>
+    <TD>RJAW</TD>
+    <TD><A title="Iwo Jima Air Base" class="mw-redirect" href="/wiki/Iwo_Jima_Air_Base">Iwo 
+      Jima Air Base</A></TD>
+    <TD><A title="Iwo Jima" href="/wiki/Iwo_Jima">Iwo Jima</A>, <A title="Bonin Islands" 
+      href="/wiki/Bonin_Islands">Bonin Islands</A>, <A title="Japan" href="/wiki/Japan">Japan</A></TD></TR>
+  <TR>
+    <TD>IWS</TD>
+    <TD>KIWS</TD>
+    <TD><A title="West Houston Airport" href="/wiki/West_Houston_Airport">West 
+      Houston Airport</A></TD>
+    <TD><A title="Houston, Texas" class="mw-redirect" href="/wiki/Houston,_Texas">Houston, 
+      Texas</A>, <A title="United States" href="/wiki/United_States">United 
+      States</A></TD></TR>
+  <TR class="sortbottom">
+    <TH style="background: rgb(221, 221, 221); text-align: left;" 
+      colspan="4"><CITE id="IX"></CITE>-IX-</TH></TR>
+  <TR>
+    <TD>IXA</TD>
+    <TD>VEAT</TD>
+    <TD><A title="Agartala Airport" href="/wiki/Agartala_Airport">Agartala 
+      Airport</A> (Singerbhil Airport)</TD>
+    <TD><A title="Agartala" href="/wiki/Agartala">Agartala</A>, <A title="India" 
+      href="/wiki/India">India</A></TD></TR>
+  <TR>
+    <TD>IXB</TD>
+    <TD>VEBD</TD>
+    <TD><A title="Bagdogra Airport" href="/wiki/Bagdogra_Airport">Bagdogra 
+      Airport</A></TD>
+    <TD><A title="Bagdogra" href="/wiki/Bagdogra">Bagdogra</A>, <A title="India" 
+      href="/wiki/India">India</A></TD></TR>
+  <TR>
+    <TD>IXC</TD>
+    <TD>VICG</TD>
+    <TD><A title="Chandigarh Airport" 
+      href="/wiki/Chandigarh_Airport">Chandigarh Airport</A></TD>
+    <TD><A title="Chandigarh" href="/wiki/Chandigarh">Chandigarh</A>, <A 
+      title="India" href="/wiki/India">India</A></TD></TR>
+  <TR>
+    <TD>IXD</TD>
+    <TD>VIAL</TD>
+    <TD><A title="Allahabad Airport" href="/wiki/Allahabad_Airport">Allahabad 
+      Airport</A> / <A title="Bamrauli Air Force Base" class="mw-redirect" href="/wiki/Bamrauli_Air_Force_Base">Bamrauli 
+      Air Force Base</A></TD>
+    <TD><A title="Allahabad" href="/wiki/Allahabad">Allahabad</A>, <A title="India" 
+      href="/wiki/India">India</A></TD></TR>
+  <TR>
+    <TD>IXE</TD>
+    <TD>VOML</TD>
+    <TD><A title="Mangalore International Airport" class="mw-redirect" href="/wiki/Mangalore_International_Airport">Mangalore 
+      International Airport</A></TD>
+    <TD><A title="Mangalore" href="/wiki/Mangalore">Mangalore</A>, <A title="India" 
+      href="/wiki/India">India</A></TD></TR>
+  <TR>
+    <TD>IXG</TD>
+    <TD>VABM</TD>
+    <TD><A title="Belgaum Airport" href="/wiki/Belgaum_Airport">Belgaum 
+      Airport</A></TD>
+    <TD><A title="Belgaum" href="/wiki/Belgaum">Belgaum</A>, <A title="India" 
+      href="/wiki/India">India</A></TD></TR>
+  <TR>
+    <TD>IXH</TD>
+    <TD>VEKR</TD>
+    <TD><A title="Kailashahar Airport" 
+      href="/wiki/Kailashahar_Airport">Kailashahar Airport</A></TD>
+    <TD><A title="Kailashahar" href="/wiki/Kailashahar">Kailashahar</A>, <A 
+      title="India" href="/wiki/India">India</A></TD></TR>
+  <TR>
+    <TD>IXI</TD>
+    <TD>VELR</TD>
+    <TD><A title="Lilabari Airport" href="/wiki/Lilabari_Airport">Lilabari 
+      Airport</A> (North Lakhimpur Airport)</TD>
+    <TD><A title="Assam" href="/wiki/Assam">Assam</A>, <A title="India" href="/wiki/India">India</A></TD></TR>
+  <TR>
+    <TD>IXJ</TD>
+    <TD>VIJU</TD>
+    <TD><A title="Jammu Airport" href="/wiki/Jammu_Airport">Jammu Airport</A> 
+      (Satwari Airport)</TD>
+    <TD><A title="Jammu" href="/wiki/Jammu">Jammu</A>, <A title="India" href="/wiki/India">India</A></TD></TR>
+  <TR>
+    <TD>IXK</TD>
+    <TD>VAKS</TD>
+    <TD><A title="Junagadh Airport" class="mw-redirect" href="/wiki/Junagadh_Airport">Junagadh 
+      Airport</A> (Keshod Airport)</TD>
+    <TD><A title="Keshod" href="/wiki/Keshod">Keshod</A>, <A title="India" 
+      href="/wiki/India">India</A></TD></TR>
+  <TR>
+    <TD>IXL</TD>
+    <TD>VILH</TD>
+    <TD><A title="Leh Kushok Bakula Rimpochee Airport" class="mw-redirect" 
+      href="/wiki/Leh_Kushok_Bakula_Rimpochee_Airport">Leh Kushok Bakula 
+      Rimpochee Airport</A></TD>
+    <TD><A title="Leh" href="/wiki/Leh">Leh</A>, <A title="India" href="/wiki/India">India</A></TD></TR>
+  <TR>
+    <TD>IXM</TD>
+    <TD>VOMD</TD>
+    <TD><A title="Madurai Airport" href="/wiki/Madurai_Airport">Madurai 
+      Airport</A></TD>
+    <TD><A title="Madurai" href="/wiki/Madurai">Madurai</A>, <A title="India" 
+      href="/wiki/India">India</A></TD></TR>
+  <TR>
+    <TD>IXN</TD>
+    <TD>VEKW</TD>
+    <TD><A title="Khowai Airport" href="/wiki/Khowai_Airport">Khowai 
+      Airport</A></TD>
+    <TD><A title="Khowai" href="/wiki/Khowai">Khowai</A>, <A title="India" 
+      href="/wiki/India">India</A></TD></TR>
+  <TR>
+    <TD>IXP</TD>
+    <TD>VIPK</TD>
+    <TD><A title="Pathankot Airport" href="/wiki/Pathankot_Airport">Pathankot 
+      Airport</A></TD>
+    <TD><A title="Pathankot" href="/wiki/Pathankot">Pathankot</A>, <A title="India" 
+      href="/wiki/India">India</A></TD></TR>
+  <TR>
+    <TD>IXQ</TD>
+    <TD>VEKM</TD>
+    <TD><A title="Kamalpur Airport" href="/wiki/Kamalpur_Airport">Kamalpur 
+      Airport</A></TD>
+    <TD><A title="Kamalpur, India" href="/wiki/Kamalpur,_India">Kamalpur</A>, 
+      <A title="India" href="/wiki/India">India</A></TD></TR>
+  <TR>
+    <TD>IXR</TD>
+    <TD>VERC</TD>
+    <TD><A title="Birsa Munda Airport" href="/wiki/Birsa_Munda_Airport">Birsa 
+      Munda Airport</A> (Ranchi Airport)</TD>
+    <TD><A title="Ranchi" href="/wiki/Ranchi">Ranchi</A>, <A title="India" 
+      href="/wiki/India">India</A></TD></TR>
+  <TR>
+    <TD>IXS</TD>
+    <TD>VEKU</TD>
+    <TD><A title="Silchar Airport" href="/wiki/Silchar_Airport">Silchar 
+      Airport</A> (Kumbhirgram Airport)</TD>
+    <TD><A title="Silchar" href="/wiki/Silchar">Silchar</A>, <A title="India" 
+      href="/wiki/India">India</A></TD></TR>
+  <TR>
+    <TD>IXT</TD>
+    <TD>VEPG</TD>
+    <TD><A title="Pasighat Airport" href="/wiki/Pasighat_Airport">Pasighat 
+      Airport</A> (Passighat Airport)</TD>
+    <TD><A title="Pasighat" href="/wiki/Pasighat">Pasighat</A> (Passighat), <A 
+      title="India" href="/wiki/India">India</A></TD></TR>
+  <TR>
+    <TD>IXU</TD>
+    <TD>VAAU</TD>
+    <TD><A title="Aurangabad Airport" 
+      href="/wiki/Aurangabad_Airport">Aurangabad Airport</A> (Chikkalthana 
+      Airport)</TD>
+    <TD><A title="Aurangabad, Maharashtra" href="/wiki/Aurangabad,_Maharashtra">Aurangabad, 
+      Maharashtra</A>, <A title="India" href="/wiki/India">India</A></TD></TR>
+  <TR>
+    <TD>IXV</TD>
+    <TD>VEAN</TD>
+    <TD><A title="Along Airport" href="/wiki/Along_Airport">Along 
+    Airport</A></TD>
+    <TD><A title="Along, Arunachal Pradesh" href="/wiki/Along,_Arunachal_Pradesh">Along, 
+      Arunachal Pradesh</A>, <A title="India" href="/wiki/India">India</A></TD></TR>
+  <TR>
+    <TD>IXW</TD>
+    <TD>VEJS</TD>
+    <TD><A title="Sonari Airport" href="/wiki/Sonari_Airport">Sonari 
+      Airport</A></TD>
+    <TD><A title="Jamshedpur" href="/wiki/Jamshedpur">Jamshedpur</A>, <A 
+      title="India" href="/wiki/India">India</A></TD></TR>
+  <TR>
+    <TD>IXY</TD>
+    <TD>VAKE</TD>
+    <TD><A title="Kandla Airport" href="/wiki/Kandla_Airport">Kandla 
+      Airport</A> (Gandhidham Airport)</TD>
+    <TD><A title="Gandhidham" href="/wiki/Gandhidham">Gandhidham</A> / <A 
+      title="Kandla" href="/wiki/Kandla">Kandla</A>, <A title="India" href="/wiki/India">India</A></TD></TR>
+  <TR>
+    <TD>IXZ</TD>
+    <TD>VOPB</TD>
+    <TD><A title="Vir Savarkar Airport" class="mw-redirect" href="/wiki/Vir_Savarkar_Airport">Vir 
+      Savarkar Airport</A> (Port Blair Airport)</TD>
+    <TD><A title="Port Blair" href="/wiki/Port_Blair">Port Blair</A>, <A 
+      title="India" href="/wiki/India">India</A></TD></TR>
+  <TR class="sortbottom">
+    <TH style="background: rgb(221, 221, 221); text-align: left;" 
+      colspan="4"><CITE id="IY"></CITE>-IY-</TH></TR>
+  <TR>
+    <TD>IYK</TD>
+    <TD>KIYK</TD>
+    <TD><A title="Inyokern Airport" href="/wiki/Inyokern_Airport">Inyokern 
+      Airport</A></TD>
+    <TD><A title="Inyokern, California" 
+      href="/wiki/Inyokern,_California">Inyokern, California</A>, <A title="United States" 
+      href="/wiki/United_States">United States</A></TD></TR>
+  <TR class="sortbottom">
+    <TH style="background: rgb(221, 221, 221); text-align: left;" 
+      colspan="4"><CITE id="IZ"></CITE>-IZ-</TH></TR>
+  <TR>
+    <TD>IZA</TD>
+    <TD>SBZM</TD>
+    <TD><A title="Zona da Mata Regional Airport" href="/wiki/Zona_da_Mata_Regional_Airport">Zona 
+      da Mata Regional Airport</A></TD>
+    <TD><A title="Juiz de Fora" href="/wiki/Juiz_de_Fora">Juiz de Fora</A>, <A 
+      title="Brazil" href="/wiki/Brazil">Brazil</A></TD></TR>
+  <TR>
+    <TD>IZO</TD>
+    <TD>RJOC</TD>
+    <TD><A title="Izumo Airport" href="/wiki/Izumo_Airport">Izumo 
+    Airport</A></TD>
+    <TD><A title="Izumo, Shimane" href="/wiki/Izumo,_Shimane">Izumo, 
+      Shimane</A>, <A title="Japan" href="/wiki/Japan">Japan</A></TD></TR>
+  <TR>
+    <TD>IZT</TD>
+    <TD>MMIT</TD>
+    <TD><A title="Ixtepec Airport (page does not exist)" class="new" href="/w/index.php?title=Ixtepec_Airport&amp;action=edit&amp;redlink=1">Ixtepec 
+      Airport</A></TD>
+    <TD><A title="Ixtepec, Oaxaca" href="/wiki/Ixtepec,_Oaxaca">Ixtepec, 
+      Oaxaca</A>, <A title="Mexico" 
+href="/wiki/Mexico">Mexico</A></TD></TR></TBODY></TABLE>
+<H2><SPAN class="mw-headline" id="References">References</SPAN><SPAN class="mw-editsection"><SPAN 
+class="mw-editsection-bracket">[</SPAN><A title="Edit section: References" href="/w/index.php?title=List_of_airports_by_IATA_code:_I&amp;action=edit&amp;section=2">edit</A><SPAN 
+class="mw-editsection-bracket">]</SPAN></SPAN></H2>
+<UL>
+  <LI><SPAN class="citation web"><A class="external text" href="http://www.unece.org/cefact/locode/welcome.html" 
+  rel="nofollow">"United Nations Code for Trade and Transport Locations"</A>. 
+  <I><A title="UN/LOCODE" href="/wiki/UN/LOCODE">UN/LOCODE</A> 2011-2</I>. <A 
+  title="United Nations Economic Commission for Europe" href="/wiki/United_Nations_Economic_Commission_for_Europe">UNECE</A>. 
+  28 February 2012.</SPAN><SPAN title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+airports+by+IATA+code%3A+I&amp;rft.atitle=United+Nations+Code+for+Trade+and+Transport+Locations&amp;rft.date=28+February+2012&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.unece.org%2Fcefact%2Flocode%2Fwelcome.html&amp;rft.jtitle=UN%2FLOCODE+2011-2&amp;rft.pub=UNECE&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" 
+  class="Z3988"><SPAN style="display: none;">&nbsp;</SPAN></SPAN> - includes 
+  IATA codes</LI>
+  <LI><SPAN class="citation web"><A class="external text" href="http://www.icao.int/safety/ism/Accident%20Incident%20Reporting%20Guidance/LocationIndicatorsByState.pdf" 
+  rel="nofollow">"ICAO Location Indicators by State"</A> (PDF). <A title="International Civil Aviation Organization" 
+  href="/wiki/International_Civil_Aviation_Organization">International Civil 
+  Aviation Organization</A>. 17 September 2010.</SPAN><SPAN title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+airports+by+IATA+code%3A+I&amp;rft.btitle=ICAO+Location+Indicators+by+State&amp;rft.date=17+September+2010&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.icao.int%2Fsafety%2Fism%2FAccident%2520Incident%2520Reporting%2520Guidance%2FLocationIndicatorsByState.pdf&amp;rft.pub=International+Civil+Aviation+Organization&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" 
+  class="Z3988"><SPAN style="display: none;">&nbsp;</SPAN></SPAN></LI>
+  <LI><A class="external text" href="http://aviation-safety.net/" 
+  rel="nofollow">Aviation Safety Network</A> - IATA and ICAO airport codes</LI>
+  <LI><A class="external text" href="http://gcmap.com/" rel="nofollow">Great 
+  Circle Mapper</A> - IATA, ICAO and FAA airport codes</LI></UL><!-- 
+NewPP limit report
+Parsed by mw1045
+CPU time usage: 0.728 seconds
+Real time usage: 0.806 seconds
+Preprocessor visited node count: 332/1000000
+Preprocessor generated node count: 2102/1500000
+Post‐expand include size: 4711/2048000 bytes
+Template argument size: 52/2048000 bytes
+Highest expansion depth: 5/40
+Expensive parser function count: 0/500
+Lua time usage: 0.021/10.000 seconds
+Lua memory usage: 1.07 MB/50 MB
+--> <!-- Saved in parser cache with key enwiki:pcache:idhash:317107-0!*!0!!*!*!* and timestamp 20140928033501 and revision id 627365602
+ --> 
+<NOSCRIPT>&lt;img 
+src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" 
+title="" width="1" height="1" style="border: none; position: absolute;" 
+/&gt;</NOSCRIPT></DIV>
+<DIV class="printfooter">						Retrieved from "<A dir="ltr" href="http://en.wikipedia.org/w/index.php?title=List_of_airports_by_IATA_code:_I&amp;oldid=627365602">http://en.wikipedia.org/w/index.php?title=List_of_airports_by_IATA_code:_I&amp;oldid=627365602</A>"					</DIV>
+<DIV class="catlinks" id="catlinks">
+<DIV class="mw-normal-catlinks" id="mw-normal-catlinks"><A title="Help:Category" 
+href="/wiki/Help:Category">Categories</A>: 
+<UL>
+  <LI><A title="Category:Lists of airports by IATA code" href="/wiki/Category:Lists_of_airports_by_IATA_code">Lists 
+  of airports by IATA code</A></LI></UL></DIV></DIV>
+<DIV class="visualClear"></DIV></DIV></DIV>
+<DIV id="mw-navigation">
+<H2>Navigation menu</H2>
+<DIV id="mw-head">
+<DIV id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+<H3 id="p-personal-label">Personal tools</H3>
+<UL>
+  <LI id="pt-createaccount"><A href="/w/index.php?title=Special:UserLogin&amp;returnto=List+of+airports+by+IATA+code%3A+I&amp;type=signup">Create 
+  account</A></LI>
+  <LI id="pt-login"><A title="You're encouraged to log in; however, it's not mandatory. [o]" 
+  accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=List+of+airports+by+IATA+code%3A+I">Log 
+  in</A></LI></UL></DIV>
+<DIV id="left-navigation">
+<DIV class="vectorTabs" id="p-namespaces" role="navigation" aria-labelledby="p-namespaces-label">
+<H3 id="p-namespaces-label">Namespaces</H3>
+<UL>
+  <LI class="selected" id="ca-nstab-main"><SPAN><A title="View the content page [c]" 
+  accesskey="c" 
+  href="/wiki/List_of_airports_by_IATA_code:_I">Article</A></SPAN></LI>
+  <LI id="ca-talk"><SPAN><A title="Discussion about the content page [t]" 
+  accesskey="t" 
+  href="/wiki/Talk:List_of_airports_by_IATA_code:_I">Talk</A></SPAN></LI></UL></DIV>
+<DIV class="vectorMenu emptyPortlet" id="p-variants" role="navigation" 
+aria-labelledby="p-variants-label">
+<H3 id="p-variants-label"><SPAN>Variants</SPAN><A href="#"></A></H3>
+<DIV class="menu">
+<UL></UL></DIV></DIV></DIV>				 
+<DIV id="right-navigation">
+<DIV class="vectorTabs" id="p-views" role="navigation" aria-labelledby="p-views-label">
+<H3 id="p-views-label">Views</H3>
+<UL>
+  <LI class="selected" id="ca-view"><SPAN><A href="/wiki/List_of_airports_by_IATA_code:_I">Read</A></SPAN></LI>
+  <LI id="ca-edit"><SPAN><A title="You can edit this page. Please use the preview button before saving [e]" 
+  accesskey="e" href="/w/index.php?title=List_of_airports_by_IATA_code:_I&amp;action=edit">Edit</A></SPAN></LI>
+  <LI class="collapsible" id="ca-history"><SPAN><A title="Past versions of this page [h]" 
+  accesskey="h" href="/w/index.php?title=List_of_airports_by_IATA_code:_I&amp;action=history">View 
+  history</A></SPAN></LI></UL></DIV>
+<DIV class="vectorMenu emptyPortlet" id="p-cactions" role="navigation" 
+aria-labelledby="p-cactions-label">
+<H3 id="p-cactions-label"><SPAN>More</SPAN><A href="#"></A></H3>
+<DIV class="menu">
+<UL></UL></DIV></DIV>
+<DIV id="p-search" role="search">
+<H3><LABEL for="searchInput">Search</LABEL>						 </H3>
+<FORM id="searchform" action="/w/index.php">
+<DIV id="simpleSearch"><INPUT name="search" title="Search Wikipedia [f]" id="searchInput" accesskey="f" type="search" placeholder="Search"><INPUT name="title" type="hidden" value="Special:Search"><INPUT name="fulltext" title="Search Wikipedia for this text" class="searchButton mw-fallbackSearchButton" id="mw-searchButton" type="submit" value="Search"><INPUT name="go" title="Go to a page with this exact name if one exists" class="searchButton" id="searchButton" type="submit" value="Go">								</DIV></FORM></DIV></DIV></DIV>
+<DIV id="mw-panel">
+<DIV id="p-logo" role="banner"><A title="Visit the main page" style='background-image: url("//upload.wikimedia.org/wikipedia/en/b/bc/Wiki.png");' 
+href="/wiki/Main_Page"></A></DIV>
+<DIV class="portal" id="p-navigation" role="navigation" aria-labelledby="p-navigation-label">
+<H3 id="p-navigation-label">Navigation</H3>
+<DIV class="body">
+<UL>
+  <LI id="n-mainpage-description"><A title="Visit the main page [z]" accesskey="z" 
+  href="/wiki/Main_Page">Main page</A></LI>
+  <LI id="n-contents"><A title="Guides to browsing Wikipedia" href="/wiki/Portal:Contents">Contents</A></LI>
+  <LI id="n-featuredcontent"><A title="Featured content – the best of Wikipedia" 
+  href="/wiki/Portal:Featured_content">Featured content</A></LI>
+  <LI id="n-currentevents"><A title="Find background information on current events" 
+  href="/wiki/Portal:Current_events">Current events</A></LI>
+  <LI id="n-randompage"><A title="Load a random article [x]" accesskey="x" href="/wiki/Special:Random">Random 
+  article</A></LI>
+  <LI id="n-sitesupport"><A title="Support us" href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en">Donate 
+  to Wikipedia</A></LI>
+  <LI id="n-shoplink"><A title="Visit the Wikimedia Shop" href="//shop.wikimedia.org">Wikimedia 
+  Shop</A></LI></UL></DIV></DIV>
+<DIV class="portal" id="p-interaction" role="navigation" aria-labelledby="p-interaction-label">
+<H3 id="p-interaction-label">Interaction</H3>
+<DIV class="body">
+<UL>
+  <LI id="n-help"><A title="Guidance on how to use and edit Wikipedia" href="/wiki/Help:Contents">Help</A></LI>
+  <LI id="n-aboutsite"><A title="Find out about Wikipedia" href="/wiki/Wikipedia:About">About 
+  Wikipedia</A></LI>
+  <LI id="n-portal"><A title="About the project, what you can do, where to find things" 
+  href="/wiki/Wikipedia:Community_portal">Community portal</A></LI>
+  <LI id="n-recentchanges"><A title="A list of recent changes in the wiki [r]" 
+  accesskey="r" href="/wiki/Special:RecentChanges">Recent changes</A></LI>
+  <LI id="n-contactpage"><A 
+  href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact 
+page</A></LI></UL></DIV></DIV>
+<DIV class="portal" id="p-tb" role="navigation" aria-labelledby="p-tb-label">
+<H3 id="p-tb-label">Tools</H3>
+<DIV class="body">
+<UL>
+  <LI id="t-whatlinkshere"><A title="List of all English Wikipedia pages containing links to this page [j]" 
+  accesskey="j" href="/wiki/Special:WhatLinksHere/List_of_airports_by_IATA_code:_I">What 
+  links here</A></LI>
+  <LI id="t-recentchangeslinked"><A title="Recent changes in pages linked from this page [k]" 
+  accesskey="k" href="/wiki/Special:RecentChangesLinked/List_of_airports_by_IATA_code:_I">Related 
+  changes</A></LI>
+  <LI id="t-upload"><A title="Upload files [u]" accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard">Upload 
+  file</A></LI>
+  <LI id="t-specialpages"><A title="A list of all special pages [q]" accesskey="q" 
+  href="/wiki/Special:SpecialPages">Special pages</A></LI>
+  <LI id="t-permalink"><A title="Permanent link to this revision of the page" 
+  href="/w/index.php?title=List_of_airports_by_IATA_code:_I&amp;oldid=627365602">Permanent 
+  link</A></LI>
+  <LI id="t-info"><A href="/w/index.php?title=List_of_airports_by_IATA_code:_I&amp;action=info">Page 
+  information</A></LI>
+  <LI id="t-wikibase"><A title="Link to connected data repository item [g]" 
+  accesskey="g" href="//www.wikidata.org/wiki/Q1758154">Wikidata item</A></LI>
+  <LI id="t-cite"><A title="Information on how to cite this page" href="/w/index.php?title=Special:Cite&amp;page=List_of_airports_by_IATA_code%3A_I&amp;id=627365602">Cite 
+  this page</A></LI></UL></DIV></DIV>
+<DIV class="portal" id="p-coll-print_export" role="navigation" aria-labelledby="p-coll-print_export-label">
+<H3 id="p-coll-print_export-label">Print/export</H3>
+<DIV class="body">
+<UL>
+  <LI id="coll-create_a_book"><A href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=List+of+airports+by+IATA+code%3A+I">Create 
+  a book</A></LI>
+  <LI id="coll-download-as-rdf2latex"><A href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=List+of+airports+by+IATA+code%3A+I&amp;oldid=627365602&amp;writer=rdf2latex">Download 
+  as PDF</A></LI>
+  <LI id="t-print"><A title="Printable version of this page [p]" accesskey="p" 
+  href="/w/index.php?title=List_of_airports_by_IATA_code:_I&amp;printable=yes">Printable 
+  version</A></LI></UL></DIV></DIV>
+<DIV class="portal" id="p-lang" role="navigation" 
+aria-labelledby="p-lang-label">
+<H3 id="p-lang-label">Languages</H3>
+<DIV class="body">
+<UL>
+  <LI class="interlanguage-link interwiki-de"><A title="Liste der IATA-Codes/I – German" 
+  lang="de" href="//de.wikipedia.org/wiki/Liste_der_IATA-Codes/I" 
+  hreflang="de">Deutsch</A></LI>
+  <LI class="interlanguage-link interwiki-fa"><A title="فهرست فرودگاه‌ها بر پایه کد یاتا: I – Persian" 
+  lang="fa" href="//fa.wikipedia.org/wiki/%D9%81%D9%87%D8%B1%D8%B3%D8%AA_%D9%81%D8%B1%D9%88%D8%AF%DA%AF%D8%A7%D9%87%E2%80%8C%D9%87%D8%A7_%D8%A8%D8%B1_%D9%BE%D8%A7%DB%8C%D9%87_%DA%A9%D8%AF_%DB%8C%D8%A7%D8%AA%D8%A7:_I" 
+  hreflang="fa">فارسی</A></LI>
+  <LI class="interlanguage-link interwiki-fr"><A title="Liste des codes AITA des aéroports/I – French" 
+  lang="fr" href="//fr.wikipedia.org/wiki/Liste_des_codes_AITA_des_a%C3%A9roports/I" 
+  hreflang="fr">Français</A></LI>
+  <LI class="interlanguage-link interwiki-hi"><A title="विमानक्षेत्रों की सूची IATA कोड अनुसार: I – Hindi" 
+  lang="hi" href="//hi.wikipedia.org/wiki/%E0%A4%B5%E0%A4%BF%E0%A4%AE%E0%A4%BE%E0%A4%A8%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A5%87%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A5%8B%E0%A4%82_%E0%A4%95%E0%A5%80_%E0%A4%B8%E0%A5%82%E0%A4%9A%E0%A5%80_IATA_%E0%A4%95%E0%A5%8B%E0%A4%A1_%E0%A4%85%E0%A4%A8%E0%A5%81%E0%A4%B8%E0%A4%BE%E0%A4%B0:_I" 
+  hreflang="hi">हिन्दी</A></LI>
+  <LI class="interlanguage-link interwiki-hr"><A title="Dodatak:Popis zračnih luka po IATA kodu: I – Croatian" 
+  lang="hr" href="//hr.wikipedia.org/wiki/Dodatak:Popis_zra%C4%8Dnih_luka_po_IATA_kodu:_I" 
+  hreflang="hr">Hrvatski</A></LI>
+  <LI class="interlanguage-link interwiki-it"><A title="Codici aeroportuali IATA - I – Italian" 
+  lang="it" href="//it.wikipedia.org/wiki/Codici_aeroportuali_IATA_-_I" 
+  hreflang="it">Italiano</A></LI>
+  <LI class="interlanguage-link interwiki-lb"><A title="IATA FluchhafenIndex-I – Luxembourgish" 
+  lang="lb" href="//lb.wikipedia.org/wiki/IATA_FluchhafenIndex-I" 
+  hreflang="lb">Lëtzebuergesch</A></LI>
+  <LI class="interlanguage-link interwiki-nl"><A title="Vliegvelden gesorteerd naar IATA-code I – Dutch" 
+  lang="nl" href="//nl.wikipedia.org/wiki/Vliegvelden_gesorteerd_naar_IATA-code_I" 
+  hreflang="nl">Nederlands</A></LI>
+  <LI class="interlanguage-link interwiki-ja"><A title="IATA空港コードの一覧/I – Japanese" 
+  lang="ja" href="//ja.wikipedia.org/wiki/IATA%E7%A9%BA%E6%B8%AF%E3%82%B3%E3%83%BC%E3%83%89%E3%81%AE%E4%B8%80%E8%A6%A7/I" 
+  hreflang="ja">日本語</A></LI>
+  <LI class="interlanguage-link interwiki-no"><A title="Liste over flyplasser etter IATA-kode/I – Norwegian (bokmål)" 
+  lang="no" href="//no.wikipedia.org/wiki/Liste_over_flyplasser_etter_IATA-kode/I" 
+  hreflang="no">Norsk bokmål</A></LI>
+  <LI class="interlanguage-link interwiki-pl"><A title="Porty lotnicze świata: I – Polish" 
+  lang="pl" href="//pl.wikipedia.org/wiki/Porty_lotnicze_%C5%9Bwiata:_I" 
+  hreflang="pl">Polski</A></LI>
+  <LI class="interlanguage-link interwiki-zh"><A title="国际航空运输协会机场代码 (I) – Chinese" 
+  lang="zh" href="//zh.wikipedia.org/wiki/%E5%9B%BD%E9%99%85%E8%88%AA%E7%A9%BA%E8%BF%90%E8%BE%93%E5%8D%8F%E4%BC%9A%E6%9C%BA%E5%9C%BA%E4%BB%A3%E7%A0%81_(I)" 
+  hreflang="zh">中文</A></LI>
+  <LI class="uls-p-lang-dummy"><A href="#"></A></LI></UL>
+<DIV class="after-portlet after-portlet-lang"><SPAN class="wb-langlinks-edit wb-langlinks-link"><A 
+title="Edit interlanguage links" class="wbc-editpage" href="//www.wikidata.org/wiki/Q1758154#sitelinks-wikipedia" 
+text="Edit links" action="edit">Edit 
+links</A></SPAN></DIV></DIV></DIV></DIV></DIV>
+<DIV id="footer" role="contentinfo">
+<UL id="footer-info">
+  <LI id="footer-info-lastmod"> This page was last modified on 28 September 2014 
+  at 03:33.<BR></LI>
+  <LI id="footer-info-copyright">Text is available under the <A href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" 
+  rel="license">Creative Commons Attribution-ShareAlike License</A><A style="display: none;" 
+  href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"></A>;
+   additional terms may apply.  By using this site, you agree to the <A href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms 
+  of Use</A> and <A href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy 
+  Policy</A>. Wikipedia® is a registered trademark of the <A href="//www.wikimediafoundation.org/">Wikimedia 
+  Foundation, Inc.</A>, a non-profit organization.</LI></UL>
+<UL id="footer-places">
+  <LI id="footer-places-privacy"><A title="wikimedia:Privacy policy" href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy 
+  policy</A></LI>
+  <LI id="footer-places-about"><A title="Wikipedia:About" href="/wiki/Wikipedia:About">About 
+  Wikipedia</A></LI>
+  <LI id="footer-places-disclaimer"><A title="Wikipedia:General disclaimer" 
+  href="/wiki/Wikipedia:General_disclaimer">Disclaimers</A></LI>
+  <LI id="footer-places-contact"><A href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact 
+  Wikipedia</A></LI>
+  <LI id="footer-places-developers"><A href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</A></LI>
+  <LI id="footer-places-mobileview"><A class="noprint stopMobileRedirectToggle" 
+  href="//en.m.wikipedia.org/w/index.php?title=List_of_airports_by_IATA_code:_I&amp;mobileaction=toggle_view_mobile">Mobile 
+  view</A></LI></UL>
+<UL class="noprint" id="footer-icons">
+  <LI id="footer-copyrightico"><A href="//wikimediafoundation.org/"><IMG width="88" 
+  height="31" alt="Wikimedia Foundation" src="//bits.wikimedia.org/images/wikimedia-button.png"></A>
+  													 </LI>
+  <LI id="footer-poweredbyico"><A href="//www.mediawiki.org/"><IMG width="88" 
+  height="31" alt="Powered by MediaWiki" src="//bits.wikimedia.org/static-1.25wmf1/resources/assets/poweredby_mediawiki_88x31.png"></A>
+  													 </LI></UL>
+<DIV style="clear: both;"></DIV></DIV>
+<SCRIPT>/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/</SCRIPT>
+
+<SCRIPT>if(window.mw){
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","site":"loading","user":"ready","user.groups":"ready"});
+}</SCRIPT>
+ 
+<SCRIPT>if(window.mw){
+mw.loader.load(["mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.featured-articles-links","ext.eventLogging.subscriber","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"],null,true);
+}</SCRIPT>
+ 
+<SCRIPT>if(window.mw){
+document.write("\u003Cscript src=\"//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false\u0026amp;lang=en\u0026amp;modules=site\u0026amp;only=scripts\u0026amp;skin=vector\u0026amp;*\"\u003E\u003C/script\u003E");
+}</SCRIPT>
+ 
+<SCRIPT>if(window.mw){
+mw.config.set({"wgBackendResponseTime":276,"wgHostname":"mw1095"});
+}</SCRIPT>
+		 </BODY></HTML>

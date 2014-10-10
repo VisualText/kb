@@ -1,0 +1,15 @@
+# hello
+tokenize	nil	# Gen:   Convert input to token list.
+pat	kbInit	# comment
+pat	findTable	# comment
+pat	gatherTable	# comment
+pat	tags	# comment
+pat	titles	# comment
+pat	strickout	# comment
+pat	td	# comment
+pat	tdTitle	# comment
+pat	lines	# comment
+pat	blanks	# comment
+pat	airport	# comment
+pat	output	# comment
+pat	outputKB	# comment

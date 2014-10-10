@@ -1,0 +1,25 @@
+findstate	
+loadcompiledkb	true
+treeoffsets	false
+treesemantics	false
+browsertoolbar	false
+tabtoolbar	false
+debugtoolbar	false
+kbtoolbar	false
+batchmode	false
+pagemode	true
+verbosemode	false
+loganalyzer	false
+highlighttext	false
+textstate	1
+textsel	1
+analyzerstate	
+analyzersel	8
+grammarstate	
+grammarsel	
+activetab	1
+processfile	airports
+docopen	spec\td.pat	27	441	27	408	0	0	377	377
+docopen	spec\strickout.pat	51	421	426	831	0	0	248	248
+attributeeditor	false
+addcombotext	airports

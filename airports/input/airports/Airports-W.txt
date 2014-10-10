@@ -1,0 +1,1475 @@
+<!-- https://en.wikipedia.org/wiki/List_of_airports_by_IATA_code:_W -->
+<!DOCTYPE HTML>
+<!DOCTYPE html PUBLIC "" ""><HTML class="client-nojs" lang="en" 
+dir="ltr"><HEAD><META content="IE=11.0000" http-equiv="X-UA-Compatible">
+ 
+<META charset="UTF-8"> <TITLE>List of airports by IATA code: W - Wikipedia, the 
+free encyclopedia</TITLE> 
+<META name="generator" content="MediaWiki 1.25wmf1"> <LINK href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/List_of_airports_by_IATA_code:_W" 
+rel="alternate"> <LINK title="Edit this page" href="/w/index.php?title=List_of_airports_by_IATA_code:_W&amp;action=edit" 
+rel="alternate" type="application/x-wiki"> <LINK title="Edit this page" href="/w/index.php?title=List_of_airports_by_IATA_code:_W&amp;action=edit" 
+rel="edit"> <LINK href="//bits.wikimedia.org/apple-touch/wikipedia.png" rel="apple-touch-icon"> 
+<LINK href="//bits.wikimedia.org/favicon/wikipedia.ico" rel="shortcut icon"> 
+<LINK title="Wikipedia (en)" href="/w/opensearch_desc.php" rel="search" type="application/opensearchdescription+xml"> 
+<LINK href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"> 
+<LINK href="/wiki/List_of_airports_by_IATA_code:_W" rel="alternate" hreflang="x-default"> 
+<LINK href="//creativecommons.org/licenses/by-sa/3.0/" rel="copyright"> <LINK 
+title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" 
+rel="alternate" type="application/atom+xml"> <LINK href="http://en.wikipedia.org/wiki/List_of_airports_by_IATA_code:_W" 
+rel="canonical"> <LINK href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cteahouse%7Cext.uls.nojs%7Cext.visualEditor.viewPageTarget.noscript%7Cext.wikihiero%2CwikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector&amp;*" 
+rel="stylesheet"> 
+<META name="ResourceLoaderDynamicStyles" content=""> <LINK href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" 
+rel="stylesheet"> 
+<STYLE>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:3904d24a08aa08f6a68dc338f9be277e */</STYLE>
+ 
+<SCRIPT src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></SCRIPT>
+ 
+<SCRIPT>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"List_of_airports_by_IATA_code:_W","wgTitle":"List of airports by IATA code: W","wgCurRevisionId":612332526,"wgRevisionId":612332526,"wgArticleId":317148,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Lists of airports by IATA code"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"List_of_airports_by_IATA_code:_W","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":false,"previewDialog":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"isPageWatched":false,"pageLanguageCode":"en","pageLanguageDir":"ltr","svgMaxSize":4096,"namespacesWithSubpages":{"6":0,"8":0,"1":true,"2":true,"3":true,"4":true,"5":true,"7":true,"9":true,"10":true,"11":true,"12":true,"13":true,"14":true,"15":true,"100":true,"101":true,"102":true,"103":true,"104":true,"105":true,"106":true,"107":true,"108":true,"109":true,"110":true,"111":true,"447":true,"2600":false,"828":true,"829":true}},"wikilove-recipient":"","wikilove-anon":0,"wgGuidedTourHelpGuiderUrl":"Help:Guided tours/guider","wgHHVMStart":1412726400000,"wgULSAcceptLanguageList":["en-us","en"],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q659816"});
+}</SCRIPT>
+
+<SCRIPT>if(window.mw){
+mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"editfont":"default","editondblclick":0,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nickname":"","norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rows":25,"showhiddencats":false,"shownumberswatching":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"watchrollback":0,
+"wllimit":250,"useeditwarning":1,"prefershttps":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"visualeditor-enable":0,"visualeditor-betatempdisable":0,"visualeditor-enable-experimental":0,"visualeditor-enable-language":0,"visualeditor-hidebetawelcome":0,"wikilove-enabled":1,"mathJax":false,"echo-subscriptions-web-page-review":true,"echo-subscriptions-email-page-review":false,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"echo-subscriptions-web-education-program":true,"echo-subscriptions-email-education-program":false,"echo-notify-show-link":true,"echo-show-alert":true,"echo-email-frequency":0,"echo-email-format":"html","echo-subscriptions-email-system":true,"echo-subscriptions-web-system":true,"echo-subscriptions-email-user-rights":true,"echo-subscriptions-web-user-rights":true,"echo-subscriptions-email-other":false,
+"echo-subscriptions-web-other":true,"echo-subscriptions-email-edit-user-talk":false,"echo-subscriptions-web-edit-user-talk":true,"echo-subscriptions-email-reverted":false,"echo-subscriptions-web-reverted":true,"echo-subscriptions-email-article-linked":false,"echo-subscriptions-web-article-linked":false,"echo-subscriptions-email-mention":false,"echo-subscriptions-web-mention":true,"echo-subscriptions-web-edit-thank":true,"echo-subscriptions-email-edit-thank":false,"echo-subscriptions-web-flow-discussion":true,"echo-subscriptions-email-flow-discussion":false,"gettingstarted-task-toolbar-show-intro":true,"uls-preferences":"","multimediaviewer-enable":true,"language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":
+false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs118":false,"searchNs119":false,"searchNs446":false,"searchNs447":false,"searchNs710":false,"searchNs711":false,"searchNs828":false,"searchNs829":false,"searchNs2600":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,"gadget-geonotice":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-refToolbar":1,"gadget-mySandbox":1,"gadget-featured-articles-links":1,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function($,jQuery){mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\"});},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:8d55686787f352ccb6a28352f979b72d */
+}</SCRIPT>
+ 
+<SCRIPT>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","ext.visualEditor.viewPageTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+}</SCRIPT>
+ <LINK href="//meta.wikimedia.org" rel="dns-prefetch"> <!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.25wmf1/skins/Vector/csshover.min.htc")}</style><![endif]--> 
+</HEAD> 
+<BODY class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-List_of_airports_by_IATA_code_W skin-vector action-view vector-animateLayout">
+<DIV class="noprint" id="mw-page-base"></DIV>
+<DIV class="noprint" id="mw-head-base"></DIV>
+<DIV class="mw-body" id="content" role="main"><A id="top"></A>							 
+<DIV id="siteNotice"><!-- CentralNotice --></DIV>
+<H1 class="firstHeading" id="firstHeading" lang="en"><SPAN dir="auto">List of 
+airports by IATA code: W</SPAN></H1>
+<DIV class="mw-body-content" id="bodyContent">
+<DIV id="siteSub">From Wikipedia, the free encyclopedia</DIV>								 
+<DIV id="contentSub"></DIV>
+<DIV class="mw-jump" id="jump-to-nav">					Jump to:					<A 
+href="#mw-navigation">navigation</A>, 					<A href="#p-search">search</A>
+				 </DIV>
+<DIV class="mw-content-ltr" id="mw-content-text" lang="en" dir="ltr">
+<P><A title="List of airports" href="/wiki/List_of_airports">List of 
+airports</A> by <A title="International Air Transport Association airport code" 
+href="/wiki/International_Air_Transport_Association_airport_code">IATA code</A>: 
+<A title="List of airports by IATA code: A" href="/wiki/List_of_airports_by_IATA_code:_A">A</A> 
+- <A title="List of airports by IATA code: B" href="/wiki/List_of_airports_by_IATA_code:_B">B</A> 
+- <A title="List of airports by IATA code: C" href="/wiki/List_of_airports_by_IATA_code:_C">C</A> 
+- <A title="List of airports by IATA code: D" href="/wiki/List_of_airports_by_IATA_code:_D">D</A> 
+- <A title="List of airports by IATA code: E" href="/wiki/List_of_airports_by_IATA_code:_E">E</A> 
+- <A title="List of airports by IATA code: F" href="/wiki/List_of_airports_by_IATA_code:_F">F</A> 
+- <A title="List of airports by IATA code: G" href="/wiki/List_of_airports_by_IATA_code:_G">G</A> 
+- <A title="List of airports by IATA code: H" href="/wiki/List_of_airports_by_IATA_code:_H">H</A> 
+- <A title="List of airports by IATA code: I" href="/wiki/List_of_airports_by_IATA_code:_I">I</A> 
+- <A title="List of airports by IATA code: J" href="/wiki/List_of_airports_by_IATA_code:_J">J</A> 
+- <A title="List of airports by IATA code: K" href="/wiki/List_of_airports_by_IATA_code:_K">K</A> 
+- <A title="List of airports by IATA code: L" href="/wiki/List_of_airports_by_IATA_code:_L">L</A> 
+- <A title="List of airports by IATA code: M" href="/wiki/List_of_airports_by_IATA_code:_M">M</A> 
+- <A title="List of airports by IATA code: N" href="/wiki/List_of_airports_by_IATA_code:_N">N</A> 
+- <A title="List of airports by IATA code: O" href="/wiki/List_of_airports_by_IATA_code:_O">O</A> 
+- <A title="List of airports by IATA code: P" href="/wiki/List_of_airports_by_IATA_code:_P">P</A> 
+- <A title="List of airports by IATA code: Q" href="/wiki/List_of_airports_by_IATA_code:_Q">Q</A> 
+- <A title="List of airports by IATA code: R" href="/wiki/List_of_airports_by_IATA_code:_R">R</A> 
+- <A title="List of airports by IATA code: S" href="/wiki/List_of_airports_by_IATA_code:_S">S</A> 
+- <A title="List of airports by IATA code: T" href="/wiki/List_of_airports_by_IATA_code:_T">T</A> 
+- <A title="List of airports by IATA code: U" href="/wiki/List_of_airports_by_IATA_code:_U">U</A> 
+- <A title="List of airports by IATA code: V" href="/wiki/List_of_airports_by_IATA_code:_V">V</A> 
+- <STRONG class="selflink">W</STRONG> - <A title="List of airports by IATA code: X" 
+href="/wiki/List_of_airports_by_IATA_code:_X">X</A> - <A title="List of airports by IATA code: Y" 
+href="/wiki/List_of_airports_by_IATA_code:_Y">Y</A> - <A title="List of airports by IATA code: Z" 
+href="/wiki/List_of_airports_by_IATA_code:_Z">Z</A></P>
+<DL>
+  <DD><I>See also: <A title="International Civil Aviation Organization airport code" 
+  href="/wiki/International_Civil_Aviation_Organization_airport_code#Prefixes">List 
+  of airports by ICAO code</A></I></DD></DL>
+<HR>
+
+<H2><SPAN class="mw-headline" id="W">W</SPAN><SPAN class="mw-editsection"><SPAN 
+class="mw-editsection-bracket">[</SPAN><A title="Edit section: W" href="/w/index.php?title=List_of_airports_by_IATA_code:_W&amp;action=edit&amp;section=1">edit</A><SPAN 
+class="mw-editsection-bracket">]</SPAN></SPAN></H2>
+<DIV class="toc plainlinks hlist" id="toc" style="clear: left;">
+<DIV id="toctitle">
+<H2><SPAN class="mw-headline" id="Contents">Contents</SPAN></H2> </DIV>
+<UL>
+  <LI><A href="#WA">WA</A> <A href="#WB">WB</A> <A href="#WC">WC</A> <A href="#WD">WD</A> 
+  <A href="#WE">WE</A> <A href="#WF">WF</A> <A href="#WG">WG</A> <A 
+  href="#WH">WH</A> <A href="#WI">WI</A> <A href="#WJ">WJ</A> <A 
+  href="#WK">WK</A> <A href="#WL">WL</A> <A href="#WM">WM</A> <A 
+  href="#WN">WN</A> <A href="#WO">WO</A> <A href="#WP">WP</A> WQ <A 
+  href="#WR">WR</A> <A href="#WS">WS</A> <A href="#WT">WT</A> <A 
+  href="#WU">WU</A> <A href="#WV">WV</A> <A href="#WW">WW</A> <A 
+  href="#WX">WX</A> <A href="#WY">WY</A> WZ</LI> </UL></DIV>
+<TABLE class="wikitable sortable" style="font-size: 95%;">
+  <TBODY>
+  <TR>
+    <TH style="width: 4em; text-align: left;">IATA</TH>
+    <TH style="width: 5em; text-align: left;"><A title="International Civil Aviation Organization airport code" 
+      href="/wiki/International_Civil_Aviation_Organization_airport_code">ICAO</A></TH>
+    <TH style="text-align: left;">Airport&nbsp;name</TH>
+    <TH style="text-align: left;">Location&nbsp;served</TH></TR>
+  <TR class="sortbottom">
+    <TH style="background: rgb(221, 221, 221); text-align: left;" 
+      colspan="4"><CITE id="WA"></CITE>-WA-</TH></TR>
+  <TR>
+    <TD>WAA</TD>
+    <TD>PAIW</TD>
+    <TD><A title="Wales Airport (Alaska)" 
+      href="/wiki/Wales_Airport_(Alaska)">Wales Airport</A> (FAA: IWK)</TD>
+    <TD><A title="Wales, Alaska" href="/wiki/Wales,_Alaska">Wales, Alaska</A>, 
+      <A title="United States" href="/wiki/United_States">United 
+States</A></TD></TR>
+  <TR>
+    <TD>WAD</TD>
+    <TD></TD>
+    <TD><A title="Andriamena Airport (page does not exist)" class="new" href="/w/index.php?title=Andriamena_Airport&amp;action=edit&amp;redlink=1">Andriamena 
+      Airport</A></TD>
+    <TD><A title="Andriamena" href="/wiki/Andriamena">Andriamena</A>, <A 
+      title="Madagascar" href="/wiki/Madagascar">Madagascar</A></TD></TR>
+  <TR>
+    <TD>WAG</TD>
+    <TD>NZWU</TD>
+    <TD><A title="Wanganui Airport" href="/wiki/Wanganui_Airport">Wanganui 
+      Airport</A></TD>
+    <TD><A title="Wanganui" class="mw-redirect" 
+      href="/wiki/Wanganui">Wanganui</A>, <A title="New Zealand" href="/wiki/New_Zealand">New 
+      Zealand</A></TD></TR>
+  <TR>
+    <TD>WAH</TD>
+    <TD>KBWP</TD>
+    <TD><A title="Harry Stern Airport" href="/wiki/Harry_Stern_Airport">Harry 
+      Stern Airport</A> (FAA: BWP)</TD>
+    <TD><A title="Wahpeton, North Dakota" 
+      href="/wiki/Wahpeton,_North_Dakota">Wahpeton, North Dakota</A>, <A title="United States" 
+      href="/wiki/United_States">United States</A></TD></TR>
+  <TR>
+    <TD>WAL</TD>
+    <TD>KWAL</TD>
+    <TD><A title="Wallops Flight Facility Airport" class="mw-redirect" href="/wiki/Wallops_Flight_Facility_Airport">Wallops 
+      Flight Facility Airport</A></TD>
+    <TD><A title="Wallops Island, Virginia" class="mw-redirect" href="/wiki/Wallops_Island,_Virginia">Wallops 
+      Island, Virginia</A>, <A title="United States" 
+      href="/wiki/United_States">United States</A></TD></TR>
+  <TR>
+    <TD>WAS</TD>
+    <TD></TD>
+    <TD>All airports</TD>
+    <TD><A title="Washington, D.C." href="/wiki/Washington,_D.C.">Washington, 
+      D.C.</A>, <A title="United States" href="/wiki/United_States">United 
+      States</A></TD></TR>
+  <TR>
+    <TD>WAT</TD>
+    <TD>EIWF</TD>
+    <TD><A title="Waterford Airport" href="/wiki/Waterford_Airport">Waterford 
+      Airport</A></TD>
+    <TD><A title="Waterford" href="/wiki/Waterford">Waterford</A>, <A title="Republic of Ireland" 
+      href="/wiki/Republic_of_Ireland">Ireland</A></TD></TR>
+  <TR>
+    <TD>WAW</TD>
+    <TD>EPWA</TD>
+    <TD><A title="Warsaw Chopin Airport" 
+      href="/wiki/Warsaw_Chopin_Airport">Frederic Chopin International 
+      Airport</A></TD>
+    <TD><A title="Warsaw" href="/wiki/Warsaw">Warsaw</A>, <A title="Poland" 
+      href="/wiki/Poland">Poland</A></TD></TR>
+  <TR>
+    <TD>WAY</TD>
+    <TD>KWAY</TD>
+    <TD><A title="Greene County Airport (Pennsylvania)" href="/wiki/Greene_County_Airport_(Pennsylvania)">Greene 
+      County Airport</A></TD>
+    <TD><A title="Waynesburg, Pennsylvania" href="/wiki/Waynesburg,_Pennsylvania">Waynesburg, 
+      Pennsylvania</A>, <A title="United States" 
+      href="/wiki/United_States">United States</A></TD></TR>
+  <TR class="sortbottom">
+    <TH style="background: rgb(221, 221, 221); text-align: left;" 
+      colspan="4"><CITE id="WB"></CITE>-WB-</TH></TR>
+  <TR>
+    <TD>WBB</TD>
+    <TD></TD>
+    <TD><A title="Stebbins Airport" href="/wiki/Stebbins_Airport">Stebbins 
+      Airport</A></TD>
+    <TD><A title="Stebbins, Alaska" href="/wiki/Stebbins,_Alaska">Stebbins, 
+      Alaska</A>, <A title="United States" href="/wiki/United_States">United 
+      States</A></TD></TR>
+  <TR>
+    <TD>WBG</TD>
+    <TD>ETNS</TD>
+    <TD><A title="Fliegerhorst Schleswig (page does not exist)" class="new" 
+      href="/w/index.php?title=Fliegerhorst_Schleswig&amp;action=edit&amp;redlink=1">Fliegerhorst 
+      Schleswig</A></TD>
+    <TD><A title="Schleswig" class="mw-redirect" 
+      href="/wiki/Schleswig">Schleswig</A>, <A title="Germany" href="/wiki/Germany">Germany</A></TD></TR>
+  <TR>
+    <TD>WBQ</TD>
+    <TD>PAWB</TD>
+    <TD><A title="Beaver Airport" href="/wiki/Beaver_Airport">Beaver 
+      Airport</A></TD>
+    <TD><A title="Beaver, Alaska" href="/wiki/Beaver,_Alaska">Beaver, 
+      Alaska</A>, <A title="United States" href="/wiki/United_States">United 
+      States</A></TD></TR>
+  <TR>
+    <TD>WBR</TD>
+    <TD>KRQB</TD>
+    <TD><A title="Roben-Hood Airport" class="mw-redirect" href="/wiki/Roben-Hood_Airport">Roben-Hood 
+      Airport</A> (FAA: RQB)</TD>
+    <TD><A title="Big Rapids, Michigan" href="/wiki/Big_Rapids,_Michigan">Big 
+      Rapids, Michigan</A>, <A title="United States" 
+      href="/wiki/United_States">United States</A></TD></TR>
+  <TR>
+    <TD>WBU</TD>
+    <TD>KBDU</TD>
+    <TD><A title="Boulder Municipal Airport" href="/wiki/Boulder_Municipal_Airport">Boulder 
+      Municipal Airport</A> (FAA: BDU)</TD>
+    <TD><A title="Boulder, Colorado" href="/wiki/Boulder,_Colorado">Boulder, 
+      Colorado</A>, <A title="United States" href="/wiki/United_States">United 
+      States</A></TD></TR>
+  <TR>
+    <TD>WBW</TD>
+    <TD>KWBW</TD>
+    <TD><A title="Wilkes-Barre Wyoming Valley Airport" href="/wiki/Wilkes-Barre_Wyoming_Valley_Airport">Wilkes-Barre 
+      Wyoming Valley Airport</A></TD>
+    <TD><A title="Wilkes-Barre, Pennsylvania" href="/wiki/Wilkes-Barre,_Pennsylvania">Wilkes-Barre, 
+      Pennsylvania</A>, <A title="United States" 
+      href="/wiki/United_States">United States</A></TD></TR>
+  <TR class="sortbottom">
+    <TH style="background: rgb(221, 221, 221); text-align: left;" 
+      colspan="4"><CITE id="WC"></CITE>-WC-</TH></TR>
+  <TR>
+    <TD>WCA</TD>
+    <TD>SCST</TD>
+    <TD><A title="Gamboa Airport" href="/wiki/Gamboa_Airport">Gamboa 
+      Airport</A></TD>
+    <TD><A title="Castro, Chile" href="/wiki/Castro,_Chile">Castro</A>, <A 
+      title="Chile" href="/wiki/Chile">Chile</A></TD></TR>
+  <TR>
+    <TD>WCH</TD>
+    <TD>SCTN</TD>
+    <TD><A title="Chaitén Airport" class="mw-redirect" href="/wiki/Chait%C3%A9n_Airport">Chaitén 
+      Airport</A></TD>
+    <TD><A title="Chaitén" href="/wiki/Chait%C3%A9n">Chaitén</A>, <A title="Los Lagos Region" 
+      href="/wiki/Los_Lagos_Region">Los Lagos</A>, <A title="Chile" href="/wiki/Chile">Chile</A></TD></TR>
+  <TR>
+    <TD>WCR</TD>
+    <TD>PALR</TD>
+    <TD><A title="Chandalar Lake Airport" 
+      href="/wiki/Chandalar_Lake_Airport">Chandalar Lake Airport</A></TD>
+    <TD><A title="Chandalar Lake" href="/wiki/Chandalar_Lake">Chandalar 
+      Lake</A>, <A title="Alaska" href="/wiki/Alaska">Alaska</A>, <A title="United States" 
+      href="/wiki/United_States">United States</A></TD></TR>
+  <TR class="sortbottom">
+    <TH style="background: rgb(221, 221, 221); text-align: left;" 
+      colspan="4"><CITE id="WD"></CITE>-WD-</TH></TR>
+  <TR>
+    <TD>WDA</TD>
+    <TD></TD>
+    <TD><A title="Wadi Ain Airport (page does not exist)" class="new" href="/w/index.php?title=Wadi_Ain_Airport&amp;action=edit&amp;redlink=1">Wadi 
+      Ain Airport</A></TD>
+    <TD><A title="Wadi Ain (page does not exist)" class="new" href="/w/index.php?title=Wadi_Ain&amp;action=edit&amp;redlink=1">Wadi 
+      Ain</A>, <A title="Yemen" href="/wiki/Yemen">Yemen</A></TD></TR>
+  <TR>
+    <TD>WDG</TD>
+    <TD>KWDG</TD>
+    <TD><A title="Enid Woodring Regional Airport" href="/wiki/Enid_Woodring_Regional_Airport">Enid 
+      Woodring Regional Airport</A></TD>
+    <TD><A title="Enid, Oklahoma" href="/wiki/Enid,_Oklahoma">Enid, 
+      Oklahoma</A>, <A title="United States" href="/wiki/United_States">United 
+      States</A></TD></TR>
+  <TR>
+    <TD>WDH</TD>
+    <TD>FYWH</TD>
+    <TD><A title="Windhoek Hosea Kutako International Airport" class="mw-redirect" 
+      href="/wiki/Windhoek_Hosea_Kutako_International_Airport">Windhoek Hosea 
+      Kutako International Airport</A></TD>
+    <TD><A title="Windhoek" href="/wiki/Windhoek">Windhoek</A>, <A title="Namibia" 
+      href="/wiki/Namibia">Namibia</A></TD></TR>
+  <TR>
+    <TD>WDR</TD>
+    <TD>KWDR</TD>
+    <TD><A title="Barrow County Airport" 
+      href="/wiki/Barrow_County_Airport">Barrow County Airport</A></TD>
+    <TD><A title="Winder, Georgia" href="/wiki/Winder,_Georgia">Winder, 
+      Georgia</A>, <A title="United States" href="/wiki/United_States">United 
+      States</A></TD></TR>
+  <TR class="sortbottom">
+    <TH style="background: rgb(221, 221, 221); text-align: left;" 
+      colspan="4"><CITE id="WE"></CITE>-WE-</TH></TR>
+  <TR>
+    <TD>WEA</TD>
+    <TD>KWEA</TD>
+    <TD><A title="Parker County Airport (page does not exist)" class="new" 
+      href="/w/index.php?title=Parker_County_Airport&amp;action=edit&amp;redlink=1">Parker 
+      County Airport</A></TD>
+    <TD><A title="Weatherford, Texas" 
+      href="/wiki/Weatherford,_Texas">Weatherford, Texas</A>, <A title="United States" 
+      href="/wiki/United_States">United States</A></TD></TR>
+  <TR>
+    <TD>WEF</TD>
+    <TD>ZSWF</TD>
+    <TD><A title="Weifang Airport" href="/wiki/Weifang_Airport">Weifang 
+      Airport</A></TD>
+    <TD><A title="Weifang" href="/wiki/Weifang">Weifang</A>, <A title="Shandong" 
+      href="/wiki/Shandong">Shandong</A>, <A title="China" 
+      href="/wiki/China">China</A></TD></TR>
+  <TR>
+    <TD>WEH</TD>
+    <TD>ZSWH</TD>
+    <TD><A title="Weihai Dashuibo Airport" href="/wiki/Weihai_Dashuibo_Airport">Weihai 
+      Dashuibo Airport</A></TD>
+    <TD><A title="Weihai" href="/wiki/Weihai">Weihai</A>, <A title="Shandong" 
+      href="/wiki/Shandong">Shandong</A>, <A title="China" 
+      href="/wiki/China">China</A></TD></TR>
+  <TR>
+    <TD>WEI</TD>
+    <TD>YBWP</TD>
+    <TD><A title="Weipa Airport" href="/wiki/Weipa_Airport">Weipa 
+    Airport</A></TD>
+    <TD><A title="Weipa, Queensland" href="/wiki/Weipa,_Queensland">Weipa, 
+      Queensland</A>, <A title="Australia" 
+    href="/wiki/Australia">Australia</A></TD></TR>
+  <TR class="sortbottom">
+    <TH style="background: rgb(221, 221, 221); text-align: left;" 
+      colspan="4"><CITE id="WF"></CITE>-WF-</TH></TR>
+  <TR>
+    <TD>WFB</TD>
+    <TD></TD>
+    <TD><A title="Ketchikan Harbor Seaplane Base" href="/wiki/Ketchikan_Harbor_Seaplane_Base">Ketchikan 
+      Harbor Seaplane Base</A> (FAA: 5KE)</TD>
+    <TD><A title="Ketchikan, Alaska" href="/wiki/Ketchikan,_Alaska">Ketchikan, 
+      Alaska</A>, <A title="United States" href="/wiki/United_States">United 
+      States</A></TD></TR>
+  <TR>
+    <TD>WFI</TD>
+    <TD>FMSF</TD>
+    <TD><A title="Fianarantsoa Airport" 
+      href="/wiki/Fianarantsoa_Airport">Fianarantsoa Airport</A></TD>
+    <TD><A title="Fianarantsoa" href="/wiki/Fianarantsoa">Fianarantsoa</A>, <A 
+      title="Madagascar" href="/wiki/Madagascar">Madagascar</A></TD></TR>
+  <TR>
+    <TD>WFK</TD>
+    <TD>KFVE</TD>
+    <TD><A title="Northern Aroostook Regional Airport" href="/wiki/Northern_Aroostook_Regional_Airport">Northern 
+      Aroostook Regional Airport</A> (FAA: FVE)</TD>
+    <TD><A title="Frenchville, Maine" 
+      href="/wiki/Frenchville,_Maine">Frenchville, Maine</A>, <A title="United States" 
+      href="/wiki/United_States">United States</A></TD></TR>
+  <TR class="sortbottom">
+    <TH style="background: rgb(221, 221, 221); text-align: left;" 
+      colspan="4"><CITE id="WG"></CITE>-WG-</TH></TR>
+  <TR>
+    <TD>WGA</TD>
+    <TD>YSWG</TD>
+    <TD><A title="Wagga Wagga Airport" href="/wiki/Wagga_Wagga_Airport">Wagga 
+      Wagga Airport</A></TD>
+    <TD><A title="Wagga Wagga, New South Wales" class="mw-redirect" href="/wiki/Wagga_Wagga,_New_South_Wales">Wagga 
+      Wagga, New South Wales</A>, <A title="Australia" 
+      href="/wiki/Australia">Australia</A></TD></TR>
+  <TR>
+    <TD>WGB</TD>
+    <TD>OPBR</TD>
+    <TD><A title="Bahawalnagar Airport (page does not exist)" class="new" 
+      href="/w/index.php?title=Bahawalnagar_Airport&amp;action=edit&amp;redlink=1">Bahawalnagar 
+      Airport</A></TD>
+    <TD><A title="Bahawalnagar" href="/wiki/Bahawalnagar">Bahawalnagar</A>, <A 
+      title="Pakistan" href="/wiki/Pakistan">Pakistan</A></TD></TR>
+  <TR>
+    <TD>WGO</TD>
+    <TD>KOKV</TD>
+    <TD><A title="Winchester Regional Airport" href="/wiki/Winchester_Regional_Airport">Winchester 
+      Regional Airport</A> (FAA: OKV)</TD>
+    <TD><A title="Winchester, Virginia" 
+      href="/wiki/Winchester,_Virginia">Winchester, Virginia</A>, <A title="United States" 
+      href="/wiki/United_States">United States</A></TD></TR>
+  <TR>
+    <TD>WGP</TD>
+    <TD>WADW</TD>
+    <TD><A title="Mau Hau Airport" href="/wiki/Mau_Hau_Airport">Mau Hau 
+      Airport</A> (former ICAO: WRRW)</TD>
+    <TD><A title="Waingapu" href="/wiki/Waingapu">Waingapu</A>, <A title="Sumba" 
+      href="/wiki/Sumba">Sumba</A>, <A title="East Nusa Tenggara" href="/wiki/East_Nusa_Tenggara">East 
+      Nusa Tenggara</A>, <A title="Indonesia" 
+      href="/wiki/Indonesia">Indonesia</A></TD></TR>
+  <TR class="sortbottom">
+    <TH style="background: rgb(221, 221, 221); text-align: left;" 
+      colspan="4"><CITE id="WH"></CITE>-WH-</TH></TR>
+  <TR>
+    <TD>WHD</TD>
+    <TD></TD>
+    <TD><A title="Hyder Seaplane Base" href="/wiki/Hyder_Seaplane_Base">Hyder 
+      Seaplane Base</A> (FAA: 4Z7)</TD>
+    <TD><A title="Hyder, Alaska" href="/wiki/Hyder,_Alaska">Hyder, Alaska</A>, 
+      <A title="United States" href="/wiki/United_States">United 
+States</A></TD></TR>
+  <TR>
+    <TD>WHF</TD>
+    <TD>HWHF</TD>
+    <TD><A title="Wadi Halfa Airport" href="/wiki/Wadi_Halfa_Airport">Wadi 
+      Halfa Airport</A></TD>
+    <TD><A title="Wadi Halfa" href="/wiki/Wadi_Halfa">Wadi Halfa</A>, <A 
+      title="Sudan" href="/wiki/Sudan">Sudan</A></TD></TR>
+  <TR>
+    <TD>WHK</TD>
+    <TD>NZWK</TD>
+    <TD><A title="Whakatane Airport" href="/wiki/Whakatane_Airport">Whakatane 
+      Airport</A></TD>
+    <TD><A title="Whakatane" href="/wiki/Whakatane">Whakatane</A>, <A title="New Zealand" 
+      href="/wiki/New_Zealand">New Zealand</A></TD></TR>
+  <TR>
+    <TD>WHP</TD>
+    <TD>KWHP</TD>
+    <TD><A title="Whiteman Airport" href="/wiki/Whiteman_Airport">Whiteman 
+      Airport</A></TD>
+    <TD><A title="Los Angeles, California" class="mw-redirect" href="/wiki/Los_Angeles,_California">Los 
+      Angeles, California</A>, <A title="United States" href="/wiki/United_States">United 
+      States</A></TD></TR>
+  <TR>
+    <TD>WHT</TD>
+    <TD>KARM</TD>
+    <TD><A title="Wharton Regional Airport" href="/wiki/Wharton_Regional_Airport">Wharton 
+      Regional Airport</A> (FAA: ARM)</TD>
+    <TD><A title="Wharton, Texas" href="/wiki/Wharton,_Texas">Wharton, 
+      Texas</A>, <A title="United States" href="/wiki/United_States">United 
+      States</A></TD></TR>
+  <TR class="sortbottom">
+    <TH style="background: rgb(221, 221, 221); text-align: left;" 
+      colspan="4"><CITE id="WI"></CITE>-WI-</TH></TR>
+  <TR>
+    <TD>WIC</TD>
+    <TD>EGPC</TD>
+    <TD><A title="Wick Airport" href="/wiki/Wick_Airport">Wick Airport</A></TD>
+    <TD><A title="Wick, Highland" href="/wiki/Wick,_Highland">Wick</A>, <A 
+      title="Scotland" href="/wiki/Scotland">Scotland</A>, <A title="United Kingdom" 
+      href="/wiki/United_Kingdom">United Kingdom</A></TD></TR>
+  <TR>
+    <TD>WIE</TD>
+    <TD>ETOU</TD>
+    <TD><A title="Wiesbaden Army Airfield" class="mw-redirect" href="/wiki/Wiesbaden_Army_Airfield">Wiesbaden 
+      Army Airfield</A></TD>
+    <TD><A title="Wiesbaden" href="/wiki/Wiesbaden">Wiesbaden</A>, <A title="Hessen" 
+      class="mw-redirect" href="/wiki/Hessen">Hessen</A>, <A title="Germany" 
+      href="/wiki/Germany">Germany</A></TD></TR>
+  <TR>
+    <TD>WIL</TD>
+    <TD>HKNW</TD>
+    <TD><A title="Wilson Airport (Kenya)" 
+      href="/wiki/Wilson_Airport_(Kenya)">Wilson Airport</A></TD>
+    <TD><A title="Nairobi" href="/wiki/Nairobi">Nairobi</A>, <A title="Kenya" 
+      href="/wiki/Kenya">Kenya</A></TD></TR>
+  <TR class="sortbottom">
+    <TH style="background: rgb(221, 221, 221); text-align: left;" 
+      colspan="4"><CITE id="WJ"></CITE>-WJ-</TH></TR>
+  <TR>
+    <TD>WJA</TD>
+    <TD></TD>
+    <TD><A title="Woja Airport" href="/wiki/Woja_Airport">Woja Airport</A></TD>
+    <TD><A title="Woja (page does not exist)" class="new" href="/w/index.php?title=Woja&amp;action=edit&amp;redlink=1">Woja</A>, 
+      <A title="Marshall Islands" href="/wiki/Marshall_Islands">Marshall 
+      Islands</A></TD></TR>
+  <TR>
+    <TD>WJF</TD>
+    <TD>KWJF</TD>
+    <TD><A title="General William J. Fox Airfield" href="/wiki/General_William_J._Fox_Airfield">General 
+      William J. Fox Airfield</A></TD>
+    <TD><A title="Lancaster, California" 
+      href="/wiki/Lancaster,_California">Lancaster, California</A>, <A title="United States" 
+      href="/wiki/United_States">United States</A></TD></TR>
+  <TR>
+    <TD>WJU</TD>
+    <TD>RKNW</TD>
+    <TD><A title="Wonju Airport" href="/wiki/Wonju_Airport">Wonju 
+    Airport</A></TD>
+    <TD><A title="Wonju" href="/wiki/Wonju">Wonju</A>, <A title="South Korea" 
+      href="/wiki/South_Korea">South Korea</A></TD></TR>
+  <TR class="sortbottom">
+    <TH style="background: rgb(221, 221, 221); text-align: left;" 
+      colspan="4"><CITE id="WK"></CITE>-WK-</TH></TR>
+  <TR>
+    <TD>WKA</TD>
+    <TD>NZWF</TD>
+    <TD><A title="Wanaka Airport" href="/wiki/Wanaka_Airport">Wanaka 
+      Airport</A></TD>
+    <TD><A title="Wanaka" href="/wiki/Wanaka">Wanaka</A>, <A title="New Zealand" 
+      href="/wiki/New_Zealand">New Zealand</A></TD></TR>
+  <TR>
+    <TD>WKJ</TD>
+    <TD>RJCW</TD>
+    <TD><A title="Wakkanai Airport" href="/wiki/Wakkanai_Airport">Wakkanai 
+      Airport</A></TD>
+    <TD><A title="Wakkanai" class="mw-redirect" 
+      href="/wiki/Wakkanai">Wakkanai</A>, <A title="Hokkaido" href="/wiki/Hokkaido">Hokkaido</A>, 
+      <A title="Japan" href="/wiki/Japan">Japan</A></TD></TR>
+  <TR>
+    <TD>WKK</TD>
+    <TD></TD>
+    <TD><A title="Aleknagik Airport" href="/wiki/Aleknagik_Airport">Aleknagik 
+      Airport</A> (FAA: 5A8)</TD>
+    <TD><A title="Aleknagik, Alaska" href="/wiki/Aleknagik,_Alaska">Aleknagik, 
+      Alaska</A>, <A title="United States" href="/wiki/United_States">United 
+      States</A></TD></TR>
+  <TR>
+    <TD>WKL</TD>
+    <TD></TD>
+    <TD><A title="Waikoloa Heliport (page does not exist)" class="new" href="/w/index.php?title=Waikoloa_Heliport&amp;action=edit&amp;redlink=1">Waikoloa 
+      Heliport</A> (FAA: HI07)</TD>
+    <TD><A title="Waikoloa Village, Hawaii" href="/wiki/Waikoloa_Village,_Hawaii">Waikoloa 
+      Village, Hawaii</A>, <A title="United States" 
+      href="/wiki/United_States">United States</A></TD></TR>
+  <TR class="sortbottom">
+    <TH style="background: rgb(221, 221, 221); text-align: left;" 
+      colspan="4"><CITE id="WL"></CITE>-WL-</TH></TR>
+  <TR>
+    <TD>WLD</TD>
+    <TD>KWLD</TD>
+    <TD><A title="Strother Field" href="/wiki/Strother_Field">Strother 
+      Field</A></TD>
+    <TD><A title="Winfield, Kansas" 
+      href="/wiki/Winfield,_Kansas">Winfield</A>/<A title="Arkansas City, Kansas" 
+      href="/wiki/Arkansas_City,_Kansas">Arkansas City, Kansas</A>, <A title="United States" 
+      href="/wiki/United_States">United States</A></TD></TR>
+  <TR>
+    <TD>WLE</TD>
+    <TD></TD>
+    <TD><A title="Miles Airport" href="/wiki/Miles_Airport">Miles 
+    Airport</A></TD>
+    <TD><A title="Miles, Queensland" href="/wiki/Miles,_Queensland">Miles, 
+      Queensland</A>, <A title="Australia" 
+    href="/wiki/Australia">Australia</A></TD></TR>
+  <TR>
+    <TD>WLG</TD>
+    <TD>NZWN</TD>
+    <TD><A title="Wellington International Airport" href="/wiki/Wellington_International_Airport">Wellington 
+      International Airport</A></TD>
+    <TD><A title="Wellington, New Zealand" class="mw-redirect" href="/wiki/Wellington,_New_Zealand">Wellington</A>, 
+      <A title="New Zealand" href="/wiki/New_Zealand">New Zealand</A></TD></TR>
+  <TR>
+    <TD>WLK</TD>
+    <TD>PASK</TD>
+    <TD><A title="Selawik Airport" href="/wiki/Selawik_Airport">Selawik 
+      Airport</A></TD>
+    <TD><A title="Selawik, Alaska" href="/wiki/Selawik,_Alaska">Selawik, 
+      Alaska</A>, <A title="United States" href="/wiki/United_States">United 
+      States</A></TD></TR>
+  <TR>
+    <TD>WLL</TD>
+    <TD>YWOR</TD>
+    <TD><A title="Wollogorang Airport (page does not exist)" class="new" href="/w/index.php?title=Wollogorang_Airport&amp;action=edit&amp;redlink=1">Wollogorang 
+      Airport</A></TD>
+    <TD><A title="Wollogorang Station" 
+      href="/wiki/Wollogorang_Station">Wollogorang Station</A>, <A title="Northern Territory" 
+      href="/wiki/Northern_Territory">Northern Territory</A>, <A title="Australia" 
+      href="/wiki/Australia">Australia</A></TD></TR>
+  <TR>
+    <TD>WLM</TD>
+    <TD></TD>
+    <TD><A title="Prospect Hill Heliport (page does not exist)" class="new" 
+      href="/w/index.php?title=Prospect_Hill_Heliport&amp;action=edit&amp;redlink=1">Prospect 
+      Hill Heliport</A> (FAA: MA92)</TD>
+    <TD><A title="Waltham, Massachusetts" 
+      href="/wiki/Waltham,_Massachusetts">Waltham, Massachusetts</A>, <A title="United States" 
+      href="/wiki/United_States">United States</A></TD></TR>
+  <TR>
+    <TD>WLO</TD>
+    <TD>YWTL</TD>
+    <TD><A title="Waterloo Airport (Australia) (page does not exist)" class="new" 
+      href="/w/index.php?title=Waterloo_Airport_(Australia)&amp;action=edit&amp;redlink=1">Waterloo 
+      Airport</A></TD>
+    <TD><A title="Waterloo, Northern Territory (page does not exist)" class="new" 
+      href="/w/index.php?title=Waterloo,_Northern_Territory&amp;action=edit&amp;redlink=1">Waterloo</A>, 
+      <A title="Northern Territory" href="/wiki/Northern_Territory">Northern 
+      Territory</A>, <A title="Australia" 
+  href="/wiki/Australia">Australia</A></TD></TR>
+  <TR>
+    <TD>WLR</TD>
+    <TD></TD>
+    <TD><A title="Loring Seaplane Base (page does not exist)" class="new" 
+      href="/w/index.php?title=Loring_Seaplane_Base&amp;action=edit&amp;redlink=1">Loring 
+      Seaplane Base</A> (FAA: 13Z)</TD>
+    <TD><A title="Loring, Alaska" href="/wiki/Loring,_Alaska">Loring</A>, <A 
+      title="Alaska" href="/wiki/Alaska">Alaska</A>, <A title="United States" 
+      href="/wiki/United_States">United States</A></TD></TR>
+  <TR>
+    <TD>WLS</TD>
+    <TD>NLWW</TD>
+    <TD><A title="Wallis Island" class="mw-redirect" href="/wiki/Wallis_Island">Wallis 
+      Island</A></TD>
+    <TD><A title="Wallis and Futuna Islands" class="mw-redirect" href="/wiki/Wallis_and_Futuna_Islands">Wallis 
+      and Futuna Islands</A></TD></TR>
+  <TR>
+    <TD>WLW</TD>
+    <TD>KWLW</TD>
+    <TD><A title="Willows-Glenn County Airport" href="/wiki/Willows-Glenn_County_Airport">Willows-Glenn 
+      County Airport</A></TD>
+    <TD><A title="Willows, California" 
+      href="/wiki/Willows,_California">Willows, California</A>, <A title="United States" 
+      href="/wiki/United_States">United States</A></TD></TR>
+  <TR class="sortbottom">
+    <TH style="background: rgb(221, 221, 221); text-align: left;" 
+      colspan="4"><CITE id="WM"></CITE>-WM-</TH></TR>
+  <TR>
+    <TD>WMA</TD>
+    <TD>FMNX</TD>
+    <TD><A title="Mandritsara Airport" 
+      href="/wiki/Mandritsara_Airport">Mandritsara Airport</A></TD>
+    <TD><A title="Mandritsara" href="/wiki/Mandritsara">Mandritsara</A>, <A 
+      title="Madagascar" href="/wiki/Madagascar">Madagascar</A></TD></TR>
+  <TR>
+    <TD>WMB</TD>
+    <TD>YWBL</TD>
+    <TD><A title="Warrnambool Airport" 
+      href="/wiki/Warrnambool_Airport">Warrnambool Airport</A></TD>
+    <TD><A title="Warrnambool, Victoria" class="mw-redirect" href="/wiki/Warrnambool,_Victoria">Warrnambool, 
+      Victoria</A>, <A title="Australia" 
+  href="/wiki/Australia">Australia</A></TD></TR>
+  <TR>
+    <TD>WMC</TD>
+    <TD>KWMC</TD>
+    <TD><A title="Winnemucca Municipal Airport" href="/wiki/Winnemucca_Municipal_Airport">Winnemucca 
+      Municipal Airport</A></TD>
+    <TD><A title="Winnemucca, Nevada" 
+      href="/wiki/Winnemucca,_Nevada">Winnemucca, Nevada</A>, <A title="United States" 
+      href="/wiki/United_States">United States</A></TD></TR>
+  <TR>
+    <TD>WME</TD>
+    <TD>YMNE</TD>
+    <TD><A title="Mount Keith Airport" href="/wiki/Mount_Keith_Airport">Mount 
+      Keith Airport</A></TD>
+    <TD><A title="Mount Keith, Western Australia" class="mw-redirect" href="/wiki/Mount_Keith,_Western_Australia">Mount 
+      Keith, Western Australia</A>, <A title="Australia" 
+      href="/wiki/Australia">Australia</A></TD></TR>
+  <TR>
+    <TD>WMH</TD>
+    <TD>KBPK</TD>
+    <TD><A title="Ozark Regional Airport" 
+      href="/wiki/Ozark_Regional_Airport">Ozark Regional Airport</A> (FAA: 
+    BPK)</TD>
+    <TD><A title="Mountain Home, Arkansas" href="/wiki/Mountain_Home,_Arkansas">Mountain 
+      Home, Arkansas</A>, <A title="United States" 
+      href="/wiki/United_States">United States</A></TD></TR>
+  <TR>
+    <TD>WMI</TD>
+    <TD>EPMO</TD>
+    <TD><A title="Modlin Airport" class="mw-redirect" href="/wiki/Modlin_Airport">Modlin 
+      Airport</A></TD>
+    <TD><A title="Warsaw" href="/wiki/Warsaw">Warsaw</A>, <A title="Poland" 
+      href="/wiki/Poland">Poland</A></TD></TR>
+  <TR>
+    <TD>WMK</TD>
+    <TD></TD>
+    <TD><A title="Meyers Chuck Seaplane Base (page does not exist)" class="new" 
+      href="/w/index.php?title=Meyers_Chuck_Seaplane_Base&amp;action=edit&amp;redlink=1">Meyers 
+      Chuck Seaplane Base</A> (FAA: 84K)</TD>
+    <TD><A title="Meyers Chuck, Alaska" class="mw-redirect" href="/wiki/Meyers_Chuck,_Alaska">Meyers 
+      Chuck, Alaska</A>, <A title="United States" 
+      href="/wiki/United_States">United States</A></TD></TR>
+  <TR>
+    <TD>WML</TD>
+    <TD>FMMC</TD>
+    <TD><A title="Malaimbandy Airport (page does not exist)" class="new" href="/w/index.php?title=Malaimbandy_Airport&amp;action=edit&amp;redlink=1">Malaimbandy 
+      Airport</A></TD>
+    <TD><A title="Malaimbandy" href="/wiki/Malaimbandy">Malaimbandy</A>, <A 
+      title="Madagascar" href="/wiki/Madagascar">Madagascar</A></TD></TR>
+  <TR>
+    <TD>WMO</TD>
+    <TD>PAWM</TD>
+    <TD><A title="White Mountain Airport" 
+      href="/wiki/White_Mountain_Airport">White Mountain Airport</A></TD>
+    <TD><A title="White Mountain, Alaska" 
+      href="/wiki/White_Mountain,_Alaska">White Mountain, Alaska</A>, <A title="United States" 
+      href="/wiki/United_States">United States</A></TD></TR>
+  <TR class="sortbottom">
+    <TH style="background: rgb(221, 221, 221); text-align: left;" 
+      colspan="4"><CITE id="WN"></CITE>-WN-</TH></TR>
+  <TR>
+    <TD>WNA</TD>
+    <TD>PANA</TD>
+    <TD><A title="Napakiak Airport" href="/wiki/Napakiak_Airport">Napakiak 
+      Airport</A></TD>
+    <TD><A title="Napakiak, Alaska" href="/wiki/Napakiak,_Alaska">Napakiak, 
+      Alaska</A>, <A title="United States" href="/wiki/United_States">United 
+      States</A></TD></TR>
+  <TR>
+    <TD>WNC</TD>
+    <TD></TD>
+    <TD><A title="Naukati Bay Seaplane Base" href="/wiki/Naukati_Bay_Seaplane_Base">Naukati 
+      Bay Seaplane Base</A> (FAA: AK62)</TD>
+    <TD><A title="Tuxekan Island (page does not exist)" class="new" href="/w/index.php?title=Tuxekan_Island&amp;action=edit&amp;redlink=1">Tuxekan 
+      Island</A>, <A title="Alaska" href="/wiki/Alaska">Alaska</A>, <A title="United States" 
+      href="/wiki/United_States">United States</A></TD></TR>
+  <TR>
+    <TD>WNH</TD>
+    <TD>ZPWS</TD>
+    <TD><A title="Wenshan Airport" class="mw-redirect" href="/wiki/Wenshan_Airport">Wenshan 
+      Airport</A></TD>
+    <TD><A title="Wenshan" class="mw-disambig" 
+      href="/wiki/Wenshan">Wenshan</A>, <A title="Yunnan" 
+      href="/wiki/Yunnan">Yunnan</A>, <A title="China" 
+      href="/wiki/China">China</A></TD></TR>
+  <TR>
+    <TD>WNP</TD>
+    <TD>RPUN</TD>
+    <TD><A title="Naga Airport" href="/wiki/Naga_Airport">Naga Airport</A> 
+      (Pili Airport)</TD>
+    <TD><A title="Pili, Camarines Sur" 
+      href="/wiki/Pili,_Camarines_Sur">Pili</A>, <A title="Camarines Sur" href="/wiki/Camarines_Sur">Camarines 
+      Sur</A>, <A title="Philippines" 
+  href="/wiki/Philippines">Philippines</A></TD></TR>
+  <TR>
+    <TD>WNZ</TD>
+    <TD>ZSWZ</TD>
+    <TD><A title="Wenzhou Yongqiang Airport" class="mw-redirect" href="/wiki/Wenzhou_Yongqiang_Airport">Wenzhou 
+      Yongqiang Airport</A></TD>
+    <TD><A title="Wenzhou" href="/wiki/Wenzhou">Wenzhou</A>, <A title="Zhejiang" 
+      href="/wiki/Zhejiang">Zhejiang</A>, <A title="China" 
+      href="/wiki/China">China</A></TD></TR>
+  <TR class="sortbottom">
+    <TH style="background: rgb(221, 221, 221); text-align: left;" 
+      colspan="4"><CITE id="WO"></CITE>-WO-</TH></TR>
+  <TR>
+    <TD>WOE</TD>
+    <TD>EHWO</TD>
+    <TD><A title="Woensdrecht Air Base" 
+      href="/wiki/Woensdrecht_Air_Base">Woensdrecht Air Base</A></TD>
+    <TD><A title="Woensdrecht" href="/wiki/Woensdrecht">Woensdrecht</A>, <A 
+      title="Netherlands" href="/wiki/Netherlands">Netherlands</A></TD></TR>
+  <TR>
+    <TD>WOL</TD>
+    <TD>YWOL</TD>
+    <TD><A title="Illawarra Regional Airport" href="/wiki/Illawarra_Regional_Airport">Illawarra 
+      Regional Airport</A> (Wollongong Airport)</TD>
+    <TD><A title="Shellharbour" class="mw-redirect" 
+      href="/wiki/Shellharbour">Shellharbour</A>, <A title="Wollongong, New South Wales" 
+      class="mw-redirect" href="/wiki/Wollongong,_New_South_Wales">Wollongong, 
+      New South Wales</A>, <A title="Australia" 
+      href="/wiki/Australia">Australia</A></TD></TR>
+  <TR>
+    <TD>WOT</TD>
+    <TD>RCWA</TD>
+    <TD><A title="Wang-an Airport" href="/wiki/Wang-an_Airport">Wang-an 
+      Airport</A></TD>
+    <TD><A title="Wang-an, Penghu" href="/wiki/Wang-an,_Penghu">Wang-an</A>, 
+      <A title="Penghu" href="/wiki/Penghu">Penghu</A> (Pescadores), <A title="Republic of China" 
+      class="mw-redirect" href="/wiki/Republic_of_China">Republic of 
+  China</A></TD></TR>
+  <TR>
+    <TD>WOW</TD>
+    <TD>PAUO</TD>
+    <TD><A title="Willow Airport" href="/wiki/Willow_Airport">Willow 
+      Airport</A> (FAA: UUO)</TD>
+    <TD><A title="Willow, Alaska" href="/wiki/Willow,_Alaska">Willow, 
+      Alaska</A>, <A title="United States" href="/wiki/United_States">United 
+      States</A></TD></TR>
+  <TR class="sortbottom">
+    <TH style="background: rgb(221, 221, 221); text-align: left;" 
+      colspan="4"><CITE id="WP"></CITE>-WP-</TH></TR>
+  <TR>
+    <TD>WPA</TD>
+    <TD>SCAS</TD>
+    <TD><A title="Puerto Aisén Airport (page does not exist)" class="new" 
+      href="/w/index.php?title=Puerto_Ais%C3%A9n_Airport&amp;action=edit&amp;redlink=1">Puerto 
+      Aisén Airport</A></TD>
+    <TD><A title="Puerto Aisén" class="mw-redirect" href="/wiki/Puerto_Ais%C3%A9n">Puerto 
+      Aisén</A>, <A title="Chile" href="/wiki/Chile">Chile</A></TD></TR>
+  <TR>
+    <TD>WPB</TD>
+    <TD>FMNG</TD>
+    <TD><A title="Port Bergé Airport" 
+      href="/wiki/Port_Berg%C3%A9_Airport">Port Bergé Airport</A></TD>
+    <TD><A title="Port Bergé" class="mw-redirect" 
+      href="/wiki/Port_Berg%C3%A9">Port Bergé</A>, <A title="Madagascar" href="/wiki/Madagascar">Madagascar</A></TD></TR>
+  <TR>
+    <TD>WPC</TD>
+    <TD>CZPC</TD>
+    <TD><A title="Pincher Creek Airport" 
+      href="/wiki/Pincher_Creek_Airport">Pincher Creek Airport</A></TD>
+    <TD><A title="Pincher Creek" href="/wiki/Pincher_Creek">Pincher Creek</A>, 
+      <A title="Alberta" href="/wiki/Alberta">Alberta</A>, <A title="Canada" 
+      href="/wiki/Canada">Canada</A></TD></TR>
+  <TR>
+    <TD>WPO</TD>
+    <TD></TD>
+    <TD><A title="North Fork Valley Airport (page does not exist)" class="new" 
+      href="/w/index.php?title=North_Fork_Valley_Airport&amp;action=edit&amp;redlink=1">North 
+      Fork Valley Airport</A> (FAA: 7V2)</TD>
+    <TD><A title="Paonia, Colorado" href="/wiki/Paonia,_Colorado">Paonia, 
+      Colorado</A>, <A title="United States" href="/wiki/United_States">United 
+      States</A></TD></TR>
+  <TR class="sortbottom">
+    <TH style="background: rgb(221, 221, 221); text-align: left;" 
+      colspan="4"><CITE id="WR"></CITE>-WR-</TH></TR>
+  <TR>
+    <TD>WRB</TD>
+    <TD>KWRB</TD>
+    <TD><A title="Robins Air Force Base" 
+      href="/wiki/Robins_Air_Force_Base">Robins Air Force Base</A></TD>
+    <TD><A title="Warner Robins, Georgia" 
+      href="/wiki/Warner_Robins,_Georgia">Warner Robins, Georgia</A>, <A title="United States" 
+      href="/wiki/United_States">United States</A></TD></TR>
+  <TR>
+    <TD>WRE</TD>
+    <TD>NZWR</TD>
+    <TD><A title="Whangarei Airport" href="/wiki/Whangarei_Airport">Whangarei 
+      Airport</A></TD>
+    <TD><A title="Whangarei" href="/wiki/Whangarei">Whangarei</A>, <A title="New Zealand" 
+      href="/wiki/New_Zealand">New Zealand</A></TD></TR>
+  <TR>
+    <TD>WRG</TD>
+    <TD>PAWG</TD>
+    <TD><A title="Wrangell Airport" href="/wiki/Wrangell_Airport">Wrangell 
+      Airport</A></TD>
+    <TD><A title="Wrangell, Alaska" href="/wiki/Wrangell,_Alaska">Wrangell, 
+      Alaska</A>, <A title="United States" href="/wiki/United_States">United 
+      States</A></TD></TR>
+  <TR>
+    <TD>WRI</TD>
+    <TD>KWRI</TD>
+    <TD><A title="McGuire Air Force Base" 
+      href="/wiki/McGuire_Air_Force_Base">McGuire Air Force Base</A></TD>
+    <TD><A title="Wrightstown, New Jersey" href="/wiki/Wrightstown,_New_Jersey">Wrightstown, 
+      New Jersey</A>, <A title="United States" href="/wiki/United_States">United 
+      States</A></TD></TR>
+  <TR>
+    <TD>WRL</TD>
+    <TD>KWRL</TD>
+    <TD><A title="Worland Municipal Airport" href="/wiki/Worland_Municipal_Airport">Worland 
+      Municipal Airport</A></TD>
+    <TD><A title="Worland, Wyoming" href="/wiki/Worland,_Wyoming">Worland, 
+      Wyoming</A>, <A title="United States" href="/wiki/United_States">United 
+      States</A></TD></TR>
+  <TR>
+    <TD>WRN</TD>
+    <TD></TD>
+    <TD><A title="Windarling Airport" 
+      href="/wiki/Windarling_Airport">Windarling Airport</A></TD>
+    <TD><A title="Windarling (page does not exist)" class="new" href="/w/index.php?title=Windarling&amp;action=edit&amp;redlink=1">Windarling</A>, 
+      <A title="Australia" href="/wiki/Australia">Australia</A></TD></TR>
+  <TR>
+    <TD>WRO</TD>
+    <TD>EPWR</TD>
+    <TD><A title="Copernicus Airport Wroclaw" class="mw-redirect" href="/wiki/Copernicus_Airport_Wroclaw">Copernicus 
+      Airport Wroclaw</A></TD>
+    <TD><A title="Wroclaw" class="mw-redirect" 
+      href="/wiki/Wroclaw">Wroclaw</A>, <A title="Poland" 
+      href="/wiki/Poland">Poland</A></TD></TR>
+  <TR>
+    <TD>WRT</TD>
+    <TD>EGNO</TD>
+    <TD><A title="Warton Aerodrome" href="/wiki/Warton_Aerodrome">Warton 
+      Aerodrome</A></TD>
+    <TD><A title="Warton, Fylde" href="/wiki/Warton,_Fylde">Warton</A>, <A 
+      title="Lancashire" href="/wiki/Lancashire">Lancashire</A>, <A title="England" 
+      href="/wiki/England">England</A>, <A title="United Kingdom" href="/wiki/United_Kingdom">United 
+      Kingdom</A></TD></TR>
+  <TR>
+    <TD>WRW</TD>
+    <TD></TD>
+    <TD>All airports in <A title="Warsaw" href="/wiki/Warsaw">Warsaw</A></TD>
+    <TD><A title="Warsaw" href="/wiki/Warsaw">Warsaw</A>, <A title="Poland" 
+      href="/wiki/Poland">Poland</A></TD></TR>
+  <TR>
+    <TD>WRZ</TD>
+    <TD>VCCW</TD>
+    <TD><A title="Weerawila Airport" href="/wiki/Weerawila_Airport">Weerawila 
+      Airport</A></TD>
+    <TD><A title="Weerawila" class="mw-redirect" 
+      href="/wiki/Weerawila">Weerawila</A>, <A title="Sri Lanka" href="/wiki/Sri_Lanka">Sri 
+      Lanka</A></TD></TR>
+  <TR class="sortbottom">
+    <TH style="background: rgb(221, 221, 221); text-align: left;" 
+      colspan="4"><CITE id="WS"></CITE>-WS-</TH></TR>
+  <TR>
+    <TD>WSD</TD>
+    <TD>KWSD</TD>
+    <TD><A title="Condron Army Airfield (page does not exist)" class="new" 
+      href="/w/index.php?title=Condron_Army_Airfield&amp;action=edit&amp;redlink=1">Condron 
+      Army Airfield</A></TD>
+    <TD><A title="White Sands, New Mexico" href="/wiki/White_Sands,_New_Mexico">White 
+      Sands, New Mexico</A>, <A title="United States" 
+      href="/wiki/United_States">United States</A></TD></TR>
+  <TR>
+    <TD>WSG</TD>
+    <TD>KAFJ</TD>
+    <TD><A title="Washington County Airport (Pennsylvania)" href="/wiki/Washington_County_Airport_(Pennsylvania)">Washington 
+      County Airport</A> (FAA: AFJ)</TD>
+    <TD><A title="Washington, Pennsylvania" href="/wiki/Washington,_Pennsylvania">Washington, 
+      Pennsylvania</A>, <A title="United States" 
+      href="/wiki/United_States">United States</A></TD></TR>
+  <TR>
+    <TD>WSH</TD>
+    <TD>KHWV</TD>
+    <TD><A title="Brookhaven Airport" 
+      href="/wiki/Brookhaven_Airport">Brookhaven Airport</A> (FAA: HWV)</TD>
+    <TD><A title="Shirley, New York" href="/wiki/Shirley,_New_York">Shirley, 
+      New York</A>, <A title="United States" href="/wiki/United_States">United 
+      States</A></TD></TR>
+  <TR>
+    <TD>WSM</TD>
+    <TD></TD>
+    <TD><A title="Wiseman Airport (page does not exist)" class="new" href="/w/index.php?title=Wiseman_Airport&amp;action=edit&amp;redlink=1">Wiseman 
+      Airport</A></TD>
+    <TD><A title="Wiseman, Alaska" href="/wiki/Wiseman,_Alaska">Wiseman, 
+      Alaska</A>, <A title="United States" href="/wiki/United_States">United 
+      States</A></TD></TR>
+  <TR>
+    <TD>WSN</TD>
+    <TD>PFWS</TD>
+    <TD><A title="South Naknek Nr 2 Airport" class="mw-redirect" href="/wiki/South_Naknek_Nr_2_Airport">South 
+      Naknek Nr 2 Airport</A></TD>
+    <TD><A title="South Naknek, Alaska" 
+      href="/wiki/South_Naknek,_Alaska">South Naknek, Alaska</A>, <A title="United States" 
+      href="/wiki/United_States">United States</A></TD></TR>
+  <TR>
+    <TD>WSO</TD>
+    <TD></TD>
+    <TD><A title="Washabo Airport" href="/wiki/Washabo_Airport">Washabo 
+      Airport</A></TD>
+    <TD><A title="Washabo (page does not exist)" class="new" href="/w/index.php?title=Washabo&amp;action=edit&amp;redlink=1">Washabo</A>, 
+      <A title="Suriname" href="/wiki/Suriname">Suriname</A></TD></TR>
+  <TR>
+    <TD>WSP</TD>
+    <TD>MNWP</TD>
+    <TD><A title="Waspam Airport" href="/wiki/Waspam_Airport">Waspam 
+      Airport</A></TD>
+    <TD><A title="Waspam" href="/wiki/Waspam">Waspam</A>, <A title="Nicaragua" 
+      href="/wiki/Nicaragua">Nicaragua</A></TD></TR>
+  <TR>
+    <TD>WST</TD>
+    <TD>KWST</TD>
+    <TD><A title="Westerly Airport (page does not exist)" class="new" href="/w/index.php?title=Westerly_Airport&amp;action=edit&amp;redlink=1">Westerly 
+      Airport</A></TD>
+    <TD><A title="Westerly" class="mw-disambig" 
+      href="/wiki/Westerly">Westerly</A>, <A title="Rhode Island" href="/wiki/Rhode_Island">Rhode 
+      Island</A>, <A title="United States" href="/wiki/United_States">United 
+      States</A></TD></TR>
+  <TR>
+    <TD>WSY</TD>
+    <TD>YWHI</TD>
+    <TD><A title="Whitsunday Airport" 
+      href="/wiki/Whitsunday_Airport">Whitsunday Airport</A></TD>
+    <TD><A title="Airlie Beach" class="mw-redirect" 
+      href="/wiki/Airlie_Beach">Airlie Beach</A>, <A title="Australia" href="/wiki/Australia">Australia</A></TD></TR>
+  <TR>
+    <TD>WSX</TD>
+    <TD></TD>
+    <TD><A title="Westsound/WSX Seaplane Base" href="/wiki/Westsound/WSX_Seaplane_Base">Westsound/WSX 
+      Seaplane Base</A> (FAA: WA83)</TD>
+    <TD><A title="Westsound, Washington" class="mw-redirect" href="/wiki/Westsound,_Washington">Westsound</A>, 
+      <A title="Orcas Island" href="/wiki/Orcas_Island">Orcas Island</A>, <A 
+      title="Washington (U.S. state)" class="mw-redirect" href="/wiki/Washington_(U.S._state)">Washington</A>, 
+      <A title="United States" href="/wiki/United_States">United 
+States</A></TD></TR>
+  <TR>
+    <TD>WSZ</TD>
+    <TD>NZWS</TD>
+    <TD><A title="Westport Airport (New Zealand)" href="/wiki/Westport_Airport_(New_Zealand)">Westport 
+      Airport</A></TD>
+    <TD><A title="Westport, New Zealand" 
+      href="/wiki/Westport,_New_Zealand">Westport</A>, <A title="New Zealand" 
+      href="/wiki/New_Zealand">New Zealand</A></TD></TR>
+  <TR class="sortbottom">
+    <TH style="background: rgb(221, 221, 221); text-align: left;" 
+      colspan="4"><CITE id="WT"></CITE>-WT-</TH></TR>
+  <TR>
+    <TD>WTA</TD>
+    <TD>FMMU</TD>
+    <TD><A title="Tambohorano Airport" 
+      href="/wiki/Tambohorano_Airport">Tambohorano Airport</A></TD>
+    <TD><A title="Tambohorano" href="/wiki/Tambohorano">Tambohorano</A>, <A 
+      title="Madagascar" href="/wiki/Madagascar">Madagascar</A></TD></TR>
+  <TR>
+    <TD>WTD</TD>
+    <TD>MYGW</TD>
+    <TD><A title="West End Airport" href="/wiki/West_End_Airport">West End 
+      Airport</A></TD>
+    <TD><A title="Grand Bahama" href="/wiki/Grand_Bahama">Grand Bahama</A>, <A 
+      title="Bahamas" class="mw-redirect" href="/wiki/Bahamas">Bahamas</A></TD></TR>
+  <TR>
+    <TD>WTE</TD>
+    <TD></TD>
+    <TD><A title="Wotje Airport" href="/wiki/Wotje_Airport">Wotje Airport</A> 
+      (FAA: N36)</TD>
+    <TD><A title="Wotje" class="mw-redirect" href="/wiki/Wotje">Wotje</A> 
+      (Wotje Atoll), <A title="Marshall Islands" 
+      href="/wiki/Marshall_Islands">Marshall Islands</A></TD></TR>
+  <TR>
+    <TD>WTK</TD>
+    <TD>PAWN</TD>
+    <TD><A title="Noatak Airport" href="/wiki/Noatak_Airport">Noatak 
+      Airport</A></TD>
+    <TD><A title="Noatak, Alaska" href="/wiki/Noatak,_Alaska">Noatak, 
+      Alaska</A>, <A title="United States" href="/wiki/United_States">United 
+      States</A></TD></TR>
+  <TR>
+    <TD>WTL</TD>
+    <TD></TD>
+    <TD><A title="Tuntutuliak Airport" 
+      href="/wiki/Tuntutuliak_Airport">Tuntutuliak Airport</A> (FAA: A61)</TD>
+    <TD><A title="Tuntutuliak, Alaska" 
+      href="/wiki/Tuntutuliak,_Alaska">Tuntutuliak, Alaska</A>, <A title="United States" 
+      href="/wiki/United_States">United States</A></TD></TR>
+  <TR>
+    <TD>WTO</TD>
+    <TD></TD>
+    <TD><A title="Wotho Airport" href="/wiki/Wotho_Airport">Wotho 
+    Airport</A></TD>
+    <TD><A title="Wotho" class="mw-redirect" href="/wiki/Wotho">Wotho</A>, <A 
+      title="Marshall Islands" href="/wiki/Marshall_Islands">Marshall 
+    Islands</A></TD></TR>
+  <TR>
+    <TD>WTR</TD>
+    <TD></TD>
+    <TD><A title="Whiteriver Airport" 
+      href="/wiki/Whiteriver_Airport">Whiteriver Airport</A> (FAA: E24)</TD>
+    <TD><A title="Whiteriver, Arizona" 
+      href="/wiki/Whiteriver,_Arizona">Whiteriver, Arizona</A>, <A title="United States" 
+      href="/wiki/United_States">United States</A></TD></TR>
+  <TR>
+    <TD>WTS</TD>
+    <TD>FMMK</TD>
+    <TD><A title="Tsiroanomandidy Airport" href="/wiki/Tsiroanomandidy_Airport">Tsiroanomandidy 
+      Airport</A></TD>
+    <TD><A title="Tsiroanomandidy" 
+      href="/wiki/Tsiroanomandidy">Tsiroanomandidy</A>, <A title="Madagascar" 
+      href="/wiki/Madagascar">Madagascar</A></TD></TR>
+  <TR class="sortbottom">
+    <TH style="background: rgb(221, 221, 221); text-align: left;" 
+      colspan="4"><CITE id="WU"></CITE>-WU-</TH></TR>
+  <TR>
+    <TD>WUA</TD>
+    <TD>ZBUH</TD>
+    <TD><A title="Wuhai Airport" href="/wiki/Wuhai_Airport">Wuhai 
+    Airport</A></TD>
+    <TD><A title="Wuhai" href="/wiki/Wuhai">Wuhai</A>, <A title="Inner Mongolia" 
+      href="/wiki/Inner_Mongolia">Inner Mongolia</A>, <A title="China" href="/wiki/China">China</A></TD></TR>
+  <TR>
+    <TD>WUH</TD>
+    <TD>ZHHH</TD>
+    <TD><A title="Wuhan Tianhe International Airport" href="/wiki/Wuhan_Tianhe_International_Airport">Wuhan 
+      Tianhe International Airport</A></TD>
+    <TD><A title="Wuhan" href="/wiki/Wuhan">Wuhan</A>, <A title="Hubei" href="/wiki/Hubei">Hubei</A>, 
+      <A title="China" href="/wiki/China">China</A></TD></TR>
+  <TR>
+    <TD>WUI</TD>
+    <TD></TD>
+    <TD><A title="Murrin Murrin Airport" 
+      href="/wiki/Murrin_Murrin_Airport">Murrin Murrin Airport</A></TD>
+    <TD><A title="Murrin Murrin Joint Venture" href="/wiki/Murrin_Murrin_Joint_Venture">Murrin 
+      Murrin Joint Venture</A>, <A title="Western Australia" href="/wiki/Western_Australia">Western 
+      Australia</A>, <A title="Australia" 
+  href="/wiki/Australia">Australia</A></TD></TR>
+  <TR>
+    <TD>WUU</TD>
+    <TD>HSWW</TD>
+    <TD><A title="Wau Airport" href="/wiki/Wau_Airport">Wau Airport</A></TD>
+    <TD><A title="Wau, Sudan" class="mw-redirect" 
+      href="/wiki/Wau,_Sudan">Wau</A>, <A title="Sudan" 
+      href="/wiki/Sudan">Sudan</A></TD></TR>
+  <TR>
+    <TD>WUX</TD>
+    <TD>ZSWX</TD>
+    <TD><A title="Sunan Shuofang International Airport" href="/wiki/Sunan_Shuofang_International_Airport">Sunan 
+      Shuofang International Airport</A></TD>
+    <TD><A title="Wuxi" href="/wiki/Wuxi">Wuxi</A>/<A title="Suzhou" href="/wiki/Suzhou">Suzhou</A>, 
+      <A title="Jiangsu" href="/wiki/Jiangsu">Jiangsu</A>, <A title="China" 
+      href="/wiki/China">China</A></TD></TR>
+  <TR>
+    <TD>WUZ</TD>
+    <TD>ZGWZ</TD>
+    <TD><A title="Wuzhou Changzhoudao Airport" href="/wiki/Wuzhou_Changzhoudao_Airport">Wuzhou 
+      Changzhoudao Airport</A></TD>
+    <TD><A title="Wuzhou" href="/wiki/Wuzhou">Wuzhou</A>, <A title="Guangxi" 
+      href="/wiki/Guangxi">Guangxi</A>, <A title="China" 
+      href="/wiki/China">China</A></TD></TR>
+  <TR class="sortbottom">
+    <TH style="background: rgb(221, 221, 221); text-align: left;" 
+      colspan="4"><CITE id="WV"></CITE>-WV-</TH></TR>
+  <TR>
+    <TD>WVB</TD>
+    <TD>FYWB</TD>
+    <TD><A title="Walvis Bay Airport" href="/wiki/Walvis_Bay_Airport">Walvis 
+      Bay Airport</A></TD>
+    <TD><A title="Walvis Bay" href="/wiki/Walvis_Bay">Walvis Bay</A>, <A 
+      title="Namibia" href="/wiki/Namibia">Namibia</A></TD></TR>
+  <TR>
+    <TD>WVI</TD>
+    <TD>KWVI</TD>
+    <TD><A title="Watsonville Municipal Airport" href="/wiki/Watsonville_Municipal_Airport">Watsonville 
+      Municipal Airport</A></TD>
+    <TD><A title="Watsonville, California" href="/wiki/Watsonville,_California">Watsonville, 
+      California</A>, <A title="United States" href="/wiki/United_States">United 
+      States</A></TD></TR>
+  <TR>
+    <TD>WVL</TD>
+    <TD>KWVL</TD>
+    <TD><A title="Waterville Robert LaFleur Airport" href="/wiki/Waterville_Robert_LaFleur_Airport">Waterville 
+      Robert LaFleur Airport</A></TD>
+    <TD><A title="Waterville, Maine" 
+      href="/wiki/Waterville,_Maine">Waterville, Maine</A>, <A title="United States" 
+      href="/wiki/United_States">United States</A></TD></TR>
+  <TR>
+    <TD>WVN</TD>
+    <TD>EDWI</TD>
+    <TD><A title="JadeWeser Airport (page does not exist)" class="new" href="/w/index.php?title=JadeWeser_Airport&amp;action=edit&amp;redlink=1">JadeWeser 
+      Airport</A></TD>
+    <TD><A title="Wilhelmshaven" href="/wiki/Wilhelmshaven">Wilhelmshaven</A>, 
+      <A title="Lower Saxony" href="/wiki/Lower_Saxony">Lower Saxony</A>, <A 
+      title="Germany" href="/wiki/Germany">Germany</A></TD></TR>
+  <TR class="sortbottom">
+    <TH style="background: rgb(221, 221, 221); text-align: left;" 
+      colspan="4"><CITE id="WW"></CITE>-WW-</TH></TR>
+  <TR>
+    <TD>WWA</TD>
+    <TD>PAWS</TD>
+    <TD><A title="Wasilla Airport" href="/wiki/Wasilla_Airport">Wasilla 
+      Airport</A> (FAA: IYS)</TD>
+    <TD><A title="Wasilla, Alaska" href="/wiki/Wasilla,_Alaska">Wasilla, 
+      Alaska</A>, <A title="United States" href="/wiki/United_States">United 
+      States</A></TD></TR>
+  <TR>
+    <TD>WWD</TD>
+    <TD>KWWD</TD>
+    <TD><A title="Cape May Airport" href="/wiki/Cape_May_Airport">Cape May 
+      Airport</A></TD>
+    <TD><A title="Wildwood, New Jersey" 
+      href="/wiki/Wildwood,_New_Jersey">Wildwood, New Jersey</A>, <A title="United States" 
+      href="/wiki/United_States">United States</A></TD></TR>
+  <TR>
+    <TD>WWP</TD>
+    <TD></TD>
+    <TD><A title="North Whale Seaplane Base" href="/wiki/North_Whale_Seaplane_Base">North 
+      Whale Seaplane Base</A> (FAA: 96Z)</TD>
+    <TD><A title="North Whale Pass, Alaska" class="mw-redirect" href="/wiki/North_Whale_Pass,_Alaska">North 
+      Whale Pass, Alaska</A>, <A title="United States" href="/wiki/United_States">United 
+      States</A></TD></TR>
+  <TR>
+    <TD>WWR</TD>
+    <TD>KWWR</TD>
+    <TD><A title="West Woodward Airport" 
+      href="/wiki/West_Woodward_Airport">West Woodward Airport</A></TD>
+    <TD><A title="Woodward, Oklahoma" 
+      href="/wiki/Woodward,_Oklahoma">Woodward, Oklahoma</A>, <A title="United States" 
+      href="/wiki/United_States">United States</A></TD></TR>
+  <TR>
+    <TD>WWT</TD>
+    <TD>PAEW</TD>
+    <TD><A title="Newtok Airport" href="/wiki/Newtok_Airport">Newtok 
+      Airport</A> (FAA: EWU)</TD>
+    <TD><A title="Newtok, Alaska" href="/wiki/Newtok,_Alaska">Newtok, 
+      Alaska</A>, <A title="United States" href="/wiki/United_States">United 
+      States</A></TD></TR>
+  <TR>
+    <TD>WWY</TD>
+    <TD>YWWL</TD>
+    <TD><A title="West Wyalong Airport" href="/wiki/West_Wyalong_Airport">West 
+      Wyalong Airport</A></TD>
+    <TD><A title="West Wyalong" href="/wiki/West_Wyalong">West Wyalong</A>, <A 
+      title="New South Wales" href="/wiki/New_South_Wales">New South Wales</A>, 
+      <A title="Australia" href="/wiki/Australia">Australia</A></TD></TR>
+  <TR class="sortbottom">
+    <TH style="background: rgb(221, 221, 221); text-align: left;" 
+      colspan="4"><CITE id="WX"></CITE>-WX-</TH></TR>
+  <TR>
+    <TD>WXF</TD>
+    <TD>EGVT</TD>
+    <TD><A title="MDPGA Wethersfield" href="/wiki/MDPGA_Wethersfield">MDPGA 
+      Wethersfield</A></TD>
+    <TD><A title="Braintree, Essex" 
+      href="/wiki/Braintree,_Essex">Braintree</A>, <A title="England" href="/wiki/England">England</A>, 
+      <A title="United Kingdom" href="/wiki/United_Kingdom">United 
+  Kingdom</A></TD></TR>
+  <TR>
+    <TD>WXN</TD>
+    <TD>ZUWX</TD>
+    <TD><A title="Wanzhou Wuqiao Airport" 
+      href="/wiki/Wanzhou_Wuqiao_Airport">Wanzhou Wuqiao Airport</A></TD>
+    <TD><A title="Wanzhou" class="mw-redirect" 
+      href="/wiki/Wanzhou">Wanzhou</A>, <A title="Chongqing" href="/wiki/Chongqing">Chongqing</A>, 
+      <A title="China" href="/wiki/China">China</A></TD></TR>
+  <TR class="sortbottom">
+    <TH style="background: rgb(221, 221, 221); text-align: left;" 
+      colspan="4"><CITE id="WY"></CITE>-WY-</TH></TR>
+  <TR>
+    <TD>WYB</TD>
+    <TD></TD>
+    <TD><A title="Yes Bay Lodge Seaplane Base (page does not exist)" class="new" 
+      href="/w/index.php?title=Yes_Bay_Lodge_Seaplane_Base&amp;action=edit&amp;redlink=1">Yes 
+      Bay Lodge Seaplane Base</A> (FAA: 78K)</TD>
+    <TD><A title="Yes Bay (page does not exist)" class="new" href="/w/index.php?title=Yes_Bay&amp;action=edit&amp;redlink=1">Yes 
+      Bay</A>, <A title="Alaska" href="/wiki/Alaska">Alaska</A>, <A title="United States" 
+      href="/wiki/United_States">United States</A></TD></TR>
+  <TR>
+    <TD>WYE</TD>
+    <TD>GFYE</TD>
+    <TD><A title="Yengema Airport" href="/wiki/Yengema_Airport">Yengema 
+      Airport</A></TD>
+    <TD><A title="Yengema" href="/wiki/Yengema">Yengema</A>, <A title="Kono District" 
+      href="/wiki/Kono_District">Kono District</A>, <A title="Sierra Leone" 
+      href="/wiki/Sierra_Leone">Sierra Leone</A></TD></TR>
+  <TR>
+    <TD>WYS</TD>
+    <TD>KWYS</TD>
+    <TD><A title="Yellowstone Airport" 
+      href="/wiki/Yellowstone_Airport">Yellowstone Airport</A></TD>
+    <TD><A title="West Yellowstone, Montana" href="/wiki/West_Yellowstone,_Montana">West 
+      Yellowstone, Montana</A>, <A title="United States" href="/wiki/United_States">United 
+      States</A></TD></TR></TBODY></TABLE>
+<H2><SPAN class="mw-headline" id="References">References</SPAN><SPAN class="mw-editsection"><SPAN 
+class="mw-editsection-bracket">[</SPAN><A title="Edit section: References" href="/w/index.php?title=List_of_airports_by_IATA_code:_W&amp;action=edit&amp;section=2">edit</A><SPAN 
+class="mw-editsection-bracket">]</SPAN></SPAN></H2>
+<UL>
+  <LI><SPAN class="citation web"><A class="external text" href="http://www.unece.org/cefact/locode/welcome.html" 
+  rel="nofollow">"United Nations Code for Trade and Transport Locations"</A>. 
+  <I><A title="UN/LOCODE" href="/wiki/UN/LOCODE">UN/LOCODE</A> 2011-2</I>. <A 
+  title="United Nations Economic Commission for Europe" href="/wiki/United_Nations_Economic_Commission_for_Europe">UNECE</A>. 
+  28 February 2012.</SPAN><SPAN title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+airports+by+IATA+code%3A+W&amp;rft.atitle=United+Nations+Code+for+Trade+and+Transport+Locations&amp;rft.date=28+February+2012&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.unece.org%2Fcefact%2Flocode%2Fwelcome.html&amp;rft.jtitle=UN%2FLOCODE+2011-2&amp;rft.pub=UNECE&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" 
+  class="Z3988"><SPAN style="display: none;">&nbsp;</SPAN></SPAN> - includes 
+  IATA codes</LI>
+  <LI><SPAN class="citation web"><A class="external text" href="http://www.icao.int/safety/ism/Accident%20Incident%20Reporting%20Guidance/LocationIndicatorsByState.pdf" 
+  rel="nofollow">"ICAO Location Indicators by State"</A> (<A title="PDF" class="mw-redirect" 
+  href="/wiki/PDF">PDF</A>). <A title="International Civil Aviation Organization" 
+  href="/wiki/International_Civil_Aviation_Organization">International Civil 
+  Aviation Organization</A>. 17 September 2010.</SPAN><SPAN title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+airports+by+IATA+code%3A+W&amp;rft.btitle=ICAO+Location+Indicators+by+State&amp;rft.date=17+September+2010&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.icao.int%2Fsafety%2Fism%2FAccident%2520Incident%2520Reporting%2520Guidance%2FLocationIndicatorsByState.pdf&amp;rft.pub=International+Civil+Aviation+Organization&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" 
+  class="Z3988"><SPAN style="display: none;">&nbsp;</SPAN></SPAN></LI>
+  <LI><A class="external text" href="http://aviation-safety.net/" 
+  rel="nofollow">Aviation Safety Network</A> - IATA and ICAO airport codes</LI>
+  <LI><A class="external text" href="http://gcmap.com/" rel="nofollow">Great 
+  Circle Mapper</A> - IATA, ICAO and FAA airport codes</LI></UL><!-- 
+NewPP limit report
+Parsed by mw1028
+CPU time usage: 0.380 seconds
+Real time usage: 0.427 seconds
+Preprocessor visited node count: 264/1000000
+Preprocessor generated node count: 1990/1500000
+Post‐expand include size: 4703/2048000 bytes
+Template argument size: 52/2048000 bytes
+Highest expansion depth: 5/40
+Expensive parser function count: 0/500
+Lua time usage: 0.018/10.000 seconds
+Lua memory usage: 1.07 MB/50 MB
+--> <!-- Saved in parser cache with key enwiki:pcache:idhash:317148-0!*!0!!*!*!* and timestamp 20140924081239 and revision id 612332526
+ --> 
+<NOSCRIPT>&lt;img 
+src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" 
+title="" width="1" height="1" style="border: none; position: absolute;" 
+/&gt;</NOSCRIPT></DIV>
+<DIV class="printfooter">						Retrieved from "<A dir="ltr" href="http://en.wikipedia.org/w/index.php?title=List_of_airports_by_IATA_code:_W&amp;oldid=612332526">http://en.wikipedia.org/w/index.php?title=List_of_airports_by_IATA_code:_W&amp;oldid=612332526</A>"					</DIV>
+<DIV class="catlinks" id="catlinks">
+<DIV class="mw-normal-catlinks" id="mw-normal-catlinks"><A title="Help:Category" 
+href="/wiki/Help:Category">Categories</A>: 
+<UL>
+  <LI><A title="Category:Lists of airports by IATA code" href="/wiki/Category:Lists_of_airports_by_IATA_code">Lists 
+  of airports by IATA code</A></LI></UL></DIV></DIV>
+<DIV class="visualClear"></DIV></DIV></DIV>
+<DIV id="mw-navigation">
+<H2>Navigation menu</H2>
+<DIV id="mw-head">
+<DIV id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+<H3 id="p-personal-label">Personal tools</H3>
+<UL>
+  <LI id="pt-createaccount"><A href="/w/index.php?title=Special:UserLogin&amp;returnto=List+of+airports+by+IATA+code%3A+W&amp;type=signup">Create 
+  account</A></LI>
+  <LI id="pt-login"><A title="You're encouraged to log in; however, it's not mandatory. [o]" 
+  accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=List+of+airports+by+IATA+code%3A+W">Log 
+  in</A></LI></UL></DIV>
+<DIV id="left-navigation">
+<DIV class="vectorTabs" id="p-namespaces" role="navigation" aria-labelledby="p-namespaces-label">
+<H3 id="p-namespaces-label">Namespaces</H3>
+<UL>
+  <LI class="selected" id="ca-nstab-main"><SPAN><A title="View the content page [c]" 
+  accesskey="c" 
+  href="/wiki/List_of_airports_by_IATA_code:_W">Article</A></SPAN></LI>
+  <LI id="ca-talk"><SPAN><A title="Discussion about the content page [t]" 
+  accesskey="t" 
+  href="/wiki/Talk:List_of_airports_by_IATA_code:_W">Talk</A></SPAN></LI></UL></DIV>
+<DIV class="vectorMenu emptyPortlet" id="p-variants" role="navigation" 
+aria-labelledby="p-variants-label">
+<H3 id="p-variants-label"><SPAN>Variants</SPAN><A href="#"></A></H3>
+<DIV class="menu">
+<UL></UL></DIV></DIV></DIV>				 
+<DIV id="right-navigation">
+<DIV class="vectorTabs" id="p-views" role="navigation" aria-labelledby="p-views-label">
+<H3 id="p-views-label">Views</H3>
+<UL>
+  <LI class="selected" id="ca-view"><SPAN><A href="/wiki/List_of_airports_by_IATA_code:_W">Read</A></SPAN></LI>
+  <LI id="ca-edit"><SPAN><A title="You can edit this page. Please use the preview button before saving [e]" 
+  accesskey="e" href="/w/index.php?title=List_of_airports_by_IATA_code:_W&amp;action=edit">Edit</A></SPAN></LI>
+  <LI class="collapsible" id="ca-history"><SPAN><A title="Past versions of this page [h]" 
+  accesskey="h" href="/w/index.php?title=List_of_airports_by_IATA_code:_W&amp;action=history">View 
+  history</A></SPAN></LI></UL></DIV>
+<DIV class="vectorMenu emptyPortlet" id="p-cactions" role="navigation" 
+aria-labelledby="p-cactions-label">
+<H3 id="p-cactions-label"><SPAN>More</SPAN><A href="#"></A></H3>
+<DIV class="menu">
+<UL></UL></DIV></DIV>
+<DIV id="p-search" role="search">
+<H3><LABEL for="searchInput">Search</LABEL>						 </H3>
+<FORM id="searchform" action="/w/index.php">
+<DIV id="simpleSearch"><INPUT name="search" title="Search Wikipedia [f]" id="searchInput" accesskey="f" type="search" placeholder="Search"><INPUT name="title" type="hidden" value="Special:Search"><INPUT name="fulltext" title="Search Wikipedia for this text" class="searchButton mw-fallbackSearchButton" id="mw-searchButton" type="submit" value="Search"><INPUT name="go" title="Go to a page with this exact name if one exists" class="searchButton" id="searchButton" type="submit" value="Go">								</DIV></FORM></DIV></DIV></DIV>
+<DIV id="mw-panel">
+<DIV id="p-logo" role="banner"><A title="Visit the main page" style='background-image: url("//upload.wikimedia.org/wikipedia/en/b/bc/Wiki.png");' 
+href="/wiki/Main_Page"></A></DIV>
+<DIV class="portal" id="p-navigation" role="navigation" aria-labelledby="p-navigation-label">
+<H3 id="p-navigation-label">Navigation</H3>
+<DIV class="body">
+<UL>
+  <LI id="n-mainpage-description"><A title="Visit the main page [z]" accesskey="z" 
+  href="/wiki/Main_Page">Main page</A></LI>
+  <LI id="n-contents"><A title="Guides to browsing Wikipedia" href="/wiki/Portal:Contents">Contents</A></LI>
+  <LI id="n-featuredcontent"><A title="Featured content – the best of Wikipedia" 
+  href="/wiki/Portal:Featured_content">Featured content</A></LI>
+  <LI id="n-currentevents"><A title="Find background information on current events" 
+  href="/wiki/Portal:Current_events">Current events</A></LI>
+  <LI id="n-randompage"><A title="Load a random article [x]" accesskey="x" href="/wiki/Special:Random">Random 
+  article</A></LI>
+  <LI id="n-sitesupport"><A title="Support us" href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en">Donate 
+  to Wikipedia</A></LI>
+  <LI id="n-shoplink"><A title="Visit the Wikimedia Shop" href="//shop.wikimedia.org">Wikimedia 
+  Shop</A></LI></UL></DIV></DIV>
+<DIV class="portal" id="p-interaction" role="navigation" aria-labelledby="p-interaction-label">
+<H3 id="p-interaction-label">Interaction</H3>
+<DIV class="body">
+<UL>
+  <LI id="n-help"><A title="Guidance on how to use and edit Wikipedia" href="/wiki/Help:Contents">Help</A></LI>
+  <LI id="n-aboutsite"><A title="Find out about Wikipedia" href="/wiki/Wikipedia:About">About 
+  Wikipedia</A></LI>
+  <LI id="n-portal"><A title="About the project, what you can do, where to find things" 
+  href="/wiki/Wikipedia:Community_portal">Community portal</A></LI>
+  <LI id="n-recentchanges"><A title="A list of recent changes in the wiki [r]" 
+  accesskey="r" href="/wiki/Special:RecentChanges">Recent changes</A></LI>
+  <LI id="n-contactpage"><A 
+  href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact 
+page</A></LI></UL></DIV></DIV>
+<DIV class="portal" id="p-tb" role="navigation" aria-labelledby="p-tb-label">
+<H3 id="p-tb-label">Tools</H3>
+<DIV class="body">
+<UL>
+  <LI id="t-whatlinkshere"><A title="List of all English Wikipedia pages containing links to this page [j]" 
+  accesskey="j" href="/wiki/Special:WhatLinksHere/List_of_airports_by_IATA_code:_W">What 
+  links here</A></LI>
+  <LI id="t-recentchangeslinked"><A title="Recent changes in pages linked from this page [k]" 
+  accesskey="k" href="/wiki/Special:RecentChangesLinked/List_of_airports_by_IATA_code:_W">Related 
+  changes</A></LI>
+  <LI id="t-upload"><A title="Upload files [u]" accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard">Upload 
+  file</A></LI>
+  <LI id="t-specialpages"><A title="A list of all special pages [q]" accesskey="q" 
+  href="/wiki/Special:SpecialPages">Special pages</A></LI>
+  <LI id="t-permalink"><A title="Permanent link to this revision of the page" 
+  href="/w/index.php?title=List_of_airports_by_IATA_code:_W&amp;oldid=612332526">Permanent 
+  link</A></LI>
+  <LI id="t-info"><A href="/w/index.php?title=List_of_airports_by_IATA_code:_W&amp;action=info">Page 
+  information</A></LI>
+  <LI id="t-wikibase"><A title="Link to connected data repository item [g]" 
+  accesskey="g" href="//www.wikidata.org/wiki/Q659816">Wikidata item</A></LI>
+  <LI id="t-cite"><A title="Information on how to cite this page" href="/w/index.php?title=Special:Cite&amp;page=List_of_airports_by_IATA_code%3A_W&amp;id=612332526">Cite 
+  this page</A></LI></UL></DIV></DIV>
+<DIV class="portal" id="p-coll-print_export" role="navigation" aria-labelledby="p-coll-print_export-label">
+<H3 id="p-coll-print_export-label">Print/export</H3>
+<DIV class="body">
+<UL>
+  <LI id="coll-create_a_book"><A href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=List+of+airports+by+IATA+code%3A+W">Create 
+  a book</A></LI>
+  <LI id="coll-download-as-rdf2latex"><A href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=List+of+airports+by+IATA+code%3A+W&amp;oldid=612332526&amp;writer=rdf2latex">Download 
+  as PDF</A></LI>
+  <LI id="t-print"><A title="Printable version of this page [p]" accesskey="p" 
+  href="/w/index.php?title=List_of_airports_by_IATA_code:_W&amp;printable=yes">Printable 
+  version</A></LI></UL></DIV></DIV>
+<DIV class="portal" id="p-lang" role="navigation" 
+aria-labelledby="p-lang-label">
+<H3 id="p-lang-label">Languages</H3>
+<DIV class="body">
+<UL>
+  <LI class="interlanguage-link interwiki-de"><A title="Liste der IATA-Codes/W – German" 
+  lang="de" href="//de.wikipedia.org/wiki/Liste_der_IATA-Codes/W" 
+  hreflang="de">Deutsch</A></LI>
+  <LI class="interlanguage-link interwiki-fa"><A title="فهرست فرودگاه‌ها بر پایه کد یاتا: W – Persian" 
+  lang="fa" href="//fa.wikipedia.org/wiki/%D9%81%D9%87%D8%B1%D8%B3%D8%AA_%D9%81%D8%B1%D9%88%D8%AF%DA%AF%D8%A7%D9%87%E2%80%8C%D9%87%D8%A7_%D8%A8%D8%B1_%D9%BE%D8%A7%DB%8C%D9%87_%DA%A9%D8%AF_%DB%8C%D8%A7%D8%AA%D8%A7:_W" 
+  hreflang="fa">فارسی</A></LI>
+  <LI class="interlanguage-link interwiki-fr"><A title="Liste des codes AITA des aéroports/W – French" 
+  lang="fr" href="//fr.wikipedia.org/wiki/Liste_des_codes_AITA_des_a%C3%A9roports/W" 
+  hreflang="fr">Français</A></LI>
+  <LI class="interlanguage-link interwiki-hi"><A title="विमानक्षेत्रों की सूची IATA कोड अनुसार: W – Hindi" 
+  lang="hi" href="//hi.wikipedia.org/wiki/%E0%A4%B5%E0%A4%BF%E0%A4%AE%E0%A4%BE%E0%A4%A8%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A5%87%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A5%8B%E0%A4%82_%E0%A4%95%E0%A5%80_%E0%A4%B8%E0%A5%82%E0%A4%9A%E0%A5%80_IATA_%E0%A4%95%E0%A5%8B%E0%A4%A1_%E0%A4%85%E0%A4%A8%E0%A5%81%E0%A4%B8%E0%A4%BE%E0%A4%B0:_W" 
+  hreflang="hi">हिन्दी</A></LI>
+  <LI class="interlanguage-link interwiki-hr"><A title="Dodatak:Popis zračnih luka po IATA kodu: W – Croatian" 
+  lang="hr" href="//hr.wikipedia.org/wiki/Dodatak:Popis_zra%C4%8Dnih_luka_po_IATA_kodu:_W" 
+  hreflang="hr">Hrvatski</A></LI>
+  <LI class="interlanguage-link interwiki-it"><A title="Codici aeroportuali IATA - W – Italian" 
+  lang="it" href="//it.wikipedia.org/wiki/Codici_aeroportuali_IATA_-_W" 
+  hreflang="it">Italiano</A></LI>
+  <LI class="interlanguage-link interwiki-lb"><A title="IATA FluchhafenIndex-W – Luxembourgish" 
+  lang="lb" href="//lb.wikipedia.org/wiki/IATA_FluchhafenIndex-W" 
+  hreflang="lb">Lëtzebuergesch</A></LI>
+  <LI class="interlanguage-link interwiki-nl"><A title="Vliegvelden gesorteerd naar IATA-code W – Dutch" 
+  lang="nl" href="//nl.wikipedia.org/wiki/Vliegvelden_gesorteerd_naar_IATA-code_W" 
+  hreflang="nl">Nederlands</A></LI>
+  <LI class="interlanguage-link interwiki-ja"><A title="IATA空港コードの一覧/W – Japanese" 
+  lang="ja" href="//ja.wikipedia.org/wiki/IATA%E7%A9%BA%E6%B8%AF%E3%82%B3%E3%83%BC%E3%83%89%E3%81%AE%E4%B8%80%E8%A6%A7/W" 
+  hreflang="ja">日本語</A></LI>
+  <LI class="interlanguage-link interwiki-no"><A title="Liste over flyplasser etter IATA-kode/W – Norwegian (bokmål)" 
+  lang="no" href="//no.wikipedia.org/wiki/Liste_over_flyplasser_etter_IATA-kode/W" 
+  hreflang="no">Norsk bokmål</A></LI>
+  <LI class="interlanguage-link interwiki-pl"><A title="Porty lotnicze świata: W – Polish" 
+  lang="pl" href="//pl.wikipedia.org/wiki/Porty_lotnicze_%C5%9Bwiata:_W" 
+  hreflang="pl">Polski</A></LI>
+  <LI class="interlanguage-link interwiki-zh"><A title="国际航空运输协会机场代码 (W) – Chinese" 
+  lang="zh" href="//zh.wikipedia.org/wiki/%E5%9B%BD%E9%99%85%E8%88%AA%E7%A9%BA%E8%BF%90%E8%BE%93%E5%8D%8F%E4%BC%9A%E6%9C%BA%E5%9C%BA%E4%BB%A3%E7%A0%81_(W)" 
+  hreflang="zh">中文</A></LI>
+  <LI class="uls-p-lang-dummy"><A href="#"></A></LI></UL>
+<DIV class="after-portlet after-portlet-lang"><SPAN class="wb-langlinks-edit wb-langlinks-link"><A 
+title="Edit interlanguage links" class="wbc-editpage" href="//www.wikidata.org/wiki/Q659816#sitelinks-wikipedia" 
+text="Edit links" action="edit">Edit 
+links</A></SPAN></DIV></DIV></DIV></DIV></DIV>
+<DIV id="footer" role="contentinfo">
+<UL id="footer-info">
+  <LI id="footer-info-lastmod"> This page was last modified on 10 June 2014 at 
+  09:27.<BR></LI>
+  <LI id="footer-info-copyright">Text is available under the <A href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" 
+  rel="license">Creative Commons Attribution-ShareAlike License</A><A style="display: none;" 
+  href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"></A>;
+   additional terms may apply.  By using this site, you agree to the <A href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms 
+  of Use</A> and <A href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy 
+  Policy</A>. Wikipedia® is a registered trademark of the <A href="//www.wikimediafoundation.org/">Wikimedia 
+  Foundation, Inc.</A>, a non-profit organization.</LI></UL>
+<UL id="footer-places">
+  <LI id="footer-places-privacy"><A title="wikimedia:Privacy policy" href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy 
+  policy</A></LI>
+  <LI id="footer-places-about"><A title="Wikipedia:About" href="/wiki/Wikipedia:About">About 
+  Wikipedia</A></LI>
+  <LI id="footer-places-disclaimer"><A title="Wikipedia:General disclaimer" 
+  href="/wiki/Wikipedia:General_disclaimer">Disclaimers</A></LI>
+  <LI id="footer-places-contact"><A href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact 
+  Wikipedia</A></LI>
+  <LI id="footer-places-developers"><A href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</A></LI>
+  <LI id="footer-places-mobileview"><A class="noprint stopMobileRedirectToggle" 
+  href="//en.m.wikipedia.org/w/index.php?title=List_of_airports_by_IATA_code:_W&amp;mobileaction=toggle_view_mobile">Mobile 
+  view</A></LI></UL>
+<UL class="noprint" id="footer-icons">
+  <LI id="footer-copyrightico"><A href="//wikimediafoundation.org/"><IMG width="88" 
+  height="31" alt="Wikimedia Foundation" src="//bits.wikimedia.org/images/wikimedia-button.png"></A>
+  													 </LI>
+  <LI id="footer-poweredbyico"><A href="//www.mediawiki.org/"><IMG width="88" 
+  height="31" alt="Powered by MediaWiki" src="//bits.wikimedia.org/static-1.25wmf1/resources/assets/poweredby_mediawiki_88x31.png"></A>
+  													 </LI></UL>
+<DIV style="clear: both;"></DIV></DIV>
+<SCRIPT>/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/</SCRIPT>
+
+<SCRIPT>if(window.mw){
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","site":"loading","user":"ready","user.groups":"ready"});
+}</SCRIPT>
+ 
+<SCRIPT>if(window.mw){
+mw.loader.load(["mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.featured-articles-links","ext.eventLogging.subscriber","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"],null,true);
+}</SCRIPT>
+ 
+<SCRIPT>if(window.mw){
+document.write("\u003Cscript src=\"//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false\u0026amp;lang=en\u0026amp;modules=site\u0026amp;only=scripts\u0026amp;skin=vector\u0026amp;*\"\u003E\u003C/script\u003E");
+}</SCRIPT>
+ 
+<SCRIPT>if(window.mw){
+mw.config.set({"wgBackendResponseTime":222,"wgHostname":"mw1181"});
+}</SCRIPT>
+		 </BODY></HTML>
